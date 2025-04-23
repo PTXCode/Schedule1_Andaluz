@@ -3,24 +3,64 @@ TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe 
 
 ## MENU PRINCIPAL ##
 
-SCHEDULE I=SCHEDULE I | MOD ANDALUZ - MrPotrex
-
 Invite Friends=Invitah amigoh
-
+r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
 
 Continue=Continuah
 New Game=Nuevo juego
 
 Settings=Configuracioneh
+Apply Settings=Aplicah Configuración
+Revert=Revertih
+Keep settings?=¿Confirmah configuración?
+
+
+
 Graphics=Gráficoh
+Target Framerate=Taza de Fotogramah
+Resolution=Resolución
+Interface Scale=Escala de Interfaz
+VSync=VSync
+Camera Bobbing=Movimiento de Cámara
+Display Mode=Modo de Visualización
+Fullscreen Window=Pantalla Completa
+Display=Ventana
+Ultra=Ultra
+Active Display=Pantalla Activa
+r:Monitor (\d+)=Monitor $1
+SMAA=SMAA
+FOV=FOV
+Anti-aliasing=zuavizaoh de Bordeh
+God Rays=Rayoh de Luh
+SSAO=SSAO
+Quality=Calidah
+High=Arto
+Medium=Medio
+Low=Bajo
+Very Low=Muh Bajo
+Option A=Ohción A
+FXAA=FXAA
+Off=Apagaoh
+
+
 
 Controls=Controleh
 Sprint Mode=Modo de correh
 Invert Y Axis=<size\=13>Invertih el eje Y</size>
+Mouse Sensitivity=<size\=12>Sensibilidad del ratón</size>
 
 Credits=Agradecimientoh
-
-
+Tylah Cannell=Tylah Cannell
+Voice Actors=Actores de Voz
+Soundtrack by=Banda sonora por
+Will Jackson=Will Jackson
+Graffiti by=Graffiti por
+Cody To=Cody To
+Created by =Creado por
+Debbie Cannell=Debbie Cannell
+Adam Walton=Adam Walton
+Zac Williams=Zac Williams
+KAESUL=KAESUL
 
 TVGS=TVGS
 Prologue=Prólogo
@@ -28,7 +68,7 @@ Quit=Zalih
 Back= Vorveh
 Leave=Abandonah
 Loading...=Cargandoh...
-
+<Loading Message>=<Menzaje de cargah>
 
 ## BOTONES ##
 
@@ -36,6 +76,9 @@ Control=CTRL
 Esc=Esc
 BETA=BETA
 Space=Ehpacio
+Pick up=Recogeh
+Tab=Tab
+Shift=Shift
 
 
 ## ACCIONES ##
@@ -43,12 +86,14 @@ Space=Ehpacio
 Jump=zartah
 Sprint=Correh
 Right=Derecha
+Left=Ihquierda
 Interact=Interactuah
 Press=Precionah
 Crouch=Agachah
 Backward=Retrocedeh
 Forward=Avanzah
-
+Confirm=Confirmah
+Hold=Mantener
 
 
 
@@ -81,33 +126,7 @@ r:Move the grow tents and packaging station to the new room=Mudate a la habitaci
 r:• Move the grow tents and packaging station to the new room=• Traslada las carpas de cultivo y la estación de empaquetado a la nueva habitación
 
 
-
-<Loading Message>=<Menzaje de cargah>
-Loading...=Cargando...
-
 You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo un jugador\ny podrás unirte a tus amigos cuando lo completes.
-
-Tylah Cannell=Tylah Cannell
-
-Voice Actors=Actores de Voz
-
-Soundtrack by=Banda sonora por
-
-Will Jackson=Will Jackson
-
-Graffiti by=Graffiti por
-
-Cody To=Cody To
-
-Created by =Creado por
-
-Debbie Cannell=Debbie Cannell
-
-Adam Walton=Adam Walton
-
-KAESUL=KAESUL
-
-Zac Williams=Zac Williams
 
 View Avatar=Avatah
 
@@ -115,103 +134,35 @@ Texts=Chats
 
 Journal=Diario
 
-Use/Drag/Attack=<size\=10>Usar/Arrahtrah\n/Atacah</size>
-
-Pick up=Recogeh
-
-Mouse Sensitivity=<size\=12>Sensibilidad del Mouse</size>
+Use/Drag/Attack=<size\=10>Uzah/Arrahtrah\n/Atacah</size>
 
 Audio=Audio
 
 Map=Mapa
 
-Left=Ihquierda
+r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
 
-Display=Ventana
+Music=Múzica
 
-Target Framerate=Taza de Fotogramah
-
-Resolution=Resolución
-
-Interface Scale=Escala de Interfaz
-
-VSync=VSync
-
-Camera Bobbing=Bamboleo de Cámara
-
-Display Mode=Modo de Visualización
-
-Fullscreen Window=Pantalla Completa
-
-Apply Settings=Aplicar Configuración
-
-Revert=Revertir
-
-Keep settings?=¿Confirmar configuración?
-
-Confirm=Confirmar
-
-r:Reverting in (\d+(\,\d+)?) seconds=Revertir en $1 segundos
-
-Ultra=Ultra
-
-Active Display=Pantalla Activa
-
-r:Monitor (\d+)=Monitor $1
-
-SMAA=SMAA
-
-FOV=FOV
-
-Anti-aliasing=Suavizado de Bordes
-
-God Rays=Rayos de Luz
-
-SSAO=SSAO
-
-Quality=Calidad
-
-High=Alto
-
-Medium=Medio
-
-Low=Bajo
-
-Very Low=Muy Bajo
-
-Option A=Opción A
-
-FXAA=FXAA
-
-Off=Apagado
-
-Music=Música
-
-Footsteps=Pasos
+Footsteps=Pasoh
 
 Ambience=Ambiente
 
-Master Volume=Volumen General
+Master Volume=Volumen Generah
 
-Dialogue=Diálogos
+Dialogue=Diálogoh
 
-Interface=Interfaz
+Interface=Interfah
 
-SFX=Efectos de Sonido
+SFX=Efectoh de Zonioh
 
-Hold=Mantener
-
-Tab=Tab
-
-Shift=Shift
-
-Exclusive Fullscreen=Pantalla Completa Exclusiva
+Exclusive Fullscreen=Pantalla Completa Ehclusiva
 
 Windowed=Ventana
 
 Created=Creado
 
-Net worth=Valor Neto
+Net worth=Valoh Neto
 
 Select Save Slot=Seleccionar ranura de guardado
 
@@ -3831,7 +3782,6 @@ Buy 10x baggies=Compra 10x bolsitas
 ## OTROS ##
 Open curtains=Abrir cortinas
 Close curtains=Cerrar cortinas
-r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
 Behind Gas-Mart=Detras de Gas-Mart
 ## HISTORIA ##
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Mierda, qué gusto oír tu voz, hijo. Parece que nuestra suerte por fin se acabó, los federales me tienen encerrado mientras espero el juicio. Me alegra saber que lograste escapar.
