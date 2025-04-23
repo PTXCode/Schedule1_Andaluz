@@ -1,9 +1,23 @@
-## Inicio ##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos - no lograrás crear drogas, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. \n\nTraducción por Beetar | Adaptación al Andaluz por MrPotrex - PTXCode
+## INICIO ##
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibidas.\n\nLos procesos mostrados en este juego son completamente ficticios y no reflejan la realidad. No intentes seguir estos procesos mostroh - no lograrás crear drogas, muy retrasao tienes que ser para intentarlo picha, pero podrías causarte daños graves.\n\nPor favor, no uses drogas. Espabila coño. \n\nTraducción por Beetar | Adaptación al Andaluz por MrPotrex - PTXCode
 
+## MENU PRINCIPAL ##
+Continue=Continuah
+New Game=Nuevo juego
+Settings=Configuracioneh
+Credits=Agradecimientos
+Quit=Salir
 
-##Menu Principal##
 Back= Vorveh
+
+
+
+
+## BOTONES ##
+
+Esc=Esc
+
+
 Picking Objects Up=Recogiendo ogjetoh
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Haga clic y mantenga presionado el <color\=#62BDFF>botón derecho del mouse</color> sobre un objeto para recogerlo.
 Esc=Esc
@@ -16,11 +30,9 @@ You're in room 1. It's the one closest to the motel office.=Estás en la habitac
 Oh yes very good! <color\=#54E717>$800</color> for room, yes?=¡Oh, sí, muy bien! <color\=#54E717>$800</color> por la habitación
 Thank you, very good! You can get to the room behind the restaurant, up the stairs.=¡Gracias! Puedes subir las escaleras a la habitación, está detrás del restaurante.
 It is up the stairs behind my restaurant! Go around back and you'll see.=¡Está subiendo las escaleras detrás de mi restaurante! Da la vuelta.
-Quit=Salir
 That'll be <color\=#54E717>$75</color> for the Cheap Skateboard. Sound good?=Serán <color\=#54E717>$75</color> por el Skateboard barato. ¿Te parece bien?
 No problem homie, see ya later.=No te preocupes amigo, adios.
 I'd like to buy the room=Me gustaría comprar la habitación
-Credits=Agradecimientos
 Offer a free sample to a potential customer=Ofrece una muestra gratuita a un cliente potencial
 r:Talk to Mrs. Ming at the Chinese restaurant=Habla con Mrs. Ming en el restaurante chino
 r:• Talk to Mrs. Ming at the Chinese restaurant=• Habla con Mrs. Ming en el restaurante chino
@@ -28,10 +40,9 @@ r:Purchase the room above the Chinese Restaurant=Compra la habitación del resta
 r:• Purchase the room above the Chinese Restaurant=• Compra la habitación que hay encima del restaurante chino
 r:Move the grow tents and packaging station to the new room=Mudate a la habitación encima del restaurante chino
 r:• Move the grow tents and packaging station to the new room=• Traslada las carpas de cultivo y la estación de empaquetado a la nueva habitación
-Settings=Configurasioneh
 
-New Game=Nuevo juego
-Continue=Continuah
+
+
 <Loading Message>=<Menzaje de cargah>
 Loading...=Cargando...
 
