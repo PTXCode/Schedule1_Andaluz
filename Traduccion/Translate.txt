@@ -15,7 +15,7 @@ Settings=Configuraciones
 
 New Game=Nuevo juego
 
-Continue=Continuar2
+Continue=Continuar
 
 Back=Volver
 
