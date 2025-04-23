@@ -4,7 +4,7 @@ TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe 
 
 ##Menu Principal##
 Back= Vorveh
-Picking Objects Up=Recogiendo objetos
+Picking Objects Up=Recogiendo ogjetoh
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Haga clic y mantenga presionado el <color\=#62BDFF>botón derecho del mouse</color> sobre un objeto para recogerlo.
 Esc=Esc
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto. Te avisaré cuando esté listo. Tardará $1 h.
