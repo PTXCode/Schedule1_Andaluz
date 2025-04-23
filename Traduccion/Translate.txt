@@ -26,11 +26,11 @@ r:Purchase the room above the Chinese Restaurant=Compra la habitación del resta
 r:• Purchase the room above the Chinese Restaurant=• Compra la habitación que hay encima del restaurante chino
 r:Move the grow tents and packaging station to the new room=Mudate a la habitación encima del restaurante chino
 r:• Move the grow tents and packaging station to the new room=• Traslada las carpas de cultivo y la estación de empaquetado a la nueva habitación
-Settings=Configuraciones
+Settings=Configurasioneh
 
 New Game=Nuevo juego
-Continue=Continuar
-<Loading Message>=<Mensaje de carga>
+Continue=Continuah
+<Loading Message>=<Menzae de cargah>
 Loading...=Cargando...
 
 You'll play the prologue in singleplayer\nand join your friends once complete.=Jugarás el prólogo en modo un jugador\ny podrás unirte a tus amigos cuando lo completes.
