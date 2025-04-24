@@ -13,6 +13,8 @@ Invite Friends=Invitah amigoh
 r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
 
 Continue=Continuah
+Last Played=Úrtima veh
+
 New Game=Nuevo juego
 Settings=Configuracioneh
 Apply Settings=Aplicah Configuración
@@ -24,7 +26,7 @@ Keep settings?=¿Confirmah configuración?
 Graphics=Gráficoh
 Target Framerate=Taza de Fotogramah
 Resolution=Resolución
-Interface Scale=Escala de Interfaz
+Interface Scale=Escala de Interfah
 VSync=VSync
 Camera Bobbing=Movimiento de Cámara
 Display Mode=Modo de Visualización
@@ -32,10 +34,10 @@ Fullscreen Window=Pantalla Completa
 Display=Ventana
 Ultra=Ultra
 Active Display=Pantalla Activa
-r:Monitor (\d+)=Monitor $1
+r:Monitor (\d+)=Monitoh $1
 SMAA=SMAA
 FOV=FOV
-Anti-aliasing=suavizaoh de Bordeh
+Anti-aliasing=Suavizaoh de Bordeh
 God Rays=Rayoh de Luh
 SSAO=SSAO
 Quality=Calidah
@@ -43,20 +45,18 @@ High=Arto
 Medium=Medio
 Low=Bajo
 Very Low=Muh Bajo
-Option A=Ohción A
+Option A=Opción A
 FXAA=FXAA
 Off=Apagaoh
-
-
 
 Controls=Controleh
 Sprint Mode=Modo de correh
 Invert Y Axis=<size\=13>Invertih el eje Y</size>
-Mouse Sensitivity=<size\=12>Sensibilidad del ratón</size>
+Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
 
 Credits=Agradecimientoh
 Tylah Cannell=Tylah Cannell
-Voice Actors=Actores de Voz
+Voice Actors=Actoreh de Voh
 Soundtrack by=Banda sonora por
 Will Jackson=Will Jackson
 Graffiti by=Graffiti por
