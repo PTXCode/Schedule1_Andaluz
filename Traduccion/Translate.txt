@@ -109,19 +109,6 @@ Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick
 Barn [1]=Aparcamiento [1]
 Barn [2]=Aparcamiento [2]
 
-
-
-
-## NOMBRES ##
-Benji Coleman=Eustaquio Abichuela
-Benji=Eustaquio
-r:Benji Coleman=Eustaquio Abichuela
-r:Benji=Eustaquio
-sr:"Benji Coleman"=Eustaquio Abichuela
-sr:"Benji"=Eustaquio
-
-
-
 ## OBJETOS ##
 Viagor=Viagra
 
