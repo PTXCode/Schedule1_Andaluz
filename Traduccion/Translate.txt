@@ -114,7 +114,7 @@ Bungalow [1]=Bungaló [1]
 Viagor=Viagra
 
 
-Currently cooking=Actualmente Cocinando
+Currently cooking=Ehtá cocinando pichi
 
 ## DEALERS ##
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto polla. Te aviso en $1 h.
