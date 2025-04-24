@@ -101,9 +101,7 @@ Flashlight=Lintehna
 Phone=Teléfono
 Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
-
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para recogerlo.
-
 
 
 ## NPCS ##
@@ -144,6 +142,8 @@ HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Da
 Eh, I don't think so loco=Que va loquete
 Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
 
+## MOVIL ## 
+No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
 
 
 
@@ -180,7 +180,7 @@ Viagor=Viagra
 Currently cooking=Ehtá cocinando pichi
 
 ## DEALERS ##
-r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto polla. Te aviso en $1 h.
+r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh polla. Te aviso en $1 h.
 
 
 ## ZONAS ##
@@ -188,9 +188,7 @@ r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perf
 behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
 
 Aight. What time?=Vale. ¿Hora?
-No thanks. I'll just look elsewhere=No, gracias. Buscaré en otro lugar
 You're in room 1. It's the one closest to the motel office.=Estás en la habitación 1. Es la más cercana a la oficina del motel.
-Oh yes very good! <color\=#54E717>$800</color> for room, yes?=¡Oh, sí, muy bien! <color\=#54E717>$800</color> por la habitación
 Thank you, very good! You can get to the room behind the restaurant, up the stairs.=¡Gracias! Puedes subir las escaleras a la habitación, está detrás del restaurante.
 It is up the stairs behind my restaurant! Go around back and you'll see.=¡Está subiendo las escaleras detrás de mi restaurante! Da la vuelta.
 That'll be <color\=#54E717>$75</color> for the Cheap Skateboard. Sound good?=Serán <color\=#54E717>$75</color> por el Skateboard barato. ¿Te parece bien?
