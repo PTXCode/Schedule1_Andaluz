@@ -115,6 +115,8 @@ Barn [2]=Aparcamiento [2]
 ## NOMBRES ##
 Benji Coleman=Eustaquio Abichuela
 Benji=Eustaquio
+r:Benji Coleman=Eustaquio Abichuela
+r:Benji=Eustaquio
 
 
 
