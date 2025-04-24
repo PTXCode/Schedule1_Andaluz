@@ -69,11 +69,11 @@ KAESUL=KAESUL
 
 TVGS=TVGS
 Prologue=Prólogo
-Quit=Zalih
+Quit=Salih
 Back= Vorveh
 Leave=Abandonah
 Loading...=Cargandoh...
-<Loading Message>=<Menzaje de cargah>
+<Loading Message>=<Menzaeh de cargah>
 
 ## BOTONES ##
 
