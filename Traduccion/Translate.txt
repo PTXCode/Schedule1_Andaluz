@@ -208,8 +208,6 @@ Today=Hoy
 
 More than a year ago=Hace más de un año
 
-Last Played=Última vez
-
 Are you sure you want to \noverwrite this save?=¿Estás seguro de que deseas \nsobrescribir este guardado?
 
 Begin Game=Comenzar juego
