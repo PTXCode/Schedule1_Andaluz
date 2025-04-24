@@ -21,8 +21,6 @@ Apply Settings=Aplicah Configuración
 Revert=Revertih
 Keep settings?=¿Confirmah configuración?
 
-
-
 Graphics=Gráficoh
 Target Framerate=Taza de Fotogramah
 Resolution=Resolución
