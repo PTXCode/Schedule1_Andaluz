@@ -113,7 +113,7 @@ Barn [2]=Aparcamiento [2]
 Viagor=Viagra
 
 
-Currently cooking=Esta en uso
+Currently cooking=No puedes, está cocinando.
 
 ## DEALERS ##
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto polla. Te aviso en $1 h.
