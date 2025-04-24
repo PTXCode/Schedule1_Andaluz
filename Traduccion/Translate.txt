@@ -100,6 +100,7 @@ Hold=Mantener
 Flashlight=Lintehna
 Phone=Teléfono
 Picking Objects Up=Recogiendo ohjetoh
+Move All=Moveh Toh
 
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para recogerlo.
 
@@ -141,6 +142,7 @@ Deal, good doin' business.=Buen trato niño, buen negocio niño.
 Thanks for shopping at Handy Hanks!=¡Gracias por comprar en Handy Hanks!
 HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Dame drogita, que estoy pillando moscas. ¿Tienes algo?
 Eh, I don't think so loco=Que va loquete
+Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
 
 
 
