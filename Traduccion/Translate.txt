@@ -117,6 +117,8 @@ Benji Coleman=Eustaquio Abichuela
 Benji=Eustaquio
 r:Benji Coleman=Eustaquio Abichuela
 r:Benji=Eustaquio
+sr:"Benji Coleman"=Eustaquio Abichuela
+sr:"Benji"=Eustaquio
 
 
 
