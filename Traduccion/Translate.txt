@@ -112,15 +112,24 @@ Barn [2]=Aparcamiento [2]
 
 
 
-
+## NOMBRES ##
+Benji Coleman=Eustaquio Abichuela
+Benji=Eustaquio
 
 
 
 ## OBJETOS ##
+Viagor=Viagra
 
+
+## DEALERS ##
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto polla. Te aviso en $1 h.
 
-behind the western Gas-Mart=detras de la estación de servicio 'Gas-Mart'
+
+## ZONAS ##
+
+behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
+
 Aight. What time?=Vale. ¿Hora?
 No thanks. I'll just look elsewhere=No, gracias. Buscaré en otro lugar
 You're in room 1. It's the one closest to the motel office.=Estás en la habitación 1. Es la más cercana a la oficina del motel.
