@@ -105,6 +105,28 @@ Picking Objects Up=Recogiendo ohjetoh
 
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para recogerlo.
 
+
+## MODS ## 
+Mod Manager=Manejah Mods
+Save Game= Guardah Partiah
+Restart Game=Reiniciah Juego
+Open Mods Folder=Abrih loh archivoh der juego
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## AUN POR COLOCAR ##
 Barn [1]=Granero [1]
 Barn [2]=Granero [2]
@@ -229,7 +251,7 @@ r:"^\$\d{1,3},\dK$"=$0
 
 File Permission Issue=Problema de Permisos de Archivo
 
-Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=Schedule I no pudo verificar el acceso de escritura al archivo; esto podría causar errores al guardar. Esto generalmente ocurre porque Windows bloquea los permisos de escritura de archivos.\n\n\nSi guardar parece funcionar correctamente, puedes ignorar este mensaje.
+Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=Schedule I no pudo verificar el acceso de escritura al archivo; esto podría causar errores al guardar. Esto generalmente ocurre porque Windows bloquea los permisos de escritura de archivoh.\n\n\nSi guardar parece funcionar correctamente, puedes ignorar este mensaje.
 Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Está bien, estás limpio. Suerte la tuya esta vez, supongo. Pero sé que tú y tu tío traman algo en ese rancho.
 You better watch your back - this town won't tolerate scum like you for much longer...=Será mejor que mires por encima del hombro — esta ciudad no tolerará escoria como tú por mucho tiempo...
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendrás que enfrentarte a patrullas, cacheos, controles vehiculares, toques de queda, y más.
@@ -1135,7 +1157,7 @@ NEEDS WATER=NECESITA AGUA
 
 Incompatible game version=Versión del juego incompatible
 
-Close=Cerrar
+Close=Cerrah
 
 Garbage Gas=Gasolina Basura
 
@@ -1150,7 +1172,7 @@ Pre-release roadmap=Hoja de ruta de pre-lanzamiento
 
 Monday 10th\nCo-op & deliveries\n\nMonday 17th\nCasino\n\nSaturday 22nd\nBoutique store, wall decorations, pawn shop\n\nMonday 24th - Release!\n\n\n=Lunes 10\nCooperativo y entregas\n\nLunes 17\nCasino\n\nSábado 22\nTienda boutique, decoraciones de pared, casa de empeño\n\nLunes 24 - Lanzamiento!
 
-This is a beta version of the game - save files may get corrupted. \nDon't load any saves that are important to you.=Esta es una versión beta del juego - los archivos de guardado pueden corromperse.\nNo cargues guardados que sean importantes para ti.
+This is a beta version of the game - save files may get corrupted. \nDon't load any saves that are important to you.=Esta es una versión beta del juego - los archivoh de guardado pueden corromperse.\nNo cargues guardados que sean importantes para ti.
 
 Action can only be performed by host=La acción solo puede ser realizada por el anfitrión
 
@@ -1283,7 +1305,7 @@ Switch off=Apagar
 
 Switch on=Encender
 
-Open=Abrir
+Open=Abrih
 
 Use Packaging Station=Usar Estación de Empaque
 
@@ -1574,9 +1596,9 @@ View Salvador Moreno's stash=Ver el escondite de Salvador Moreno
 View Shirley Watts's stash=Ver el escondite de Shirley Watts
 COOK=COCINAR
 Ready to begin cooking=Listo para comenzar a cocinar
-Open oven door=Abrir la puerta del horno
+Open oven door=Abrih la puerta del horno
 Pour liquid into tray=Verter líquido en la bandeja
-Close oven door=Cerrar la puerta del horno
+Close oven door=Cerrah la puerta del horno
 Start oven=Encender el horno
 Place items onto tray=Colocar objetos en la bandeja
 Ready to collect product=Listo para recoger el producto
@@ -1770,8 +1792,8 @@ Industrial cauldron used for boiling a lot of stuff at once.=Caldero industrial 
 An upgraded model of the mixing station with automatic ingredient insertion, and faster mix times.=Un modelo mejorado de la estación de mezcla con inserción automática de ingredientes y tiempos de mezcla más rápidos.
 Fancy hand woven fabric pot that keeps roots ventilated. Boosts plant growth speed by 15%, but also increases moisture drain by 30%.=Maceta de tela tejida a mano sofisticada que mantiene las raíces ventiladas. Aumenta la velocidad de crecimiento de la planta en un 15%, pero también incrementa la pérdida de humedad en un 30%.
 Very fancy full-spectrum grow light. Stimulates plant growth 30% faster than halogen. Must be placed on a suspension rack.=Luz de crecimiento de espectro completo muy sofisticada. Estimula el crecimiento de las plantas un 30% más rápido que el halógeno. Debe colocarse en un estante suspendido.
-Open safe=Abrir caja fuerte
-Access safe=Abrir caja fuerte
+Open safe=Abrih caja fuerte
+Access safe=Abrih caja fuerte
 Safe=Caja fuerte
 You the new guy in town?=Eres el nuevo en la ciudad?
 Probably=Probablemente
@@ -1847,7 +1869,7 @@ r:Manage (\d+x) Packaging Station=Gestionar $1 Estación de Embalaje
 r:Manage (\d+x) Mixing Station=Gestionar $1 Estación de Mezcla
 r:Manage (\d+x) Pot=Gestionar $1 Maceta
 Assign bed=Asignar cama
-Open briefcase=Abrir maletín
+Open briefcase=Abrih maletín
 Briefcase=Maletín
 r:"^Assigned to (.+)$"=Asignado a $1
 r:"^(.+)'s Briefcase$"=Maletín de $1
@@ -2362,8 +2384,8 @@ Cancel=Cancelar
 Send Message=Enviar Mensaje
 r:Just reminding you that you owe me \$(\d{1,3}(?:,\d{3})*). Please deposit the amount into my stash box when you're ready.=Solo recordándote que me debes $1. Por favor, deposita la cantidad en mi caja de escondite cuando estés listo.
 The drop is ready. You can find it behind the western Gas-Mart=La entrega está lista. Puedes encontrarla detrás del Gas-Mart occidental
-Open shutters=Abrir persiana
-Close shutters=Cerrar persiana
+Open shutters=Abrih persiana
+Close shutters=Cerrah persiana
 Hey boss, I've run out of product.=Hola jefe, me he quedado sin producto.
 
 Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Envíame un mensaje si te gustaría hacer un pedido. Nelson ha hablado bien de ti, así que te proporcionaré una cuenta que podrás pagar después.
@@ -3796,8 +3818,8 @@ Buy 1x packaging station=Compra 1x estación de empaquetado
 Buy 10x baggies=Compra 10x bolsitas
 
 ## OTROS ##
-Open curtains=Abrir cortinas
-Close curtains=Cerrar cortinas
+Open curtains=Abrih cortinah
+Close curtains=Cerrah cortinah
 Behind Gas-Mart=Detras de Gas-Mart
 ## HISTORIA ##
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Mierda, qué gusto oír tu voz, hijo. Parece que nuestra suerte por fin se acabó, los federales me tienen encerrado mientras espero el juicio. Me alegra saber que lograste escapar.
@@ -3889,10 +3911,6 @@ r:"^Use the <color\=#88CBFF>dealer management app</color> to assign customers to
 r:Assign at least 3 customers to Benji=Asigna 3 clientes a Benji
 
 r:Behind Casino=Detrás del Casino
-Mod Manager=Manejar Mods
-Save Game= Guardar Partida
-Restart Game=Reiniciar Juego
-Open Mods Folder=Abrir archivos del juego
 Restart the game to apply changes=Reinicia el juego para que los cambios se apliquen
 Quality Bonus=Bonificación por Calidad
 A ceramic toilet for disposing of waste matter.=Un inodoro de cerámica para desechar desechos.
