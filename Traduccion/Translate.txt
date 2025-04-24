@@ -106,14 +106,15 @@ Picking Objects Up=Recogiendo ohjetoh
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para recogerlo.
 
 ## AUN POR COLOCAR ##
-Barn [1]=Aparcamiento [1]
-Barn [2]=Aparcamiento [2]
+Barn [1]=Granero [1]
+Barn [2]=Granero [2]
+Bungalow [1]=Bungaló [1]
 
 ## OBJETOS ##
 Viagor=Viagra
 
 
-Currently cooking=No puedes, está cocinando.
+Currently cooking=Actualmente Cocinando
 
 ## DEALERS ##
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfecto polla. Te aviso en $1 h.
