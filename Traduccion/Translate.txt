@@ -72,7 +72,7 @@ Sprint Mode=Modo de correh
 Invert Y Axis=<size\=13>Invertih el eje Y</size>
 Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
 Use/Drag/Attack=<size\=10>Uzah/Arratrah\n/Atacah</size>
-Jump=Zartah
+Jump=Sartah
 Forward=Avanzah
 Backward=Retrocedeh
 Left=Ihquierda
@@ -84,6 +84,7 @@ Space=Ehpacio
 Journal=Diario
 View Avatar=Ver Avatah
 Map=Mapa
+Flashlight=Lintehna
 Press=Presionah
 Hold=Manteneh
 
@@ -107,6 +108,34 @@ Leave=Abandonah
 Loading...=Cargandoh...
 <Loading Message>=<Menzaeh de cargah>
 
+PAUSED=JUEGO PAUSADO
+I'm Stuck=Estoy Atascado
+Resume=<size\=17>Continuah</size>
+
+Bug Report/Feedback=Informar sobre Bugs/Feedback
+Summary=Resumen
+Description=Descripción
+Submit Feedback=Enviar Comentarios
+Select a category=<size\=13>Seleccionar una categoría</size>
+Bugs - Crashing =BUGS - Crasheos
+Bugs - Saving/Loading =<size\=11>BUGS - Guardado/Carga</size>
+Bugs - Multiplayer =BUGS - Multijugador
+Bugs - General =BUGS - Generales
+Bugs - Employees =BUGS - Empleados
+Bugs - Customers =Bugs - Clientes
+Bugs - Interface =Bugs - Interfaz
+Feedback=Feedback
+Basic system information will be sent with your report.=La información básica del sistema será enviada con tu informe.
+Submit=Enviar
+Submitting feedback...=Enviando reporte...
+Thank you for your feedback!=¡Gracias por tus comentarios pichi!
+Thank you partner.=Graciah sosio. 
+Include Save File?=¿Incluir Archivo de Guardado?
+Include Screenshot?=¿Incluir Captura de Pantalla?
+
+
+
+
 Skip prologue=Saltar prólogo
 
 ## BOTONES ##
@@ -117,11 +146,13 @@ Tab=Tab
 Shift=Shift
 
 ## ACCIONES ##
+Required=Requerioh
 Sprint=Correh
 Interact=Interactuah
 Crouch=Agachah
 Confirm=Confirmah
-Flashlight=Lintehna
+Dismiss=Dehcartah
+Pickpocket=Robah
 Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
@@ -190,7 +221,7 @@ Currently cooking=Ehtá cocinando pichi
 
 ## TRADERS ##
 
-Nevermind=Dealo
+Nevermind=Dejalo
 Bye=Hasta luego
 
 ## RAY REAL ESTATE ##
@@ -232,5 +263,5 @@ Open Mods Folder=Abrih loh archivoh der juego
 Restart the game to apply changes=Reinicia el juego para que los cambios se apliquen
 
 
-
+## NUEVO ##
 
