@@ -109,7 +109,7 @@ Loading...=Cargandoh...
 <Loading Message>=<Menzaeh de cargah>
 
 PAUSED=JUEGO PAUSADO
-I'm Stuck=Estoy Atascado
+I'm Stuck=Estoy Atascao
 Resume=<size\=17>Continuah</size>
 
 Bug Report/Feedback=Informar sobre Bugs/Feedback
@@ -133,15 +133,14 @@ Thank you partner.=Graciah sosio.
 Include Save File?=¿Incluir Archivo de Guardado?
 Include Screenshot?=¿Incluir Captura de Pantalla?
 
-
-
 Organisation setup=Configuración de la organización
 Specify a name for your organisation=Especifica el nombre de tu organización
 Skip prologue=Saltar prólogo
-
-
-
-
+Loading world...=Cargando mundo...
+Loading data...=Cargando datoh...
+Spawning player...=Generando jugadoh...
+Initializing...=Iniciando...
+Are you sure?=¿Estáh sehuro?
 
 ## BOTONES ##
 Control=CTRL
@@ -162,6 +161,14 @@ Pickpocket=Robah
 Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
+
+## HISTORIA ##
+
+## DIARIO ##
+
+## TUTORIALES ##
+
+
 
 ## NPCS ##
 Give me a sec...=Dame un segundo...
@@ -226,7 +233,6 @@ Viagor=Viagra
 Currently cooking=Ehtá cocinando pichi
 
 ## TRADERS ##
-
 Nevermind=Dejalo
 Bye=Hasta luego
 
