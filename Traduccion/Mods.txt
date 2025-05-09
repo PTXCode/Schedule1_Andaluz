@@ -6,7 +6,7 @@
 ## SALTOS DE LINEA: \n ##
 
 ## MODS ## 
-Mod Manager=Manejah Mods2
+Mod Manager=Manejah Mods
 Save Game= Guardah Partiah
 Restart Game=Reiniciah Juego
 Open Mods Folder=Abrih loh archivoh der juego
