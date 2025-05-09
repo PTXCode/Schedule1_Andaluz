@@ -11,16 +11,13 @@ TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe 
 ## MENU PRINCIPAL ##
 Invite Friends=Invitah amigoh
 r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
-
 Continue=Continuah
 Last Played=Úrtima veh
-
 New Game=Nuevo juego
 Settings=Configuracioneh
 Apply Settings=Aplicah Configuración
 Revert=Revertih
 Keep settings?=¿Confirmah configuración?
-
 Graphics=Gráficoh
 Target Framerate=Tasa de Fotogramah
 Resolution=Resolución
@@ -46,12 +43,10 @@ Very Low=Muh Bajo
 Option A=Opción A
 FXAA=FXAA
 Off=Apagaoh
-
 Controls=Controleh
 Sprint Mode=Modo de correh
 Invert Y Axis=<size\=13>Invertih el eje Y</size>
 Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
-
 Credits=Agradecimientoh
 Tylah Cannell=Tylah Cannell
 Voice Actors=Actoreh de Voh
@@ -64,7 +59,6 @@ Debbie Cannell=Debbie Cannell
 Adam Walton=Adam Walton
 Zac Williams=Zac Williams
 KAESUL=KAESUL
-
 TVGS=TVGS
 Prologue=Prólogo
 Quit=Salih
@@ -74,7 +68,6 @@ Loading...=Cargandoh...
 <Loading Message>=<Menzaeh de cargah>
 
 ## BOTONES ##
-
 Control=CTRL
 Esc=Esc
 BETA=BETA
@@ -87,7 +80,6 @@ Import=Importah
 
 
 ## ACCIONES ##
-
 Jump=zartah
 Sprint=Correh
 Right=Derecha
@@ -104,7 +96,6 @@ Phone=Teléfono
 Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
-
 
 ## NPCS ##
 Give me a sec...=Dame un segundo...
@@ -144,9 +135,6 @@ HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Da
 Eh, I don't think so loco=Que va loquete
 Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
 You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
-
-
-
 
 ## MOVIL ## 
 No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
@@ -3805,7 +3793,6 @@ r:"^(11:(\d{2}) PM)\sSunday*"=Domingo 11:$2 PM
 r:"^(12:(\d{2}) AM)\sSunday*"=Domingo 12:$2 AM
 No what I like=No es lo que me gusta
 START=INICIO
-sr:"So you'd like to purchase (.+)?$"=Entonces te gustaría comprar $1 ?
 Good doing business with ya! Your new ride is waiting outside.=¡Un placer hacer negocios contigo! Tu nuevo vehículo te espera afuera.
 Monk=Monje
 Buzz cut=Corte militar
