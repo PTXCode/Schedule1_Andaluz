@@ -6,168 +6,168 @@
 ## SALTOS DE LINEA: \n ##
 
 ## INICIO ##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibias.\n\nLo' prosesoh mostraoh en este juego son completamente fictisioh y no reflejan la realidah. No intenteh zeguih estoh procezoh mostro - no podrah creah droga picha, deate de tonteriah y amo a trabajah.\n\nEspabila coño y no uceh o consumah drogah. \n\nTraducción al Andaluz por MrPotrex - PTXCode
+    TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibias.\n\nLo' prosesoh mostraoh en este juego son completamente fictisioh y no reflejan la realidah. No intenteh zeguih estoh procezoh mostro - no podrah creah droga picha, deate de tonteriah y amo a trabajah.\n\nEspabila coño y no uceh o consumah drogah. \n\nTraducción al Andaluz por MrPotrex - PTXCode
 
 ## MENU PRINCIPAL ##
-Invite Friends=Invitah amigoh
-r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
-Continue=Continuah
-Last Played=Úrtima veh
-New Game=Nuevo juego
-Settings=Configuracioneh
-Apply Settings=Aplicah Configuración
-Revert=Revertih
-Keep settings?=¿Confirmah configuración?
-Graphics=Gráficoh
-Target Framerate=Tasa de Fotogramah
-Resolution=Resolución
-Interface Scale=E'cala de Interfah
-VSync=VSync
-Camera Bobbing=Movimiento de Cámara
-Display Mode=Modo de Visualización
-Fullscreen Window=Pantalla Completa
-Display=Pantalla
-Ultra=Ultra
-Active Display=Pantalla Activa
-r:Monitor (\d+)=Monitoh $1
-SMAA=SMAA
-FOV=FOV
-Anti-aliasing=Suavizaoh de Bordeh
-God Rays=Rayoh de Luh
-SSAO=SSAO
-Quality=Calidah
-High=Arto
-Medium=Medio
-Low=Bajo
-Very Low=Muh Bajo
-Option A=Opción A
-FXAA=FXAA
-Off=Apagaoh
-Controls=Controleh
-Sprint Mode=Modo de correh
-Invert Y Axis=<size\=13>Invertih el eje Y</size>
-Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
-Credits=Agradecimientoh
-Tylah Cannell=Tylah Cannell
-Voice Actors=Actoreh de Voh
-Soundtrack by=Banda sonora por
-Will Jackson=Will Jackson
-Graffiti by=Graffiti por
-Cody To=Cody To
-Created by =Creado por
-Debbie Cannell=Debbie Cannell
-Adam Walton=Adam Walton
-Zac Williams=Zac Williams
-KAESUL=KAESUL
-TVGS=TVGS
-Prologue=Prólogo
-Quit=Salih
-Back= Vorveh
-Leave=Abandonah
-Loading...=Cargandoh...
-<Loading Message>=<Menzaeh de cargah>
+    Invite Friends=Invitah amigoh
+    r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
+    Continue=Continuah
+    Last Played=Úrtima veh
+    New Game=Nuevo juego
+    Settings=Configuracioneh
+    Apply Settings=Aplicah Configuración
+    Revert=Revertih
+    Keep settings?=¿Confirmah configuración?
+    Graphics=Gráficoh
+    Target Framerate=Tasa de Fotogramah
+    Resolution=Resolución
+    Interface Scale=E'cala de Interfah
+    VSync=VSync
+    Camera Bobbing=Movimiento de Cámara
+    Display Mode=Modo de Visualización
+    Fullscreen Window=Pantalla Completa
+    Display=Pantalla
+    Ultra=Ultra
+    Active Display=Pantalla Activa
+    r:Monitor (\d+)=Monitoh $1
+    SMAA=SMAA
+    FOV=FOV
+    Anti-aliasing=Suavizaoh de Bordeh
+    God Rays=Rayoh de Luh
+    SSAO=SSAO
+    Quality=Calidah
+    High=Arto
+    Medium=Medio
+    Low=Bajo
+    Very Low=Muh Bajo
+    Option A=Opción A
+    FXAA=FXAA
+    Off=Apagaoh
+    Controls=Controleh
+    Sprint Mode=Modo de correh
+    Invert Y Axis=<size\=13>Invertih el eje Y</size>
+    Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
+    Credits=Agradecimientoh
+    Tylah Cannell=Tylah Cannell
+    Voice Actors=Actoreh de Voh
+    Soundtrack by=Banda sonora por
+    Will Jackson=Will Jackson
+    Graffiti by=Graffiti por
+    Cody To=Cody To
+    Created by =Creado por
+    Debbie Cannell=Debbie Cannell
+    Adam Walton=Adam Walton
+    Zac Williams=Zac Williams
+    KAESUL=KAESUL
+    TVGS=TVGS
+    Prologue=Prólogo
+    Quit=Salih
+    Back= Vorveh
+    Leave=Abandonah
+    Loading...=Cargandoh...
+    <Loading Message>=<Menzaeh de cargah>
 
 ## BOTONES ##
-Control=CTRL
-Esc=Esc
-BETA=BETA
-Space=Ehpasio
-Pick up=Recogeh
-Tab=Tab
-Shift=Shift
-Export=Exportah
-Import=Importah
+    Control=CTRL
+    Esc=Esc
+    BETA=BETA
+    Space=Ehpasio
+    Pick up=Recogeh
+    Tab=Tab
+    Shift=Shift
+    Export=Exportah
+    Import=Importah
 
 
 ## ACCIONES ##
-Jump=zartah
-Sprint=Correh
-Right=Derecha
-Left=Ihquierda
-Interact=Interactuah
-Press=Presionah
-Crouch=Agachah
-Backward=Retrocedeh
-Forward=Avanzah
-Confirm=Confirmah
-Hold=Manteneh
-Flashlight=Lintehna
-Phone=Teléfono
-Picking Objects Up=Recogiendo ohjetoh
-Move All=Moveh Toh
-Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
+    Jump=zartah
+    Sprint=Correh
+    Right=Derecha
+    Left=Ihquierda
+    Interact=Interactuah
+    Press=Presionah
+    Crouch=Agachah
+    Backward=Retrocedeh
+    Forward=Avanzah
+    Confirm=Confirmah
+    Hold=Manteneh
+    Flashlight=Lintehna
+    Phone=Teléfono
+    Picking Objects Up=Recogiendo ohjetoh
+    Move All=Moveh Toh
+    Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
 
 ## NPCS ##
-Give me a sec...=Dame un segundo...
-One sec...=Un segundo, picha...
-Thanks mate!=¡Gracias illo!
-Heyo dog=Que pasa, perro
-'Sup=Ajah
-Ready to roll?=¿Illo amoh o que?
-Ready when you are homie=Cuando quieras killo
-Hell yeah, brotha=Buena mierda, chulo
-Sweet as my man= Dulce como un pionono
-That's shit=Vaya mojon, killo
-Oh thanks god=Gracias pichita
-Lets get this over with=amoh ya, hombre
-Come on lets go=Enga ya, amoh
-You got it?=¿Lo pillas o no?
-Yeah??=¿jih?
-Ooooh yeah=Amoooo
-Nvm dog=Perro ;/
-No thanks...=No gracias...
-Nope=No
-Nope.=No
-Ok...=Aro...
-Ok maybe next time=Vale, en otro momento
-Son of a bitch!=¡Me cago en la farola que alumbra la tumba de tus muertos!
-Eh... not what i'm after=No me interesa...
-No what i like=No me gusta illo
-Cool=Mola
-Not what I like=No me mola picha
-Oh very nice! You'll be hearing from me=¡ILLO! Te escribiré picha.
-Yeah I can do that.=Aro, puedo hasehlo.
-That's deal. Thanks partner.=Ya estaría. Gracias pollica.
-Mmm... fine.=Mmm... bien.
-Deal, good doin' business.=Buen trato niño, buen negocio illo.
-Thanks for shopping at Handy Hanks!=¡Gracias por comprar en Handy Hanks!
-HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Dame drogita, que estoy pillando moscas ya. ¿Tienes argo?
-Eh, I don't think so loco=Que va loquete
-Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
-You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
+    Give me a sec...=Dame un segundo...
+    One sec...=Un segundo, picha...
+    Thanks mate!=¡Gracias illo!
+    Heyo dog=Que pasa, perro
+    'Sup=Ajah
+    Ready to roll?=¿Illo amoh o que?
+    Ready when you are homie=Cuando quieras killo
+    Hell yeah, brotha=Buena mierda, chulo
+    Sweet as my man= Dulce como un pionono
+    That's shit=Vaya mojon, killo
+    Oh thanks god=Gracias pichita
+    Lets get this over with=amoh ya, hombre
+    Come on lets go=Enga ya, amoh
+    You got it?=¿Lo pillas o no?
+    Yeah??=¿jih?
+    Ooooh yeah=Amoooo
+    Nvm dog=Perro ;/
+    No thanks...=No gracias...
+    Nope=No
+    Nope.=No
+    Ok...=Aro...
+    Ok maybe next time=Vale, en otro momento
+    Son of a bitch!=¡Me cago en la farola que alumbra la tumba de tus muertos!
+    Eh... not what i'm after=No me interesa...
+    No what i like=No me gusta illo
+    Cool=Mola
+    Not what I like=No me mola picha
+    Oh very nice! You'll be hearing from me=¡ILLO! Te escribiré picha.
+    Yeah I can do that.=Aro, puedo hasehlo.
+    That's deal. Thanks partner.=Ya estaría. Gracias pollica.
+    Mmm... fine.=Mmm... bien.
+    Deal, good doin' business.=Buen trato niño, buen negocio illo.
+    Thanks for shopping at Handy Hanks!=¡Gracias por comprar en Handy Hanks!
+    HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Dame drogita, que estoy pillando moscas ya. ¿Tienes argo?
+    Eh, I don't think so loco=Que va loquete
+    Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
+    You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
 
 ## MOVIL ## 
-No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
-Hmm ok. What time?=Hmm ok. ¿Hora?
+    No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
+    Hmm ok. What time?=Hmm ok. ¿Hora?
 
 ## PEDIDOS ##
-Barn [1]=Granero [1]
-Barn [2]=Granero [2]
-Bungalow [1]=Bungaló [1]
+    Barn [1]=Granero [1]
+    Barn [2]=Granero [2]
+    Bungalow [1]=Bungaló [1]
 
 ## ZONAS ##
-behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
+    behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
 
 ## DEALERS ##
-r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh polla. Te aviso en $1 h.
+    r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh polla. Te aviso en $1 h.
 
 
 ## OBJETOS ##
-Viagor=Viagra
+    Viagor=Viagra
 
 ## DESCRIPCIONES ##
 
 
 ## OPCIONES OBJETOS ##
-Currently cooking=Ehtá cocinando pichi
+    Currently cooking=Ehtá cocinando pichi
 
 
 
 ## MODS ## 
-Mod Manager=Manejah Mods
-Save Game= Guardah Partiah
-Restart Game=Reiniciah Juego
-Open Mods Folder=Abrih loh archivoh der juego
+    Mod Manager=Manejah Mods
+    Save Game= Guardah Partiah
+    Restart Game=Reiniciah Juego
+    Open Mods Folder=Abrih loh archivoh der juego
 
 
 
