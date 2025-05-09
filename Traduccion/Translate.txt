@@ -6,7 +6,7 @@
 ## SALTOS DE LINEA: \n ##
 
 ## INICIO ##
-    TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibias.\n\nLo' prosesoh mostraoh en este juego son completamente fictisioh y no reflejan la realidah. No intenteh zeguih estoh procezoh mostro - no podrah creah droga picha, deate de tonteriah y amo a trabajah.\n\nEspabila coño y no uceh o consumah drogah. \n\nTraducción al Andaluz por MrPotrex - PTXCode
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibias.\n\nLo' prosesoh mostraoh en este juego son completamente fictisioh y no reflejan la realidah. No intenteh zeguih estoh procezoh mostro - no podrah creah droga picha, deate de tonteriah y amo a trabajah.\n\nEspabila coño y no uceh o consumah drogah. \n\nTraducción al Andaluz por MrPotrex - PTXCode
 
 ## MENU PRINCIPAL ##
 r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
@@ -133,9 +133,6 @@ Thank you partner.=Graciah sosio.
 Include Save File?=¿Incluir Archivo de Guardado?
 Include Screenshot?=¿Incluir Captura de Pantalla?
 
-
-
-
 Skip prologue=Saltar prólogo
 
 ## BOTONES ##
@@ -238,6 +235,10 @@ Great idea! Which business are you interested in?= Perfesto. ¿Qué negocio quie
 So you'd like to purchase storage unit? Payments are made from your online balance.=¿Quiereh comprah el Almacen en Stash & Dash? Tieneh que pagah con tarjeta, pichi.
 ## So you'd like to purchase (.+)?$=Entonces te gustaría comprar $1 ?##
 Okay, let me know if you change your mind.=Vale, si cambiah de opinión, avizame.
+
+## HERBERT Blueball Boutique ##
+Good day, what might I be able to do for you?=Buenoh díah, ¿qué puedo haceh por ti?
+I'd like to purchase something=Quiero comprah argo
 
 ## PEDIDOS ##
 Barn [1]=Granero [1]
