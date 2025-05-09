@@ -136,7 +136,7 @@ Include Screenshot?=¿Incluir Captura de Pantalla?
 
 
 Organisation setup=Configuración de la organización
-Specify a name for your organisation=Ponle nombre a tu organización
+Specify a name for your organisation=Especifica el nombre de tu organización
 Skip prologue=Saltar prólogo
 
 
@@ -264,13 +264,6 @@ r:"^(\d+) day ago$"=Hace $1 día
 r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
 More than a year ago=Hace máh de un año
 Yesterday=Ayeh
-
-## MODS ## 
-Mod Manager=Manejah Mods
-Save Game= Guardah Partiah
-Restart Game=Reiniciah Juego
-Open Mods Folder=Abrih loh archivoh der juego
-Restart the game to apply changes=Reinicia el juego para que los cambios se apliquen
 
 
 ## NUEVO ##
