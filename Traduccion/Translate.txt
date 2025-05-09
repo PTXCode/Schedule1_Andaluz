@@ -10,7 +10,7 @@
 
 ## MENU PRINCIPAL ##
     Invite Friends=Invitah amigoh
-    r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
+r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
     Continue=Continuah
     New Game=Nuevo juego
         Net worth=Valoh Neto
