@@ -200,6 +200,7 @@
     Save Game= Guardah Partiah
     Restart Game=Reiniciah Juego
     Open Mods Folder=Abrih loh archivoh der juego
+    Restart the game to apply changes=Reinicia el juego para que los cambios se apliquen
 
 
 
