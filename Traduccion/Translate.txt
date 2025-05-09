@@ -13,9 +13,16 @@
     r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
     Continue=Continuah
     New Game=Nuevo juego
-        Net worth=Valoh Neto:
-        Created=Creado el:
-        Last Played=Úrtima veh:
+        Net worth=Valoh Neto
+        Created=Creado
+        Last Played=Úrtima veh
+        r:Last save was (\d+) minutes ago=Úrtimo guardao hace $1 minutoh
+        r:Last save was (\d+) minute ago=Úrtimo guardao hace $1 minuto
+        r:Last save was (\d+) seconds ago=Úrtimo guardao hace $1 segundoh
+        r:Last save was (\d+) second ago=Úrtimo guardao hace $1 segundo
+        r:(\d+) seconds since last save=$1 segundoh de'de el úrtimo guardao
+        r:"^(\d+) days ago$"=Hace $1 díah
+        r:"^(\d+) day ago$"=Hace $1 día
 
     Settings=Configuracioneh
         Apply Settings=Aplicah Configuración
