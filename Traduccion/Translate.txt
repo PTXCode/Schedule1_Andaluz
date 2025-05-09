@@ -82,6 +82,8 @@ Space=Ehpasio
 Pick up=Recogeh
 Tab=Tab
 Shift=Shift
+Export=Exportah
+Import=Importah
 
 
 ## ACCIONES ##
