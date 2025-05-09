@@ -146,7 +146,8 @@ Tab=Tab
 Shift=Shift
 
 ## ACCIONES ##
-Required=Requerioh
+Required=Requerio
+r:"Required"=Requerio
 Sprint=Correh
 Interact=Interactuah
 Crouch=Agachah
