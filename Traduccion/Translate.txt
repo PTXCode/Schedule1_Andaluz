@@ -2779,8 +2779,6 @@ I'd like to purchase a vehicle= Me gustaría comprar un vehículo
 Fantastic! Which model are you interested in?=¡Fantástico! ¿En qué modelo estás interesado?
 I'd like to repaint my vehicle= Me gustaría repintar mi vehículo
 VEHICLE MUST BE PARKED INSIDE THE SHOP= EL VEHÍCULO DEBE ESTAR DENTRO DEL TALLER
-Hey there, what can I do for you?= Hola, ¿en qué puedo ayudarte?
-That's great to hear. Which property are you interested in?= Qué bien. ¿En qué propiedad estás interesado?
 Great idea! Which business are you interested in?= ¡Gran idea! ¿En qué negocio estás interesado?
 10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing <color\=#7FFD63>meth</color>. But first, you're gonna need to purchase some equipment.=10K en ganancias, ¡nada mal! Pronto tendrás el capital necesario para empezar a fabricar <color\=#7FFD63>metanfetamina</color>. Pero primero, necesitarás comprar equipo.
 Gain access to the warehouse= Consigue acceso al almacén
