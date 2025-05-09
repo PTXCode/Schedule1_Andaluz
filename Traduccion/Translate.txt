@@ -176,10 +176,15 @@ Switch on=Encendeh
 
 
 ## MECANICAS ##
-r:(\d+)% grown=$1% Crecio
+r:(\d+)% grown=Lleva Crecio $1%
 NEEDS WATER=ECHALE AGUA PREMOH
 Contains plant=Esta coceshao
-Use trimmers to harvest=Uza lah estijeras pa coceshá
+Use trimmers to harvest=Uza lah estijerah pa coceshá
+Pour water=Echáh agua
+Pour soil=Echáh tierra
+
+Fill watering can=Llenah la regadera
+
 
 Use Packaging Station=Uzah la Empaquetadora
 
@@ -198,7 +203,8 @@ Grab the trimmers from the storage rack and harvest the fully-grown weed plant=C
 
 
 ## TUTORIALES ##
-
+Pour water over target=Echa el agua en loh puntoh azuleh (Gira con Q y E)
+Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
 
 
 ## NPCS ##
