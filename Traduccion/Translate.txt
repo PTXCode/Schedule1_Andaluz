@@ -2815,7 +2815,6 @@ Deal= Trato hecho
 r:"^(.+) is out dealing$"= $1 está afuera haciendo tratos
 So you'd like to purchase bungalow? Payments are made from your online balance.= ¿Así que quieres comprar un bungalow? Los pagos se cargan a tu saldo en línea.
 Actually, nevermind= Olvídalo
-Outstanding, the property has been transferred to your name.= Excelente, la propiedad ha sido transferida a tu nombre.
 Contains trash= Contiene basura
 Hello sir. Ready to peruse the supplies?= Hola sr, Listo para revisar?
 Deal Expired= Trato expirado
