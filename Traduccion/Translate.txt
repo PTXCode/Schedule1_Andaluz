@@ -142,14 +142,15 @@ Spawning player...=Generando jugadoh...
 Initializing...=Iniciando...
 Are you sure?=¿Estáh sehuro?
 
-## BOTONES ##
+## ACCIONES ##
 Control=CTRL
 Esc=Esc
 BETA=BETA
 Tab=Tab
 Shift=Shift
-
-## ACCIONES ##
+save=Guardar
+CLOSE=CERRAH
+MESSAGE=MENSAJE
 Required=Requerio
 r:"Required"=Requerio
 Sprint=Correh
@@ -165,6 +166,14 @@ Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick
 ## HISTORIA ##
 
 ## DIARIO ##
+Tasks=Tareah
+Task Details=Detalleh de la Tarea
+
+Another Day in Paradise=Otro Día mah en er Paraízo
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge las tijerah de la e'tanteria de armacenamiento y cosecha la planta de marihuana.
+
+
+
 
 ## TUTORIALES ##
 
@@ -209,7 +218,13 @@ Eh, I don't think so loco=Que va loquete
 Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
 You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
 
-## MOVIL ## 
+## TELEFONO ## 
+Character=Perzonaeh
+Messages=Mensajeh
+
+
+
+
 No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
 Hmm ok. What time?=Hmm ok. ¿Hora?
 
