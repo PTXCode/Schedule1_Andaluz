@@ -161,6 +161,8 @@ Dismiss=Dehcartah
 Pickpocket=Robah
 Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
+Active=Activo
+Inactive=Inactivo
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
 
 ## HISTORIA ##
@@ -170,7 +172,7 @@ Tasks=Tareah
 Task Details=Detalleh de la Tarea
 
 Another Day in Paradise=Otro Día mah en er Paraízo
-Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge las tijerah de la e'tanteria de armacenamiento y cosecha la planta de marihuana.
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah tijerah de la e'tanteria de armacenamiento y cosecha la planta de marihuana.
 
 
 
