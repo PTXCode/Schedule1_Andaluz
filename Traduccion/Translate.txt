@@ -176,7 +176,7 @@ Switch on=Encendeh
 
 
 ## MECANICAS ##
-r:(\d+)% grown=Lleva Crecio $1%
+r:(\d+)% grown=Lleva Crecio un $1%
 NEEDS WATER=ECHALE AGUA PREMOH
 Contains plant=Esta coceshao
 Use trimmers to harvest=Uza lah estijerah pa coceshá
@@ -203,6 +203,10 @@ Grab the trimmers from the storage rack and harvest the fully-grown weed plant=C
 
 
 ## TUTORIALES ##
+Input Hints=Consejoh de Entrada
+If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Si ereh zuhnormah y no zabe haceh argo, \nnormahmente hay consejoh de entrada en la e'quina inferioh ihquierda.
+
+
 Pour water over target=Echa el agua en loh puntoh azuleh (Gira con A y D)
 Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
 
@@ -271,12 +275,17 @@ r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perf
 Watering Can=Regadera
 Watering can empty=Regadera vacía
 Plant Trimmers=Estijerah
+Small Storage Rack=E'tantería Pequeña
+Medium Storage Rack=E'tantería Mediana
+Large Storage Rack=E'tantería Grande
 Viagor=Viagra
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
 A pair of plant trimmers. Necessity for harvesting plants.=Unas estijeras e'pecialeh pa podah. La necesitah pa cortá plantah
-
+A small sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño pequeño, 4 Slots.
+A medium sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño mediano, 6 Slots.
+A large sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño grande, 8 Slots.
 
 
 
