@@ -140,26 +140,55 @@
     No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
     Hmm ok. What time?=Hmm ok. ¿Hora?
 
-## PEDIDOS ##
-    Barn [1]=Granero [1]
-    Barn [2]=Granero [2]
-    Bungalow [1]=Bungaló [1]
+## PROPIEDADES ##
+    Taco Ticklers=Taquería Ticklers
+    Storage Unit=Almacén Stash & Dash
+    The storage unit at Stash & Dash= Almacén en Stash & Dash
 
 ## ZONAS ##
     behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
 
 ## DEALERS ##
-    r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh polla. Te aviso en $1 h.
-
+    r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh pichi. Te aviso en $1 h.
 
 ## OBJETOS ##
     Viagor=Viagra
 
-## DESCRIPCIONES ##
+    ## DESCRIPCIONES ##
+
+    ## OPCIONES OBJETOS ##
+        Currently cooking=Ehtá cocinando pichi
 
 
-## OPCIONES OBJETOS ##
-    Currently cooking=Ehtá cocinando pichi
+## TRADERS ##
+
+    ## RAY REAL ESTATE ##
+        Properties for sale=Propiedadeh en venta
+        Businesses for sale=Negosioh en venta
+
+        Hello there! What can I do for you?=Buenas, ¿En qué puedo ayudarte?
+        Hey there, what can I do for you?= Hola, ¿En qué te puedo ayudah?
+
+        I'd like to purchase a property= Me gustaría comprah una propiedad
+        That's great to hear. Which property are you interested in?= Perfesto. ¿Qué propiedad quiereh comprah?
+        Outstanding, the property has been transferred to your name.= Aleh, la propiedad ya'ta a tu nombre.
+
+
+        I'd like to purchase a business= Me gustaría comprah un negosio
+        Great idea! Which business are you interested in?= Perfesto. ¿Qué negocio quiereh?
+
+
+        So you'd like to purchase storage unit? Payments are made from your online balance.=¿Quiereh comprah el Almacen en Stash & Dash? Tieneh que pagah con tarjeta, pichi.
+        ## So you'd like to purchase (.+)?$=Entonces te gustaría comprar $1 ?##
+        Okay, let me know if you change your mind.=Vale, si cambiah de opinión, avizame.
+
+    Bye=Hasta luego
+
+## PEDIDOS ##
+    Barn [1]=Granero [1]
+    Barn [2]=Granero [2]
+    Bungalow [1]=Bungaló [1]
+
 
 
 
