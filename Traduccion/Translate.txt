@@ -14,6 +14,8 @@ Invite Friends=Invitah amigoh
 
 Continue=Continuah
 New Game=Nuevo juego
+Select Save Slot=Seleccionah ranura de guardao
+Are you sure you want to \noverwrite this save?=¿Estáh seguro de que quieres \nsobrescribir e'te guardao?
 Net worth=Valoh Neto
 Created=Creado
 Last Played=Úrtima veh
@@ -35,9 +37,10 @@ Interface Scale=E'cala de Interfah
 VSync=VSync
 Camera Bobbing=Movimiento de Cámara
 Display Mode=Modo de Visualización
-Fullscreen Window=Pantalla Completa
 Display=Pantalla
-Exclusive Fullscreen=Pantalla Completa Ehclusiva
+Windowed=Ventana
+Fullscreen Window=Ventana Completa
+Exclusive Fullscreen=Pantalla Completa
 Ultra=Ultra
 Active Display=Pantalla Activa
 r:Monitor (\d+)=Monitoh $1
@@ -68,7 +71,7 @@ Controls=Controleh
 Sprint Mode=Modo de correh
 Invert Y Axis=<size\=13>Invertih el eje Y</size>
 Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
-Use/Drag/Attack=<size\=10>Uzah/Arrahtrah\n/Atacah</size>
+Use/Drag/Attack=<size\=10>Uzah/Arratrah\n/Atacah</size>
 Jump=Zartah
 Forward=Avanzah
 Backward=Retrocedeh
@@ -87,9 +90,9 @@ Hold=Manteneh
 Credits=Agradecimientoh
 Tylah Cannell=Tylah Cannell
 Voice Actors=Actoreh de Voh
-Soundtrack by=Banda sonora por
+Soundtrack by=Banda sonora:
 Will Jackson=Will Jackson
-Graffiti by=Graffiti por
+Graffiti by=Graffitis:
 Cody To=Cody To
 Created by =Creado por
 Debbie Cannell=Debbie Cannell
@@ -106,7 +109,6 @@ Loading...=Cargandoh...
 
 Skip prologue=Saltar prólogo
 
-
 ## BOTONES ##
 Control=CTRL
 Esc=Esc
@@ -117,7 +119,6 @@ Shift=Shift
 ## ACCIONES ##
 Sprint=Correh
 Interact=Interactuah
-
 Crouch=Agachah
 Confirm=Confirmah
 Flashlight=Lintehna
@@ -187,8 +188,10 @@ Viagor=Viagra
 ## OPCIONES OBJETOS ##
 Currently cooking=Ehtá cocinando pichi
 
-
 ## TRADERS ##
+
+Nevermind=Dealo
+Bye=Hasta luego
 
 ## RAY REAL ESTATE ##
 Properties for sale=Propiedadeh en venta
@@ -204,17 +207,10 @@ So you'd like to purchase storage unit? Payments are made from your online balan
 ## So you'd like to purchase (.+)?$=Entonces te gustaría comprar $1 ?##
 Okay, let me know if you change your mind.=Vale, si cambiah de opinión, avizame.
 
-Bye=Hasta luego
-
 ## PEDIDOS ##
 Barn [1]=Granero [1]
 Barn [2]=Granero [2]
 Bungalow [1]=Bungaló [1]
-
-
-
-
-
 
 ## TIEMPO ## 
 r:Last save was (\d+) minutes ago=Úrtimo guardao hace $1 minutoh
@@ -225,6 +221,8 @@ r:(\d+) seconds since last save=$1 segundoh de'de el úrtimo guardao
 r:"^(\d+) days ago$"=Hace $1 díah
 r:"^(\d+) day ago$"=Hace $1 día
 r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
+More than a year ago=Hace máh de un año
+Yesterday=Ayeh
 
 ## MODS ## 
 Mod Manager=Manejah Mods
