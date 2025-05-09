@@ -1,0 +1,7 @@
+## COLORES <color\= ></color>##
+## AZUL: 4CB0FF - 88CBFF - 62BDFF ##
+## VERDE: 54E717 - 46CB4F - 4F8030 ##
+## GRIS: c0c0c0ff - c0c0c0 ##
+## ROJO: F86266 - FFB43C ##
+## SALTOS DE LINEA: \n ##
+## V.0.1 ##
