@@ -72,7 +72,7 @@ Sprint Mode=Modo de correh
 Invert Y Axis=<size\=13>Invertih el eje Y</size>
 Mouse Sensitivity=<size\=12>Sensibilidah del ratón</size>
 Use/Drag/Attack=<size\=10>Uzah/Arratrah\n/Atacah</size>
-Jump=Sartah
+Jump=Zarta
 Forward=Avanzah
 Backward=Retrocedeh
 Left=Ihquierda
@@ -148,8 +148,13 @@ Esc=Esc
 BETA=BETA
 Tab=Tab
 Shift=Shift
+Done=Hecho
 save=Guardar
+Open=Abrih
 CLOSE=CERRAH
+Close=Cerrah
+CONTINUE=CONTINUAH
+DONE=HECHO
 MESSAGE=MENSAJE
 Required=Requerio
 r:"Required"=Requerio
@@ -165,14 +170,29 @@ Active=Activo
 Inactive=Inactivo
 Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
 
+Access storage=Accedeh al almacenamiento
+Switch off=Apagah
+Switch on=Encendeh
+
+
+## MECANICAS ##
+r:(\d+)% grown=$1% Crecio
+NEEDS WATER=ECHALE AGUA PREMOH
+Contains plant=Esta coceshao
+Use trimmers to harvest=Uza lah estijeras pa coceshá
+
+Use Packaging Station=Uzah la Empaquetadora
+
+
+
 ## HISTORIA ##
 
 ## DIARIO ##
 Tasks=Tareah
 Task Details=Detalleh de la Tarea
 
-Another Day in Paradise=Otro Día mah en er Paraízo
-Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah tijerah de la e'tanteria de armacenamiento y cosecha la planta de marihuana.
+Another Day in Paradise=Otro día mah en er paraízo
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la e'tanteria de almacenamiento y cocesha la planta de marihuana.
 
 
 
@@ -242,9 +262,17 @@ behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh pichi. Te aviso en $1 h.
 
 ## OBJETOS ##
+Watering Can=Regadera
+Watering can empty=Regadera vacía
+Plant Trimmers=Estijerah
 Viagor=Viagra
 
 ## DESCRIPCIONES ##
+Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
+A pair of plant trimmers. Necessity for harvesting plants.=Unas estijeras e'pecialeh pa podah. La necesitah pa cortá plantah
+
+
+
 
 ## OPCIONES OBJETOS ##
 Currently cooking=Ehtá cocinando pichi
