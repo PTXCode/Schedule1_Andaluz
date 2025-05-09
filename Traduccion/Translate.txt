@@ -20,7 +20,7 @@ Net worth=Valoh Neto
 Created=Creado
 Last Played=Úrtima veh
 Today=Hoy
-Begin Game=Comenzar juego
+Begin Game=Comenzah juego
 Enter name...=Introduce er nombre...
 Export=Exportah
 Import=Importah
@@ -133,7 +133,15 @@ Thank you partner.=Graciah sosio.
 Include Save File?=¿Incluir Archivo de Guardado?
 Include Screenshot?=¿Incluir Captura de Pantalla?
 
+
+
+Organisation setup=Configuración de la organización
+Specify a name for your organisation=Ponle nombre a tu organización
 Skip prologue=Saltar prólogo
+
+
+
+
 
 ## BOTONES ##
 Control=CTRL
