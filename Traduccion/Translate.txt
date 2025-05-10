@@ -472,6 +472,9 @@ Soil=Tierra
 Fertilizer=Fertilizante
 Speed Grow=Crecimiento Rápido
 PGR=Reguladoh de Crecimiento
+Bed=Cama
+Jar=Bote
+Halogen Grow Light=Luh de Curtivo Halógena
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -482,13 +485,17 @@ A large sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño grande, 8 
 Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% máh rápido. Necesita un Zoporte de luceh.
 Used to hang grow lights above pots.=Se usa pa corgah luceh de curtivo sobre macetah.
-A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquier producto.
+A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquieh producto.
 Cold hard cash.=Dinero en efectivo.
 Basic potting soil to grow stuff in.=Tierra básica pa plantah. cosecha propia eh.
 All-natural fertilizer which will increase the quality of your plants.=Fertilizante completamente naturah que aumentará la calidah de tuh curtivoh.
 Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneamente la planta un 50%, pero reduce la calidah de la planta.
 Plant growth regulator (PGR) will increase the yields of your plants, at the cost of quality.=El regulador de crecimiento de plantas (PGR) aumentará el rendimiento de tuh curtivoh, a costa de la calidah.
-
+A cozy single bed to slumber in.=Una cómoda cama pa tuh largah horah de trabajo. Se usa tambien pa trabajadoreh.
+A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frahco de vidrio transparente pa guardah variah sustanciah. Almacena hasta 5 unidadeh de cualquieh producto.
+Grow Tent=Interioh
+A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de curtivo con iluminación integrah y maceta. Lah plantah crecerán máh rápido pero serán máh pequeñah.
+Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luh de curtivo halógena barata y simple. Debe colocarce en un zoporte de luceh.
 
 
 ## VEHICULOS ##
