@@ -240,6 +240,7 @@ Only 1 sample product is required.=1 muestra es suficiente.
 sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
 You are providing more product than required.=Ehtá dando máh producto de loh necesarioh.
 Satisfaction=Satisfacción
+You wanna buy something? [Offer a deal]=¿Quiereh comprah argo? [Ofreceh producto]
 
 
 ## HISTORIA ##
@@ -308,6 +309,7 @@ The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample
 
 
 ## NPCS ##
+Let's see...=Amo a veh...
 Mmm not bad... I'll message you=Mmm... No ta mah. Te escribiré.
 Let me try...= Déhame probah...
 Much appreciated=Muh agradesioh
