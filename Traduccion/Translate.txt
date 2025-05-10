@@ -198,7 +198,7 @@ r:"^(.+) \(Unpackaged\)$"=$1 (Sin empaquetar)
 Meth (Unpackaged)=Metanfetamina (Sin empaquetar)
 Cocaine (Unpackaged)=Cocaína (Sin empaquetar)
 Currently cooking=Ehtá cocinando pichi
-## Drag packaging + product into slots=Pon la borcita o bote y er producto en loh espacioh
+## Drag packaging + product into slots=Pon er producto y el recipiente en loh espacioh
 Drag product + packaging into slots=Pon la borcita o bote y er producto en loh espacioh
 Drag packaged product into output=Pon la borcita con producto en la "Salida"
 Product=Producto
@@ -211,6 +211,9 @@ Suspension Rack is supporting another item=El zoporte de luceh e'ta ciendo utili
 Output=Salida
 Input=Entrada
 Contains items=Contiene ohjeto
+Place product into packaging=Coloca er produhto en el recipiente
+Click baggie to seal=Hah clic en la borcita pa cerrarla
+Place packaging in hopper=Arrastra el recipiente en er cajón
 
 
 ## HISTORIA ##
@@ -222,6 +225,10 @@ Task Details=Detalleh de la Tarea
 Another Day in Paradise=Otro día mah en er paraízo
 Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de almacenamiento y cocesha la planta de marihuana.
 Package all the weed at the packaging station=Mete la marihuana en borcitah en la empaquetadora
+Drag the OG Kush into your inventory=Arrahtra la marihuana a tu inventario
+Grab the watering can from the storage rack=Coge la regadera de la estantería Mediana
+Fill up the watering can at the sink and water the other weed plant=Llena la regadera en el fregadero y riega la otra planta de marihuana
+Respond to your customers in the messages app=Responde a tuh clienteh en er Whatsapp
 
 
 
@@ -230,6 +237,8 @@ Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick
 Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
 Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
 r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh para coceshah $1/$2
+You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro deh período que elijah. Por ahora, elige el período de la mañana.
+
 
 
 
@@ -290,6 +299,9 @@ Relationship=Relación
 Addiction=Adicción
 Standards=Calidah
 Favourite Effects=Efectoh Favoritoh
+Select Deal Time=Seleccionah Hora del Negosio
+You can complete the deal any time within the window=Puedeh completah el negosio en cualquieh momento dentro del período
+Current Time=Hora actual
 
 
 sr:"^(.+) has requested a delivery of ([0-9]+)x OG Kush (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x OG Kush por $1. Estará $3. Pagará $4$.
@@ -388,12 +400,18 @@ Okay, let me know if you change your mind.=Vale, si cambiah de opinión, avizame
 Good day, what might I be able to do for you?=Buenoh díah, ¿qué puedo haceh por ti?
 I'd like to purchase something=Quiero comprah argo
 
+
 ## PEDIDOS ##
 Barn [1]=Granero [1]
 Barn [2]=Granero [2]
 Bungalow [1]=Bungaló [1]
 
+
 ## TIEMPO ## 
+Morning=Dia
+Afternoon=Tarde
+Night=Noche
+Late Night=Madrugada
 r:Last save was (\d+) minutes ago=Úrtimo guardao hace $1 minutoh
 r:Last save was (\d+) minute ago=Úrtimo guardao hace $1 minuto
 r:Last save was (\d+) seconds ago=Úrtimo guardao hace $1 segundoh
@@ -405,11 +423,22 @@ r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
 More than a year ago=Hace máh de un año
 Yesterday=Ayeh
 
-## RANGOS ##
+
+## RELACIONES ##
 Neutral=Neutral
 Friendly=Colega
 
+
+## RANGOS ##
+
+
+
+## CALIDADES ##
+Standard Marijuana=Marihuana Estandah
+
+
 ## EFECTOS ##
+•  Calming=• Relajante
 
 
 ## PANTALLAS DE CARGA ##
