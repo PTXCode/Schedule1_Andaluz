@@ -749,6 +749,10 @@ You can repaint your vehicles at the body shop.=Puedeh repintah tuh vehículoh e
 You won't be able to enter your property while wanted if you're within sight of police.=No podráh entrah a tu propiedah mientrah ceah buscaoh o si estáh a la vista de la pulisíah.
 Staff don't work for free! They will automatically draw their daily wage from their briefcase on their bed. If it's empty at the start of a new shift, they won't work.=¡Er personah no trabaja gratih! Retirarán automáticamente su salario diario de su maletín en su cama. Si está vacío ar comienzo de un nuevo tuhno, no trabajarán.
 If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Si muereh en el modo un jugadoh, vorveráh a tu úrtimo guardaoh. Si muereh en murtijugadoh, pagaráh una costosa visita a la clínica médica.
+There are a number of ATMs scattered throughout Hyland Point for your convenience.=Hay varioh cajeroh automáticoh repartioh por Hyland Point.
+A coca plant will display distinctive red berries when it is ready for harvest.=Una planta de coca mostrará bayah rojah distintivah cuando esté lista pa la cosecha.
+Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesitah esconderte de lah pulisiah? Prueba un arbusto, un contenedoh de basura o un árboh grande.
+
 
 
 
