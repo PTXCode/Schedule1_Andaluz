@@ -178,6 +178,8 @@ Quick Move=Moveh Rápido
 Move Custom Amount=Moveh Cantidah Personalizah
 Rotate Held Item=Rotah Ohjeto
 Change Quantity=Cambiah Cantidah
+Interact / Drag=Interactuah / Arrahtrah
+Drag Multiple=Arrahtrah Múltipleh ohjetoh
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -213,7 +215,8 @@ Input=Entrada
 Contains items=Contiene ohjeto
 Place product into packaging=Coloca er produhto en el recipiente
 Click baggie to seal=Hah clic en la borcita pa cerrarla
-Place packaging in hopper=Arrastra el recipiente en er cajón
+Place packaging in hopper=Arrastra el recipiente al cajón
+(Hold) Smoke=(Mantener) Fumah
 
 
 ## HISTORIA ##
@@ -375,7 +378,7 @@ Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% más rápido. Necesita un Zoporte de luceh.
 Used to hang grow lights above pots.=Se usa para corgah luceh de curtivo sobre macetah.
 A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquier producto.
-
+Cold hard cash.=Dinero en efectivo.
 
 
 ## TRADERS ##
@@ -411,7 +414,7 @@ Bungalow [1]=Bungaló [1]
 Morning=Dia
 Afternoon=Tarde
 Night=Noche
-Late Night=Madrugada
+Late Night=<size\=10>Madrugada</size>
 r:Last save was (\d+) minutes ago=Úrtimo guardao hace $1 minutoh
 r:Last save was (\d+) minute ago=Úrtimo guardao hace $1 minuto
 r:Last save was (\d+) seconds ago=Úrtimo guardao hace $1 segundoh
