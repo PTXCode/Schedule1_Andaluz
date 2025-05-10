@@ -222,7 +222,7 @@ Purchase=Comprah
 Product=Producto
 Packaging=Recipienteh
 Furniture=Muebleh
-Storage=Armacenamiento
+Storage=<size\=12>Armacenamiento</size>
 Ingredients=Ingredienteh
 Agriculture=Agricultura
 Tools=<size\=11>Herramientas</size>
@@ -263,7 +263,9 @@ New Customer Unlocked!=¡Nuevo Cliente Desbloqueaoh!
 Knock=Llamah
 BODY SEARCH IN PROGRESS=REGISTRO CORPORAH EN CURSO
 Body Search=Registro Corporah
+Quantity=Cantidah
 Click and hold items to conceal=Hah clic y mantén presionaoh los ohjetoh pa ocurtahloh
+sr:"^([0-9]+)x (.+)$"=$1x $2
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
