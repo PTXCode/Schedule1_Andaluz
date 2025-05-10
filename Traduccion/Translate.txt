@@ -468,6 +468,7 @@ Select Deal Time=Seleccionah Hora del Negosio
 You can complete the deal any time within the window=Puedeh completah el negosio en cualquieh momento dentro del período
 Current Time=Hora actual
 Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Desbloquea a ehte cliente dándole una muestra gratih. Usa tu mapa pa veh su ubicación aproximada.
+I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que ehtáh en problemah. Mejoh no hableh por tu teléfono móvih. Ve a buhcah una cabina. - U.N.
 
 
 
