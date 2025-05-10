@@ -583,8 +583,17 @@ Agitated=Rayaoh
 Slight Smile=Sonrisa
 Smug=Sigma
 Facial Hair=Vello Facial
-
-
+Stubble=2 dias
+Goatee=Perilla
+Facial Details=Detalleh Fasialeh
+Freckles=Pecas
+Wrinkles=Arrugas
+Facial Detail Intensity=Intensidah de detalleh fasialeh
+Eyes=Ojoh
+Eyeball Color=Colog de Ojoh
+Pupil Dilation=Dilatación de Pupila
+Upper Eyelid Resting Position=Posición der Párpado Superioh
+Lower Eyelid Resting Position=Posición der Párpado Inferioh
 
 ## VEHICULOS ##
 Vehicle=Vehículo
