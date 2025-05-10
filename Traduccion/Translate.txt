@@ -271,6 +271,7 @@ Insufficient online balance=No tieneh suficiente dinero en tu tarjeta de credito
 Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la tarjeta. Visita un cajero pa depositah.
 Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente, saca dinero der cajero.
 
+
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
 Morning buddy, lovely day ain't it?=Buenoh díah sobrino, hace buen dia.
@@ -302,7 +303,7 @@ Ballsy today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=�
 ## DIARIO ##
 Tasks=Tareah
 Task Details=Detalleh de la Tarea
-
+Hover a task to view details=Pasa er cursoh sobre una tarea pa veh loh detalleh
 Another Day in Paradise=Otro día mah en er paraízo
 Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de armacenamiento y cocesha la planta de marihuana.
 Package all the weed at the packaging station=Mete la marihuana en borcitah en la empaquetadora
