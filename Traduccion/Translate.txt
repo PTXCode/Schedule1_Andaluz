@@ -283,6 +283,10 @@ Products Sold=Produhtoh Vendioh
 Player Earnings=Gananciah der Jugadoh
 Dealer Earnings=Gananciah der Vendedoh
 Skipping...=Sartando...
+Can't sleep before 6:00 PM=No puedeh dormih anteh de las 18:00PM
+Answer phone=Contehtah ar teléfono
+View dead drop=Abrih Compartimento secreto
+Dead Drop=Compartimento Secreto
 
 
 ## HISTORIA ##
@@ -360,7 +364,7 @@ You're in a new town with no cash and no product. Get in contact with a distant 
 Collect the stash behind the supermarket=Busca el alijo detráh der supermercaoh
 Collect the stash near the fountain=Busca el alijo cerca de la fuente
 Collect the stash near the canal=Busca el alijo cerca der canah
-
+Head back to the RV=Regresa a la Caravana
 
 
 
@@ -523,10 +527,14 @@ The storage unit at Stash & Dash= Almacén en Stash & Dash
 
 
 ## ZONAS ##
+Central canal=Canah centrah
+Town hall fountain=Fuente del ayuntamiento
+Behind the supermarket=Detráh del supermercaoh
 behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
 behind the pawn shop=detráh de la casa de empeño
 behind the gas station=detráh de la gasolinera
 outside the blue house=fuera de la casa azuh
+
 
 r:(.*), Behind gas station=$1, Detráh de la gasolinera
 r:(.*), Blue house=$1, Casa azuh
