@@ -610,6 +610,8 @@ Jorts=Cortoh
 Shoes=Zapatoh
 Sneakers=Tenih
 Sandals=Chanclah
+Finalize=Terminado
+Press 'done' to finalize your character's appearance=Presiona 'Hecho' pa finalizah la apariencia de tu personahe
 
 
 ## VEHICULOS ##
