@@ -317,6 +317,10 @@ Open the contacts app=Abre la app de "Contactoh "
 r:Provide a sample to Chelsey near the doctor's office=Dale una muestra gratuita a Ruth en la oficina del doctoh
 Purchase 2x soil from the hardware store=Compra 2x de tierra en la ferretería
 Talk to Uncle Nelson's contact at the motel=Habla con el contacto der Tito Nelson
+Wrapping Up=Finalizando los negosioh de la ciudad
+Quest Description=No tiene Descripción
+Drive back to the ranch=Vuerve donde er Tito Nelson
+
 
 
 r:"^Deal for (.+)"=Entrega pendiente
