@@ -132,7 +132,7 @@ Feedback=Feedback
 Basic system information will be sent with your report.=La información básica del sistema será enviada con tu informe.
 Submit=Enviar
 Submitting feedback...=Enviando reporte...
-Thank you for your feedback!=¡Gracias por tus comentarios pichi!
+Thank you for your feedback!=¡Graciah por tus comentarios pichi!
 Thank you partner.=Graciah sosio. 
 Include Save File?=¿Incluir Archivo de Guardado?
 Include Screenshot?=¿Incluir Captura de Pantalla?
@@ -256,11 +256,11 @@ I've got some business with some fellas staying down at the motel, tell them you
 If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Si tieneh que comprah argo, ponlo a mi cuenta, yo pago esta veh.
 Cheers buddy. Feel free to take my truck.=Graciah niño. llevate er bicharraco.
 
-Thank you. You should go talk to Chelsey - I think they'll like your stuff=Killo. Ve a hablah con Ruth, creo que le va a molah tu producto.
-Thank you. You should go talk to Chelsey - I think she'll like your stuff=Gracias. Deberíah ih a hablah con Ruth, creo que le va a gustah tu producto.
-Thanks. Hey my friend Chelsey might be interested in your stuff. You should go talk to her.=Gracias illo. Mi amiga Ruth podría interesarle tuh cosah. Deberíah hablah con ella.
-Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo aprecio mucho. Debeh hablah con Ruth. Creo que le gustará tu producto.
-Cheers. My friend Chelsey might like your stuff. Go check her out=Buenah. A mi amiga Ruth podría gustarle tu material. Ve a verla.
+Thank you. You should go talk to Chelsey - I think they'll like your stuff=Killo. Hablah con Ruth, creo que le va a molah tu producto.
+Thank you. You should go talk to Chelsey - I think she'll like your stuff=Graciah illo. Deberíah hablah con Ruth, le gustará tu producto.
+Thanks. Hey my friend Chelsey might be interested in your stuff. You should go talk to her.=Graciah illo. Mi amiga Ruth podría interesarle tuh cosah. Deberíah hablah con ella.
+Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo aprecio mucho. hablah con Ruth. le gustará tu producto.
+Cheers. My friend Chelsey might like your stuff. Go check her out=Buenah. A mi amiga Ruth le gustará tu material. Ve a verla.
 
 
 ## DIARIO ##
@@ -321,7 +321,7 @@ Much appreciated=Muh agradesioh
 Hi=Ey
 Hello=Hola
 Good afternoon=Buenah tardeh
-Thanks!=¡Gracias!
+Thanks!=¡Graciah!
 Very nice=Mu bien
 Cheers=Amonoh
 Ready when you are=Cuando tú digah 
@@ -330,7 +330,7 @@ You ready?=¿Listo?
 You got the stuff?=¿Tieneh lah cosah?
 Give me a sec...=Dame un segundo...
 One sec...=Un segundo, picha...
-Thanks mate!=¡Gracias illo!
+Thanks mate!=¡Graciah illo!
 Heyo dog=Que pasa, perro
 'Sup=Ajah
 Ready to roll?=¿Illo amoh o que?
@@ -338,14 +338,14 @@ Ready when you are homie=Cuando quieras killo
 Hell yeah, brotha=Buena mierda, chulo
 Sweet as my man= Dulce como un pionono
 That's shit=Vaya mojon, killo
-Oh thanks god=Gracias pichita
+Oh thanks god=Graciah pichita
 Lets get this over with=amoh ya, hombre
 Come on lets go=Enga ya, amoh
 You got it?=¿Lo pillas o no?
 Yeah??=¿jih?
 Ooooh yeah=Amoooo
 Nvm dog=Perro ;/
-No thanks...=No gracias...
+No thanks...=No graciah...
 Nope=No
 Nope.=No
 Ok...=Aro...
@@ -357,13 +357,13 @@ Cool=Mola
 Not what I like=No me mola picha
 Oh very nice! You'll be hearing from me=¡ILLO! Te escribiré picha.
 Yeah I can do that.=Aro, puedo hasehlo.
-That's deal. Thanks partner.=Ya estaría. Gracias pollica.
+That's deal. Thanks partner.=Ya estaría. Graciah pollica.
 Mmm... fine.=Mmm... bien.
 Deal, good doin' business.=Buen trato niño, buen negocio illo.
-Thanks for shopping at Handy Hanks!=¡Gracias por comprar en Handy Hanks!
+Thanks for shopping at Handy Hanks!=¡Graciah por comprar en Handy Hanks!
 HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Dame drogita, que estoy pillando moscas ya. ¿Tienes argo?
 Eh, I don't think so loco=Que va loquete
-Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
+Good doing business with you, sir.=Tus huevos niño, graciah por confiar en mi.
 You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
 
 ## TELEFONO ## 
