@@ -308,7 +308,7 @@ While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</co
 ## NPCS ##
 
 Let me try...= Déhame probah...
-Much appreciated=Muh agradecioh
+Much appreciated=Muh agradesioh
 Hi=Ey
 Hello=Hola
 Good afternoon=Buenah tardeh
