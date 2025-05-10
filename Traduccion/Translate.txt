@@ -168,12 +168,12 @@ Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
 Active=Activo
 Inactive=Inactivo
-Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón derecho del ratón</color> sobre un objeto para cogerlo.
+Rotate Pot=Rotah Maceta
+Exit=Salih
 
 Access storage=Accedeh al almacenamiento
 Switch off=Apagah
 Switch on=Encendeh
-
 
 ## MECANICAS ##
 r:(\d+)% grown=Lleva Crecio un $1%
@@ -182,13 +182,14 @@ Contains plant=Esta coceshao
 Use trimmers to harvest=Uza lah estijerah pa coceshá
 Pour water=Echáh agua
 Pour soil=Echáh tierra
-
+Harvest=Coceshah
+No plant in this pot=No hay na plantao en la maceta
 Fill watering can=Llenah la regadera
-
-
 Use Packaging Station=Uzah la Empaquetadora
-
-
+r:"^(.+) \(Unpackaged\)$"=$1 (Sin empaquetar)
+Meth (Unpackaged)=Metanfetamina (Sin empaquetar)
+Cocaine (Unpackaged)=Cocaína (Sin empaquetar)
+Currently cooking=Ehtá cocinando pichi
 
 ## HISTORIA ##
 
@@ -203,6 +204,14 @@ Grab the trimmers from the storage rack and harvest the fully-grown weed plant=C
 
 
 ## TUTORIALES ##
+Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón deresho del ratón</color> sobre un ohjeto para cogehlo.
+Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
+Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
+r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh para coceshah $1/$2
+
+
+
+
 Input Hints=Consejoh de Entrada
 If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Si ereh zuhnormah y no zabe haceh argo, \nnormahmente hay consejoh de entrada en la e'quina inferioh ihquierda.
 While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</color> to rotate it.=Pa rotah un ohjeto, preciona <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>.
@@ -210,8 +219,7 @@ While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</co
 
 
 
-Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
-Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
+
 
 
 ## NPCS ##
@@ -281,7 +289,10 @@ Plant Trimmers=Estijerah
 Small Storage Rack=E'tantería Pequeña
 Medium Storage Rack=E'tantería Mediana
 Large Storage Rack=E'tantería Grande
+Plastic Pot=Maceta de Plástico
 Viagor=Viagra
+LED Grow Light=Luh LED de curtivoh
+Suspension Rack=Zoporte de Luceh
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -289,11 +300,10 @@ A pair of plant trimmers. Necessity for harvesting plants.=Unas estijeras e'peci
 A small sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño pequeño, 4 Slots.
 A medium sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño mediano, 6 Slots.
 A large sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño grande, 8 Slots.
+Flimsy plastic pot made in China.=Maceta de plástico malo hecha en China.
+A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% más rápido. Debe colocarce en un zoporte zuhpendio.
+Used to hang grow lights above pots.=Se usa para corgah luceh de curtivo sobre macetah.
 
-
-
-## OPCIONES OBJETOS ##
-Currently cooking=Ehtá cocinando pichi
 
 ## TRADERS ##
 Nevermind=Dejalo

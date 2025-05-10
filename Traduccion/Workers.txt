@@ -6,3 +6,6 @@
 ## SALTOS DE LINEA: \n ##
 ## V.0.1 ##
 
+Andy=Alex
+Doug=JPelicojo
+Joe=El Bananero
