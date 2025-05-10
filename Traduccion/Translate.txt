@@ -194,6 +194,8 @@ CUSTOMER RECENTLY COMPLETED A DEAL=LE HAN VENDIOH YA
 (Hold) Mount=(Manteneh) Montah
 Speed Up Search=Acelerah Búsqueda
 Sleep=Dormih
+Next=Siguiente
+None=Ninguno
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -280,6 +282,7 @@ Products Sold=Produhtoh Vendioh
 Player Earnings=Gananciah der Jugadoh
 Dealer Earnings=Gananciah der Vendedoh
 
+
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
 Morning buddy, lovely day ain't it?=Buenoh díah sobrino, hace buen dia.
@@ -309,6 +312,9 @@ All good. Got your package but those guys were pretty antsy=To bien. Tengo tu pa
 Oh yeah? Eh don't worry about 'em. I'll settle with them soon enough. Thanks for grabbing that for me.=¿Jí? No te preocupes por elloh. son zuhnormaleh. Graciah por recogeh eso pichi.
 Well I'll let you get on with it. See ya tomorrow, bud.=Bueno, te dejo con lo tuyo. Noh vemoh mañana illo.
 
+You're a small-time drug dealer from the south.=Ereh un pequeño traficante der suh.
+In a fresh town with no cash, no product, and no contacts.=En una ciudad nueva, sin dinero, sin produhto y sin contahtoh.
+You only know one way to make money. Time to get to work.=Solo conoceh una forma de ganah dinero. Es hora de ponerse a trabajah.
 
 
 ## DIARIO ##
@@ -549,6 +555,34 @@ Grow Tent=Interioh
 A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de curtivo con iluminación integrah y maceta. Lah plantah crecerán máh rápido pero serán máh pequeñah.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luh de curtivo halógena barata y simple. Debe colocarce en un zoporte de luceh.
 Provides a clean surface to place product into packaging.=Proporciona una superficie limpia pa colocah er produhto para empaquetah o desempaquetah. Puede deshaceh bloqueh.
+
+## CUSTOMIZACIÓN ##
+Customize Appearance=Perzonalizah Apariencia
+Body=Cuerpo
+Gender=Género
+Male=Masculino
+Female=Femenino
+Weight=Peso
+Skin Color=Coloh de Piel
+Hair=Pelo
+Hair Color=Color de Pelo
+Spiky=Puntiagudo
+High bun=Moño arto
+Double top knot=Doble moño
+Long curly=Rizaoh largo
+Buzz cut=Militar
+Bowl cut=Tazón
+Peaked=Divorciaoh
+Low Bun=Moño Bajo
+Fringe Bob=Feminista
+Messy Bob=Despeinaoh Largo
+Side-part Bob=Karen
+Face=Cara
+Pout=Puchero
+Agitated=Rayaoh
+Slight Smile=Sonrisa
+Smug=Sigma
+Facial Hair=Vello Facial
 
 
 
