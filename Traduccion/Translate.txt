@@ -341,6 +341,7 @@ The law will be your foremost obstacle. You'll have to deal with patrols, body s
 
 
 ## NPCS ##
+Damn, that's pretty nice. You'll hear from me soon=Foh, Te escribiré pronto pichi
 What do you want?=¿Qué quiereh?
 Damn, that's some good shit. You'll hear from me soon=Jodeh, esto está que te cagas. te escribo.
 Wow that's pretty good, I'll message you=esa mierda está bastante bien, te enviaré un mensaje
@@ -471,9 +472,9 @@ r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perf
 Watering Can=Regadera
 Watering can empty=Regadera vacía
 Plant Trimmers=Estijerah
-Small Storage Rack=Estantería Pequeña
-Medium Storage Rack=Estantería Mediana
-Large Storage Rack=Estantería Grande
+Small Storage Rack=Ehtantería Pequeña
+Medium Storage Rack=Ehtantería Mediana
+Large Storage Rack=Ehtantería Grande
 Plastic Pot=Maceta de Pláhtico
 Viagor=Viagra
 LED Grow Light=Luh LED de curtivoh
