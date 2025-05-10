@@ -599,9 +599,17 @@ Eyebrow Scale=Tamaño de Cejah
 Eyebrow Thickness=Grosoh de Cejah
 Eyebrow Resting Height=Altura de Cejah
 Eyebrow Resting Angle=Ángulo de Cejah
-
-
-
+Clothing=Ropa
+Top=Parte Superioh
+T-Shirt=Normal
+V-Neck=Cuello en V
+Bottom=Inferioh
+Jeans=Vaqueroh
+Cargo Pants=Trabajo
+Jorts=Cortoh
+Shoes=Zapatoh
+Sneakers=Tenih
+Sandals=Chanclah
 
 
 ## VEHICULOS ##
