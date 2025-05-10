@@ -187,6 +187,7 @@ sr:"^Talk to (.+)$"=Hablah con $1
 [SPACEBAR]=[EHPACIO]
 Complete Deal=Completah er trato
 [Complete Deal]=[Completah Negosio]
+ALREADY RECENTLY OFFERED=YA LE HAH OFRECIDO
 
 Switch off=Apagah
 Switch on=Encendeh
