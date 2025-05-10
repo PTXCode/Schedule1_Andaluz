@@ -101,7 +101,6 @@ Adam Walton=Adam Walton
 Zac Williams=Zac Williams
 KAESUL=KAESUL
 TVGS=TVGS
-Prologue=Prólogo
 Quit=Salih
 Back= Vorveh
 Leave=Abandonah
@@ -178,6 +177,7 @@ Exit=Salih
 Quick Move=Moveh Rápido
 Move Custom Amount=Moveh Cantidah Personalizah
 Rotate Held Item=Rotah Ohjeto
+Change Quantity=Cambiah Cantidah
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -198,10 +198,15 @@ r:"^(.+) \(Unpackaged\)$"=$1 (Sin empaquetar)
 Meth (Unpackaged)=Metanfetamina (Sin empaquetar)
 Cocaine (Unpackaged)=Cocaína (Sin empaquetar)
 Currently cooking=Ehtá cocinando pichi
-Drag packaging + product into slots=Pon la borcita o bote y er producto en loh espacioh
+## Drag packaging + product into slots=Pon la borcita o bote y er producto en loh espacioh
+Drag product + packaging into slots=Pon la borcita o bote y er producto en loh espacioh
+Drag packaged product into output=Pon la borcita con producto en la "Salida"
 Product=Producto
 Packaging=Recipiente
 PACKAGE=EMPACÁH
+UNPACKAGE=DESEMPACÁH
+UNPACK=DESEMPACÁH
+PACK=EMPACÁH
 Suspension Rack is supporting another item=El zoporte de luceh e'ta ciendo utilizao por otro ohjeto
 Output=Salida
 Input=Entrada
@@ -216,7 +221,7 @@ Task Details=Detalleh de la Tarea
 
 Another Day in Paradise=Otro día mah en er paraízo
 Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de almacenamiento y cocesha la planta de marihuana.
-Package all the weed at the packaging station=Mete lah marihuana en borcitah en la empaquetadora
+Package all the weed at the packaging station=Mete la marihuana en borcitah en la empaquetadora
 
 
 
@@ -407,7 +412,8 @@ Friendly=Colega
 ## EFECTOS ##
 
 
-
+## PANTALLAS DE CARGA ##
+Prologue=Prólogo
 
 ## NUEVO ##
 
