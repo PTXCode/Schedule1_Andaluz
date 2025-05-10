@@ -531,19 +531,23 @@ Moderate=Normal
 
 ## EFECTOS ##
 •  Balding=•  Calvicie
- • Balding=• Calvicie2
+• Balding=• Calvicie2
 Balding=Calvicie3
 •  Laxative=•  Laxante
- • Laxative=• Laxante2
+• Laxative=• Laxante2
 Laxative=Laxante3
 •  Calming=•  Calmante
- • Calming=•  Calmante
+• Calming=•  Calmante
 Calming=Calmante3
 •  Sedating=•  Sedante
- • Sedating=• Sedante2
+• Sedating=• Sedante2
+Sedating=Sedante3
 •  Focused=•  Concentrado 
- • Focused=• Concentrado2
+• Focused=• Concentrado2
 Focused=Concentrado3
+•  Munchies=•  Gula
+• Munchies=• Gula2
+Munchies=Gula3
 
 ## PANTALLAS DE CARGA ##
 Prologue=Prólogo
