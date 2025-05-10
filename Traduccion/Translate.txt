@@ -594,6 +594,15 @@ Eyeball Color=Colog de Ojoh
 Pupil Dilation=Dilatación de Pupila
 Upper Eyelid Resting Position=Posición der Párpado Superioh
 Lower Eyelid Resting Position=Posición der Párpado Inferioh
+Eyebrows=Cejah
+Eyebrow Scale=Tamaño de Cejah
+Eyebrow Thickness=Grosoh de Cejah
+Eyebrow Resting Height=Altura de Cejah
+Eyebrow Resting Angle=Ángulo de Cejah
+
+
+
+
 
 ## VEHICULOS ##
 Vehicle=Vehículo
