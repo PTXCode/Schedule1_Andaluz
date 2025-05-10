@@ -296,7 +296,10 @@ No it ain't. Infact, ol' Nellie already owes us some serious cash...=No, no lo e
 Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=Por suerte pa ti, ha cumplioh su palabra hasta ahora. Pero dile que máh le vale pagarnoh pronto...
 I also need some weed seeds=También necesito unah semillah de marihuana
 Ballsy today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=¿Vah de li'toh? tá bien, pero si tu Tito no paga, tú seráh er siguiente en caeh.
-
+Evenin', you'd you get on in town?=Ya ehtah aquí, ¿cómo ha ido en er pueblo?
+All good. Got your package but those guys were pretty antsy=To bien. Tengo tu paquete, pero esoh tipoh estaban bastante irritaoh.
+Oh yeah? Eh don't worry about 'em. I'll settle with them soon enough. Thanks for grabbing that for me.=¿Jí? No te preocupes por elloh. son zuhnormaleh. Graciah por recogeh eso por mí pichi.
+Well I'll let you get on with it. See ya tomorrow, bud.=Bueno, te dejo con lo tuyo. Noh vemoh mañana illo.
 
 
 
@@ -323,6 +326,8 @@ Talk to Uncle Nelson's contact at the motel=Habla con el contacto der Tito Nelso
 Wrapping Up=Finalizando los negosioh de la ciudad
 Quest Description=No tiene Descripción
 Drive back to the ranch=Vuerve donde er Tito Nelson
+Return to Uncle Nelson=Habla con er Tito Nelson
+Plant a weed seed in the empty pot=Planta la semilla en la maceta vacía.
 
 
 
