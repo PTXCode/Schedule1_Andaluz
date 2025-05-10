@@ -484,6 +484,7 @@ PGR=Reguladoh de Crecimiento
 Bed=Cama
 Jar=Bote
 Halogen Grow Light=Luh de Curtivo Halógena
+Packaging Station=Empaquetadora
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -505,6 +506,8 @@ A clear glass jar to keep various substances in. Holds 5x units of any product.=
 Grow Tent=Interioh
 A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de curtivo con iluminación integrah y maceta. Lah plantah crecerán máh rápido pero serán máh pequeñah.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luh de curtivo halógena barata y simple. Debe colocarce en un zoporte de luceh.
+Provides a clean surface to place product into packaging.=Proporciona una superficie limpia pa colocah er produhto para empaquetah o desempaquetah. Puede deshaceh bloqueh.
+
 
 
 ## VEHICULOS ##
