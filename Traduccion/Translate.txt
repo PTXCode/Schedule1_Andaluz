@@ -237,7 +237,7 @@ r:(\d+)% chance of success=$1% de probabilidah de éxito
 sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí pa que $1 lo pruebe<\size>
 Only 1 sample product is required.=1 muestra es suficiente.
 sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
-
+You are providing more product than required.=Ehtá dando máh producto de loh necesarioh.
 
 
 ## HISTORIA ##
@@ -530,6 +530,12 @@ Moderate=Normal
 
 
 ## EFECTOS ##
+•  Balding=•  Calvicie
+ • Balding=• Calvicie2
+Balding=Calvicie3
+•  Laxative=•  Laxante
+ • Laxative=• Laxante2
+Laxative=Laxante3
 •  Calming=•  Calmante
  • Calming=•  Calmante
 Calming=Calmante3
