@@ -180,6 +180,7 @@ Rotate Held Item=Rotah Ohjeto
 Change Quantity=Cambiah Cantidah
 Interact / Drag=Interactuah / Arrahtrah
 Drag Multiple=Arrahtrah Múltipleh ohjetoh
+(Hold) Smoke=(Mantener) Fumah
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -216,7 +217,7 @@ Contains items=Contiene ohjeto
 Place product into packaging=Coloca er produhto en el recipiente
 Click baggie to seal=Hah clic en la borcita pa cerrarla
 Place packaging in hopper=Arrastra el recipiente al cajón
-(Hold) Smoke=(Mantener) Fumah
+No soil=No hay tierra
 
 
 ## HISTORIA ##
@@ -232,14 +233,15 @@ Drag the OG Kush into your inventory=Arrahtra la marihuana a tu inventario
 Grab the watering can from the storage rack=Coge la regadera de la estantería Mediana
 Fill up the watering can at the sink and water the other weed plant=Llena la regadera en el fregadero y riega la otra planta de marihuana
 Respond to your customers in the messages app=Responde a tuh clienteh en er Whatsapp
+Talk to Uncle Nelson outside=Habla con er Tito Nelson afuera
 
-r:"^Deal for (.+)"=Trato por $1
-r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Trato de $1 <color\=#c0c0c0ff>(En $2 h comienza)</color>
-r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) min\)</color>$"=Trato de $1 <color\=#c0c0c0ff>(En $2 min comienza)</color>
-r:"^Deal for (.+)<color\=green> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=green> (En $2 h expira)</color>
-r:"^Deal for (.+)<color\=green> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=green> (En $2 min expira)</color>
-r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 h expira)</color>
-r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 min expira)</color>
+r:"^Deal for (.+)"=Entrega pendiente
+r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
+r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) min\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 min comienza)</color>
+r:"^Deal for (.+)<color\=green> \(Expires in (\d+) hrs\)</color>$"=Entrega pendiente <color\=green> (En $2 h expira)</color>
+r:"^Deal for (.+)<color\=green> \(Expires in (\d+) min\)</color>$"=Entrega pendiente <color\=green> (En $2 min expira)</color>
+r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#FF5555FF> (En $2 h expira)</color>
+r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Entrega pendiente <color\=#FF5555FF> (En $2 min expira)</color>
 
 
 
