@@ -567,6 +567,7 @@ Sneaky=Sigiloso3
 Prologue=Prólogo
 Speak to the friendly folk at Dan's Hardware for all your 'home improvement' needs!=Habla con el de la Ferretería de Dan pa todah tuh necesidadeh de "mejorah pa el hogah".
 Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Ten cuidao ar cocinah metanfetamina: aplicah demasiao caloh a la mezcla puede causah una explosión.
+Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Resistirse al arrehto resultará en que lah policia utilice tásereh. Si continúah resistiéndote, eventualmente cambiarán a armah letaleh.
 
 
 ## NUEVO ##
