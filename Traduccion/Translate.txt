@@ -541,7 +541,8 @@ Focused=Concentrado3
 
 ## PANTALLAS DE CARGA ##
 Prologue=Prólogo
-Speak to the friendly folk at Dan's Hardware for all your 'home improvement' needs!=Habla con el amable personal de la Ferretería de Dan para todas tus necesidades de "mejoras para el hogar".
+Speak to the friendly folk at Dan's Hardware for all your 'home improvement' needs!=Habla con el de la Ferretería de Dan pa todah tuh necesidadeh de "mejorah pa el hogah".
+Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Ten cuidao ar cocinah metanfetamina: aplicah demasiao caloh a la mezcla puede causah una explosión.
 
 
 ## NUEVO ##
