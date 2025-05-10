@@ -270,6 +270,9 @@ sr:"^([0-9]+)x (.+)$"=$1x $2
 Insufficient online balance=No tieneh suficiente dinero en tu tarjeta de credito.
 Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la tarjeta. Visita un cajero pa depositah.
 Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente, saca dinero der cajero.
+Pot already full=La maceta ya tiene tierra
+Sow seed=Ponh la semilla
+Already contains seed=Ya tiene semilla
 
 
 ## HISTORIA ##
@@ -328,6 +331,8 @@ Quest Description=No tiene Descripción
 Drive back to the ranch=Vuerve donde er Tito Nelson
 Return to Uncle Nelson=Habla con er Tito Nelson
 Plant a weed seed in the empty pot=Planta la semilla en la maceta vacía.
+Water the seed=Riega la planta
+Head to bed when you're ready=Ve a la cama cuando ehtéh lihto
 
 
 
@@ -361,8 +366,11 @@ You've unlocked Chelsey as a customer. She will now start sending you deal offer
 The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
-
-
+Click and drag to cut soil bag=Hah Clic y arrahtra pa cortah la borza
+r:Pour soil into pot (.+)%=Echáh la tierra $1%)
+Click cap to remove=Haz clic en el tapón pa quitahlo
+Drop seed into hole=Echa la semilla en er bujeroh
+r:Click soil chunks to bury seed (.)/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
 
 ## NPCS ##
 Come here, you are being searched=Ven aquí, tengo que regihtrarte.
