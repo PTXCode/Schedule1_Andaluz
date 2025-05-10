@@ -341,6 +341,7 @@ The law will be your foremost obstacle. You'll have to deal with patrols, body s
 
 
 ## NPCS ##
+Not yet=Illo, no
 Damn, that's pretty nice. You'll hear from me soon=Foh, Te escribiré pronto pichi
 What do you want?=¿Qué quiereh?
 Damn, that's some good shit. You'll hear from me soon=Jodeh, esto está que te cagas. te escribo.
