@@ -15,7 +15,7 @@ Invite Friends=Invitah amigoh
 Continue=Continuah
 New Game=Nuevo juego
 Select Save Slot=Seleccionah ranura de guardao
-Are you sure you want to \noverwrite this save?=¿Estáh seguro de que quieres \nsobrescribir e'te guardao?
+Are you sure you want to \noverwrite this save?=¿Ehtáh seguro de que quieres \nsobrescribir e'te guardao?
 Net worth=Valoh Neto
 Created=Creado
 Last Played=Úrtima veh
@@ -145,7 +145,7 @@ Loading world...=Cargando mundo...
 Loading data...=Cargando datoh...
 Spawning player...=Generando jugadoh...
 Initializing...=Iniciando...
-Are you sure?=¿Estáh sehuro?
+Are you sure?=¿Ehtáh sehuro?
 
 ## ACCIONES ##
 Control=CTRL
@@ -242,7 +242,7 @@ Place packaging in hopper=Arrastra el recipiente al cajón
 No soil=No hay tierra
 Complete Deal=Completar Entrega
 Place the expected products here=Coloca loh productoh esperadoh aquí
-sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$</color><color\=#50E65A>$2</color> por:
+sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 ehtá pagando <color\=#50E65A>$</color><color\=#50E65A>$2</color> por:
 r:Deal completed for (.*)$=Entrega completada con éxito
 Can I interest you in a free sample?=¿Quieres una muestra gratih?
 Give Free Sample=Muestra Gratih
@@ -271,7 +271,7 @@ Insufficient online balance=No tieneh suficiente dinero en tu tarjeta de credito
 Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la tarjeta. Visita un cajero pa depositah.
 Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente, saca dinero der cajero.
 Pot already full=La maceta ya tiene tierra
-Sow seed=Ponh la semilla
+Sow seed=Poneh semilla
 Already contains seed=Ya tiene semilla
 
 
@@ -290,18 +290,18 @@ Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo a
 Cheers. My friend Chelsey might like your stuff. Go check her out=Buenah. A mi amiga Ruth le gustará tu material. Ve a verla.
 Very nice. Chelsey might be interested. You should go talk to them.=Muh bien. Ruth podría ehtah interesada. Deberías ih a hablah con ella.
 Very nice. Chelsey might be interested. You should go talk to her.=Muh bien. Ruth ehtará interesada. Deberías ih a hablah con ella.
-Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Ehtá bien, estáh limpio. Suerte la tuya ehta veh churra. Pero sé que tú y tu tito traman argo en ese rancho.
+Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Ehtá bien, ehtáh limpio. Suerte la tuya ehta veh churra. Pero sé que tú y tu tito traman argo en ese rancho.
 You better watch your back - this town won't tolerate scum like you for much longer...=tate atento siempre, ehta ciudad no tolerará basura como tú por mucho tiempo...
 I'm here for Nelson's package=Dame er paquete de mi Tito Nelson
 Oh yeah? And you gonna pay for it?=¿Y vah a pagah por er paquete?
 It's already paid for=Ya'ta pagao, que diceh notah
-No it ain't. Infact, ol' Nellie already owes us some serious cash...=No, no lo está. Tu Tito ya noh debe una buena cantidah de dinero...
+No it ain't. Infact, ol' Nellie already owes us some serious cash...=No, no lo ehtá. Tu Tito ya noh debe una buena cantidah de dinero...
 Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=Por suerte pa ti, ha cumplioh su palabra hasta ahora. Pero dile que máh le vale pagarnoh pronto...
 I also need some weed seeds=También necesito unah semillah de marihuana
 Ballsy today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=¿Vah de li'toh? tá bien, pero si tu Tito no paga, tú seráh er siguiente en caeh.
-Evenin', you'd you get on in town?=Ya ehtah aquí, ¿cómo ha ido en er pueblo?
-All good. Got your package but those guys were pretty antsy=To bien. Tengo tu paquete, pero esoh tipoh estaban bastante irritaoh.
-Oh yeah? Eh don't worry about 'em. I'll settle with them soon enough. Thanks for grabbing that for me.=¿Jí? No te preocupes por elloh. son zuhnormaleh. Graciah por recogeh eso por mí pichi.
+Evenin', you'd you get on in town?=Ya ehtah aquí, ¿cómo ha ido?
+All good. Got your package but those guys were pretty antsy=To bien. Tengo tu paquete, pero esoh tipoh estaban bastanteh irritaoh.
+Oh yeah? Eh don't worry about 'em. I'll settle with them soon enough. Thanks for grabbing that for me.=¿Jí? No te preocupes por elloh. son zuhnormaleh. Graciah por recogeh eso pichi.
 Well I'll let you get on with it. See ya tomorrow, bud.=Bueno, te dejo con lo tuyo. Noh vemoh mañana illo.
 
 
@@ -335,8 +335,6 @@ Water the seed=Riega la planta
 Head to bed when you're ready=Ve a la cama cuando ehtéh lihto
 
 
-
-
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) min\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 min comienza)</color>
@@ -362,7 +360,7 @@ While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</co
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este eh tu <color\=#88CBFF>red de contactoh</color>. Aquí eh donde puedeh veh a toh tuh clienteh y clienteh potencialeh.
 The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente exihtente.
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
-You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a Ruth como cliente. Ahora empezará a enviarte ofertah de negosio.
+You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a <color\=#88CBFF>Ruth</color> como cliente. Ahora empezará a enviarte ofertah de negosio.
 The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
@@ -377,8 +375,8 @@ Come here, you are being searched=Ven aquí, tengo que regihtrarte.
 Not yet=Illo, no
 Damn, that's pretty nice. You'll hear from me soon=Foh, Te escribiré pronto pichi
 What do you want?=¿Qué quiereh?
-Damn, that's some good shit. You'll hear from me soon=Jodeh, esto está que te cagas. te escribo.
-Wow that's pretty good, I'll message you=esa mierda está bastante bien, te enviaré un mensaje
+Damn, that's some good shit. You'll hear from me soon=Jodeh, esto ehtá que te cagas. te escribo.
+Wow that's pretty good, I'll message you=esa mierda ehtá bastante bien, te enviaré un mensaje
 I don't think so...=Creo que no...
 Let's see...=Amo a veh...
 Mmm not bad... I'll message you=Mmm... No ta mah. Te escribiré.
