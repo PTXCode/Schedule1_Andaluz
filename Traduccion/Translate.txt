@@ -199,7 +199,7 @@ Switch on=Encendeh
 ## MECANICAS ##
 r:(\d+)% grown=Lleva Crecio un $1%
 NEEDS WATER=ECHALE AGUA PREMOH
-Contains plant=Esta coceshao
+Contains plant=ehta coceshao
 Contains trash=Tiene basura
 Use trimmers to harvest=Usa lah estijerah pa coceshá
 Pour water=Echáh agua
@@ -282,8 +282,8 @@ Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo a
 Cheers. My friend Chelsey might like your stuff. Go check her out=Buenah. A mi amiga Ruth le gustará tu material. Ve a verla.
 Very nice. Chelsey might be interested. You should go talk to them.=Muh bien. Ruth podría ehtah interesada. Deberías ih a hablah con ella.
 Very nice. Chelsey might be interested. You should go talk to her.=Muh bien. Ruth ehtará interesada. Deberías ih a hablah con ella.
-Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Ehtá bien, estáh limpio. Suerte la tuya esta veh churra. Pero sé que tú y tu tito traman argo en ese rancho.
-You better watch your back - this town won't tolerate scum like you for much longer...=Será mejoh que mireh por encima del hombro — esta ciudad no tolerará basura como tú por mucho tiempo...
+Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Ehtá bien, estáh limpio. Suerte la tuya ehta veh churra. Pero sé que tú y tu tito traman argo en ese rancho.
+You better watch your back - this town won't tolerate scum like you for much longer...=tate atento siempre, ehta ciudad no tolerará basura como tú por mucho tiempo...
 
 
 ## DIARIO ##
@@ -336,11 +336,12 @@ Every customer has their own preferences for drug type and effects.=Cada cliente
 You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a Ruth como cliente. Ahora empezará a enviarte ofertah de negosio.
 The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
-The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh. Musha polisiah, poca diversion
+The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
 
 
 
 ## NPCS ##
+What do you want?=¿Qué quiereh?
 Damn, that's some good shit. You'll hear from me soon=Jodeh, esto está que te cagas. te escribo.
 Wow that's pretty good, I'll message you=esa mierda está bastante bien, te enviaré un mensaje
 I don't think so...=Creo que no...
@@ -394,7 +395,7 @@ Thanks for shopping at Handy Hanks!=¡Graciah por comprar en Handy Hanks!
 HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Dame drogita, que estoy pillando moscas ya. ¿Tienes argo?
 Eh, I don't think so loco=Que va loquete
 Good doing business with you, sir.=Tus huevos niño, graciah por confiar en mi.
-You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
+You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. ehta cerca de la oficina del motel.
 
 ## TELEFONO ## 
 Character=Perzonaje
