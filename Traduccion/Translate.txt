@@ -321,7 +321,7 @@ You only know one way to make money. Time to get to work.=Solo conoceh una forma
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Killo, qué gusto oíh tu voh. Parece que nuestra suerte sa'cabao. Loh Verdeh me tienen enserraoh mientrah ehpero er juicio. Me alegra sabeh que no te han pillaoh.
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=Anteh de mudarme a Serena Flats, vivía en Hyland Point. No eh la ciudad máh agradable, pero hay muchah oportunidadeh pa... ya tu sabeh...
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Si la memoria no me falla, tengo argo de dinero por ahí. No es mucho, pero bastará.
-You can find it stashed near the <color\=#88CBFF>town hall fountain, in the canal,</color> and <color\=#88CBFF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Puedeh encontrarlo ehcondioh cerca de la <color\=#88CBFF>Fuente del ayuntamiento, en er canah</color> y <color\=#88CBFF>detrás der supermercado</color>. Ve a buscahlo, dehpueh seguimoh.
+You can find it stashed near the <color\=#88CBFF>town hall fountain, in the canal,</color> and <color\=#88CBFF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Puedeh encontrarlo ehcondioh cerca de la <color\=#88CBFF>Fuente del ayuntamiento, en er canah</color> y <color\=#88CBFF>detrás der supermercaoh</color>. Ve a buscahlo, dehpueh seguimoh.
 
 ## DIARIO ##
 Tasks=Tareah
@@ -354,10 +354,16 @@ Welcome to Hyland Point=Bienvenioh a Hyland Point
 Open your phone (press Tab) and read your messages=Abre tu teléfono (Presiona TAB) y lee tuh mensajeh
 Talk to 'U.N.' at a payphone=Habla con 'U.N.' en un teléfono público
 You're in a new town with no cash and no product. Get in contact with a distant relative and get some advice.=Ehtáh en una ciudad nueva, sin dinero, ni producto. Contacta con un pariente lejano y pídele consejo.
-
-• Collect the stash behind the supermarket=• Busca el alijo detráh der supermercado
+• Collect the stash behind the supermarket=• Busca el alijo detráh der supermercaoh
 • Collect the stash near the fountain=• Busca el alijo cerca de la fuente
 • Collect the stash near the canal=• Busca el alijo cerca der canah
+Collect the stash behind the supermarket=Busca el alijo detráh der supermercaoh
+Collect the stash near the fountain=Busca el alijo cerca de la fuente
+Collect the stash near the canal=Busca el alijo cerca der canah
+
+
+
+
 
 
 r:"^Deal for (.+)"=Entrega pendiente
