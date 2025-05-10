@@ -260,6 +260,7 @@ Asking Price=Preguntar precio
 r:Fair price: \$(\d{1,3}(?:,\d{3})*)=Precio Justo: $1
 New Customer Unlocked!=¡Nuevo Cliente Desbloqueaoh!
 Knock=Llamah
+BODY SEARCH IN PROGRESS=REGISTRO CORPORAH EN CURSO
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -298,6 +299,7 @@ Time to expand your customer base, grab some supplies and talk to Uncle Nelson's
 Open the contacts app=Abre la app de "Contactoh "
 r:Provide a sample to Chelsey near the doctor's office=Dale una muestra gratuita a Ruth en la oficina del doctoh
 Purchase 2x soil from the hardware store=Compra 2x de tierra en la ferretería
+Talk to Uncle Nelson's contact at the motel=Habla con el contacto der Tito Nelson
 
 
 r:"^Deal for (.+)"=Entrega pendiente
@@ -327,6 +329,9 @@ The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
 You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a Ruth como cliente. Ahora empezará a enviarte ofertah de negosio.
 
+Body Search=Registro Corporah
+The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
+<color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 
 
 
