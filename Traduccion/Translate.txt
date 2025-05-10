@@ -315,7 +315,7 @@ While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</co
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este es tu <color\=#88CBFF>red de contactoh</color>. Aquí eh donde puedeh veh a toh tuh clienteh y clienteh potencialeh.
 The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente existente.
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
-
+You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a Ruth como cliente. Ahora empezará a enviarte ofertah de negosio.
 
 
 
