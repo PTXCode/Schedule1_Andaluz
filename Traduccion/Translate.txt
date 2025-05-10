@@ -222,7 +222,7 @@ Purchase=Comprah
 Product=Producto
 Packaging=Recipienteh
 Furniture=Muebleh
-Storage=<size\=12>Armacenamiento</size>
+Storage=<size\=11>Armacenamiento</size>
 Ingredients=Ingredienteh
 Agriculture=Agricultura
 Tools=<size\=11>Herramientas</size>
