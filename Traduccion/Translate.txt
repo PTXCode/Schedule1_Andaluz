@@ -109,7 +109,7 @@ Loading...=Cargandoh...
 
 Game=Juego
 Console=Consola
-Press ~ (tilde) to toggle=Preciona ~ (tilde) para abrih/cerrah la consola DEV
+Press ~ (tilde) to toggle=Preciona ~ (tilde) pa abrih/cerrah la consola DEV
 View Commands=Ver Comandoh
 
 PAUSED=JUEGO PAUSADO
@@ -171,6 +171,7 @@ Pickpocket=Robah
 Picking Objects Up=Recogiendo ohjetoh
 Move All=Moveh Toh
 Active=Activo
+Completed=Completado
 Inactive=Inactivo
 Rotate Pot=Rotah Maceta
 Exit=Salih
@@ -227,12 +228,12 @@ No soil=No hay tierra
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
-Morning buddy, lovely day ain't it?=Buenoh díah sobrino, buen dia pa trabajá
+Morning buddy, lovely day ain't it?=Buenoh díah sobrino, hace buen dia.
 Sure is=Aro tito
 If you're heading in to town for some deals, would you mind grabbing something for me?=Niño, me hace farta que vayah a la cuidah a por unos recahos. ¿Puedeh ih?
-I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=Tieneh que ih al motel, allí estarán unoh chavaleh, dileh que vas de mi parte. No necesitas pagar nada.
+I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=Tieneh que ih al motel, allí estarán unoh chavaleh, dileh que vas de mi parte. No necesitah pagah nah.
 If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Si tieneh que comprah argo, ponlo a mi cuenta, yo pago esta veh.
-Cheers buddy. Feel free to take my truck.=Graciah niño. toma lah llaveh der bicharraco rojo. Date bulla.
+Cheers buddy. Feel free to take my truck.=Graciah niño. llevate er bicharraco.
 
 
 
@@ -263,12 +264,12 @@ r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Entrega p
 
 
 ## TUTORIALES ##
-Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón deresho del ratón</color> sobre un ohjeto para cogehlo.
+Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón deresho del ratón</color> sobre un ohjeto pa cogehlo.
 Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
 Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
-r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh para coceshah $1/$2
+r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh pa coceshah $1/$2
 You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro der período que elijah. Por ahora, elige el período de la mañana.
-Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> para abrih tu teléfono.
+Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> pa abrih tu teléfono.
 
 
 
@@ -401,6 +402,11 @@ Suspension Rack=Zoporte de Luceh
 Baggie=Borcita
 Cash=Efectivo
 
+## VEHICULOS ##
+Enter vehicle=Entrah al vehículo
+Access trunk=Abrih er maletero
+Trunk=Maletero
+
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -410,7 +416,7 @@ A medium sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño mediano, 
 A large sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño grande, 8 Slots.
 Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% más rápido. Necesita un Zoporte de luceh.
-Used to hang grow lights above pots.=Se usa para corgah luceh de curtivo sobre macetah.
+Used to hang grow lights above pots.=Se usa pa corgah luceh de curtivo sobre macetah.
 A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquier producto.
 Cold hard cash.=Dinero en efectivo.
 
