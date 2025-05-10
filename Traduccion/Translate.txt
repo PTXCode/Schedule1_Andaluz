@@ -264,6 +264,10 @@ You're in room 1. It's the one closest to the motel office.=illo, tu habitación
 ## TELEFONO ## 
 Character=Perzonaeh
 Messages=Mensajeh
+Contacts=Contactoh
+Yep=Sí
+Yes=Sí
+Deal=Trato
 
 
 
