@@ -191,6 +191,7 @@ ALREADY RECENTLY OFFERED=YA LE HAH OFRECIDO
 CUSTOMER ALREADY HAS A PENDING OFFER=TIENE UNA OFERTA PENDIENTE
 CUSTOMER RECENTLY COMPLETED A DEAL=LE HAN VENDIOH YA
 (Hold) Mount=(Manteneh) Montah
+Speed Up Search=Acelerah Búsqueda
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -261,6 +262,8 @@ r:Fair price: \$(\d{1,3}(?:,\d{3})*)=Precio Justo: $1
 New Customer Unlocked!=¡Nuevo Cliente Desbloqueaoh!
 Knock=Llamah
 BODY SEARCH IN PROGRESS=REGISTRO CORPORAH EN CURSO
+Body Search=Registro Corporah
+Click and hold items to conceal=Hah clic y mantén presionaoh los ohjetoh pa ocurtahloh
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -270,6 +273,9 @@ If you're heading in to town for some deals, would you mind grabbing something f
 I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=Tieneh que ih ar moteh, allí estarán unoh chavaleh, dileh que vah de mi parte. No necesitah pagah nah.
 If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=Si tieneh que comprah argo, ponlo a mi cuenta, yo pago ehta veh.
 Cheers buddy. Feel free to take my truck.=Graciah niño. llevate er bicharraco.
+Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=Ehtá bien, estáh limpio. Suerte la tuya esta veh churra. Pero sé que tú y tu tito traman argo en ese rancho.
+You better watch your back - this town won't tolerate scum like you for much longer...=Será mejoh que mireh por encima del hombro — esta ciudad no tolerará basura como tú por mucho tiempo...
+
 
 Thank you. You should go talk to Chelsey - I think they'll like your stuff=Killo. Hablah con Ruth, creo que le va a molah tu producto.
 Thank you. You should go talk to Chelsey - I think she'll like your stuff=Graciah illo. Deberíah hablah con Ruth, le gustará tu producto.
@@ -328,10 +334,9 @@ This is your <color\=#88CBFF>contacts web</color>. This is where you can view al
 The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente existente.
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
 You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a Ruth como cliente. Ahora empezará a enviarte ofertah de negosio.
-
-Body Search=Registro Corporah
 The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
+The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh. Musha polisiah, poca diversion
 
 
 
