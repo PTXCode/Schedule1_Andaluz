@@ -323,6 +323,7 @@ Drive back to the ranch=Vuerve donde er Tito Nelson
 
 
 
+
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) min\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 min comienza)</color>
@@ -506,6 +507,7 @@ Bed=Cama
 Jar=Bote
 Halogen Grow Light=Luh de Curtivo Halógena
 Packaging Station=Empaquetadora
+Seed=Semilla
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
