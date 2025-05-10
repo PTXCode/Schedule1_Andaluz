@@ -343,6 +343,7 @@ The law will be your foremost obstacle. You'll have to deal with patrols, body s
 
 
 ## NPCS ##
+Come here, you are being searched=Ven aquí, tengo que regihtrarte.
 Not yet=Illo, no
 Damn, that's pretty nice. You'll hear from me soon=Foh, Te escribiré pronto pichi
 What do you want?=¿Qué quiereh?
