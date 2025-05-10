@@ -328,8 +328,8 @@ To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <
 Input Hints=Consejoh de Botoneh
 If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Si ereh zuhnormah y no zabe haceh argo, \nnormahmente hay consejoh de botoneh en la e'quina inferioh ihquierda.
 While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</color> to rotate it.=Pa rotah un ohjeto, preciona <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>.
-This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este es tu <color\=#88CBFF>red de contactoh</color>. Aquí eh donde puedeh veh a toh tuh clienteh y clienteh potencialeh.
-The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente existente.
+This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este eh tu <color\=#88CBFF>red de contactoh</color>. Aquí eh donde puedeh veh a toh tuh clienteh y clienteh potencialeh.
+The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente exihtente.
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
 You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a Ruth como cliente. Ahora empezará a enviarte ofertah de negosio.
 The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
@@ -339,6 +339,7 @@ The law will be your foremost obstacle. You'll have to deal with patrols, body s
 
 
 ## NPCS ##
+Damn, that's some good shit. You'll hear from me soon=Jodeh, esto está que te cagas. te escribo.
 Wow that's pretty good, I'll message you=esa mierda está bastante bien, te enviaré un mensaje
 I don't think so...=Creo que no...
 Let's see...=Amo a veh...
@@ -622,6 +623,10 @@ Be careful when cooking meth - applying too much heat to the mixture may cause a
 Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Resistirse al arrehto resultará en que lah policia utilice tásereh. Si continúah resistiéndote, eventualmente cambiarán a armah letaleh.
 Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Hyland Point fue fundada por primera veh en 1903 graciah a loh esfuerzoh de P.P. Hyland.
 Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=¿Ereh un tacaño? Loh clienteh a veceh no notan si leh dah un poco menoh de producto. Ehto lo usaran na'ma loh catalufoh.
+You can repaint your vehicles at the body shop.=Puedeh repintah tuh vehículoh en er talleh.
+
+
+
 
 ## NUEVO ##
 
