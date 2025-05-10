@@ -190,6 +190,7 @@ Complete Deal=Completah er trato
 ALREADY RECENTLY OFFERED=YA LE HAH OFRECIDO
 CUSTOMER ALREADY HAS A PENDING OFFER=TIENE UNA OFERTA PENDIENTE
 CUSTOMER RECENTLY COMPLETED A DEAL=LE HAN VENDIOH YA
+(Hold) Mount=(Manteneh) Montah
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -203,7 +204,7 @@ Use trimmers to harvest=Usa lah estijerah pa coceshá
 Pour water=Echáh agua
 Pour soil=Echáh tierra
 Harvest=Coceshah
-Access storage=Accedeh al almacenamiento
+Access storage=Accedeh al armacenamiento
 No plant in this pot=No hay na plantao en la maceta
 Fill watering can=Llenah la regadera
 Use Packaging Station=Usah la Empaquetadora
@@ -214,8 +215,17 @@ Currently cooking=Ehtá cocinando pichi
 ## Drag packaging + product into slots=Pon er producto y el recipiente en loh espacioh
 Drag product + packaging into slots=Pon la borcita o bote y er producto en loh espacioh
 Drag packaged product into output=Pon la borcita con producto en la "Salida"
+Cart=Carrito
+Add to Cart=Al carrito
+Purchase=Comprah
 Product=Producto
-Packaging=Recipiente
+Packaging=Recipienteh
+Furniture=Muebleh
+Storage=Armacenamiento
+Ingredients=Ingredienteh
+Agriculture=Agricultura
+Tools=<size\=11>Herramientas</size>
+Lights=Luceh
 PACKAGE=EMPACÁH
 UNPACKAGE=DESEMPACÁH
 UNPACK=DESEMPACÁH
@@ -274,7 +284,7 @@ Tasks=Tareah
 Task Details=Detalleh de la Tarea
 
 Another Day in Paradise=Otro día mah en er paraízo
-Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de almacenamiento y cocesha la planta de marihuana.
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de armacenamiento y cocesha la planta de marihuana.
 Package all the weed at the packaging station=Mete la marihuana en borcitah en la empaquetadora
 Drag the OG Kush into your inventory=Arrahtra la marihuana a tu inventario
 Grab the watering can from the storage rack=Coge la regadera de la estantería Mediana
@@ -458,15 +468,10 @@ LED Grow Light=Luh LED de curtivoh
 Suspension Rack=Zoporte de Luceh
 Baggie=Borcita
 Cash=Efectivo
-
-## VEHICULOS ##
-Vehicle=Vehículo
-Enter vehicle=Entrah al vehículo
-Access trunk=Abrih er maletero
-Trunk=Maletero
-This is the vehicle you last drove.\nMust be within 20 meters.=Ehte es el vehículo mah cerca a ti.\nDebe ehta a menoh de 20 metroh.
-
-
+Soil=Tierra
+Fertilizer=Fertilizante
+Speed Grow=Crecimiento Rápido
+PGR=Reguladoh de Crecimiento
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -475,10 +480,23 @@ A small sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño pequeño, 
 A medium sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño mediano, 6 Slots.
 A large sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño grande, 8 Slots.
 Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
-A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% más rápido. Necesita un Zoporte de luceh.
+A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% máh rápido. Necesita un Zoporte de luceh.
 Used to hang grow lights above pots.=Se usa pa corgah luceh de curtivo sobre macetah.
 A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquier producto.
 Cold hard cash.=Dinero en efectivo.
+Basic potting soil to grow stuff in.=Tierra básica pa plantah. cosecha propia eh.
+All-natural fertilizer which will increase the quality of your plants.=Fertilizante completamente naturah que aumentará la calidah de tuh curtivoh.
+Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneamente la planta un 50%, pero reduce la calidah de la planta.
+Plant growth regulator (PGR) will increase the yields of your plants, at the cost of quality.=El regulador de crecimiento de plantas (PGR) aumentará el rendimiento de tuh curtivoh, a costa de la calidah.
+
+
+
+## VEHICULOS ##
+Vehicle=Vehículo
+Enter vehicle=Entrah al vehículo
+Access trunk=Abrih er maletero
+Trunk=Maletero
+This is the vehicle you last drove.\nMust be within 20 meters.=Ehte es el vehículo mah cerca a ti.\nDebe ehta a menoh de 20 metroh.
 
 
 ## TRADERS ##
@@ -588,8 +606,7 @@ Speak to the friendly folk at Dan's Hardware for all your 'home improvement' nee
 Be careful when cooking meth - applying too much heat to the mixture may cause an explosion.=Ten cuidao ar cocinah metanfetamina: aplicah demasiao caloh a la mezcla puede causah una explosión.
 Resisting arrest will result in law enforcement utilizing tasers. Continue to resist, and they'll eventually switch to lethal weapons.=Resistirse al arrehto resultará en que lah policia utilice tásereh. Si continúah resistiéndote, eventualmente cambiarán a armah letaleh.
 Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Hyland Point fue fundada por primera veh en 1903 graciah a loh esfuerzoh de P.P. Hyland.
-
-## UI - INTERFACES - MENUS NPCS ##
+Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=¿Ereh un tacaño? Loh clienteh a veceh no notan si leh dah un poco menoh de producto. Ehto lo usaran na'ma loh catalufoh.
 
 ## NUEVO ##
 
