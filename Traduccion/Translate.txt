@@ -193,6 +193,7 @@ CUSTOMER ALREADY HAS A PENDING OFFER=TIENE UNA OFERTA PENDIENTE
 CUSTOMER RECENTLY COMPLETED A DEAL=LE HAN VENDIOH YA
 (Hold) Mount=(Manteneh) Montah
 Speed Up Search=Acelerah Búsqueda
+Sleep=Dormih
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -273,7 +274,11 @@ Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente,
 Pot already full=La maceta ya tiene tierra
 Sow seed=Poneh semilla
 Already contains seed=Ya tiene semilla
-
+Waking up at=Despertar a lah
+XP Earned=XP Ganáh
+Products Sold=Produhtoh Vendioh
+Player Earnings=Gananciah der Jugadoh
+Dealer Earnings=Gananciah der Vendedoh
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -368,7 +373,7 @@ Click and drag to cut soil bag=Hah Clic y arrahtra pa cortah la borza
 r:Pour soil into pot (.+)%=Echáh la tierra $1%)
 Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
-r:Click soil chunks to bury seed (.)/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
+r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
 
 ## NPCS ##
 Come here, you are being searched=Ven aquí, tengo que regihtrarte.
