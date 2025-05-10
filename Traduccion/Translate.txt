@@ -215,7 +215,7 @@ Tasks=Tareah
 Task Details=Detalleh de la Tarea
 
 Another Day in Paradise=Otro día mah en er paraízo
-Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la e'tanteria de almacenamiento y cocesha la planta de marihuana.
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de almacenamiento y cocesha la planta de marihuana.
 Package all the weed at the packaging station=Mete lah marihuana en borcitah en la empaquetadora
 
 
@@ -337,9 +337,9 @@ r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perf
 Watering Can=Regadera
 Watering can empty=Regadera vacía
 Plant Trimmers=Estijerah
-Small Storage Rack=E'tantería Pequeña
-Medium Storage Rack=E'tantería Mediana
-Large Storage Rack=E'tantería Grande
+Small Storage Rack=Estantería Pequeña
+Medium Storage Rack=Estantería Mediana
+Large Storage Rack=Estantería Grande
 Plastic Pot=Maceta de Pláhtico
 Viagor=Viagra
 LED Grow Light=Luh LED de curtivoh
@@ -351,9 +351,9 @@ Cash=Efectivo
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
 A pair of plant trimmers. Necessity for harvesting plants.=Unas estijeras e'pecialeh pa podah. La necesitah pa cortá plantah
-A small sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño pequeño, 4 Slots.
-A medium sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño mediano, 6 Slots.
-A large sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño grande, 8 Slots.
+A small sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño pequeño, 4 Slots.
+A medium sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño mediano, 6 Slots.
+A large sized, 4-tier storage rack.=Estantería de 4 niveleh, tamaño grande, 8 Slots.
 Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% más rápido. Necesita un Zoporte de luceh.
 Used to hang grow lights above pots.=Se usa para corgah luceh de curtivo sobre macetah.
