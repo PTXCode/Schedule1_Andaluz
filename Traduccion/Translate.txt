@@ -6,7 +6,7 @@
 ## SALTOS DE LINEA: \n ##
 
 ## INICIO ##
-TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibias.\n\nLo' prosesoh mostraoh en este juego son completamente fictisioh y no reflejan la realidah. No intenteh zeguih estoh procezoh mostro - no podrah creah droga picha, deate de tonteriah y amo a trabajah.\n\nEspabila coño y no uceh o consumah drogah. \n\nTraducción al Andaluz por MrPotrex - PTXCode
+TVGS does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n=TVGS no aprueba la fabricación, comercio o uso de sustancias prohibias.\n\nLoh prosesoh mostraoh en este juego son completamente fictisioh y no reflejan la realidah. No intenteh zeguih estoh procezoh mostro - no podrah creah droga picha, deate de tonteriah y amo a trabajah.\n\nEspabila coño y no uceh o consumah drogah. \n\nTraducción al Andaluz por MrPotrex - PTXCode
 
 ## MENU PRINCIPAL ##
 r:"^Lobby \((\d+)/(\d+)\)"=Sala ($1/$2)
