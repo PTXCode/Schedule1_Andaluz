@@ -234,7 +234,7 @@ Give Free Sample=Muestra Gratih
 Customer expectations not met=Expectativah no cumplias
 r:"^(\d+)% chance of customer accepting$"=$1% de probabilidad de éxito
 r:(\d+)% chance of success=$1% de probabilidah de éxito
-sr:"^Place a product here for Chelsey to try$"=<\size=12>Coloca un producto aquí pa que Ruth lo pruebe<\size>
+Place a product here for Chelsey to try=Coloca un producto aquí pa que Ruth lo pruebe
 sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí pa que $1 lo pruebe<\size>
 Only 1 sample product is required.=1 muestra es suficiente.
 sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
@@ -278,7 +278,7 @@ Drive into town=Conduce hacia la ciudad
 Park the car=Aparca er coche
 Making the Rounds=Haciendo lah rondah
 Time to expand your customer base, grab some supplies and talk to Uncle Nelson's contact at the motel.=Es hora de ampliah tu base de clienteh, toma algunah provicioneh y habla con er contacto del Tito Nelson en el motel.
-Open the contacts app=Abre la app de "Contactos"
+Open the contacts app=Abre la app de "Contactoh "
 r:Provide a sample to Chelsey near the doctor's office=Dale una muestra gratuita a Ruth en la oficina del doctoh
 Purchase 2x soil from the hardware store=Compra 2x de tierra en la ferretería
 
@@ -312,6 +312,7 @@ The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample
 
 
 ## NPCS ##
+I don't think so...=Creo que no...
 Let's see...=Amo a veh...
 Mmm not bad... I'll message you=Mmm... No ta mah. Te escribiré.
 Let me try...= Déhame probah...
