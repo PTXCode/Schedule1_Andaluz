@@ -229,6 +229,14 @@ Complete Deal=Completar Entrega
 Place the expected products here=Coloca loh productoh esperadoh aquí
 sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$2</color> por:
 r:Deal completed for (.*)$=Entrega completada con éxito
+Can I interest you in a free sample?=¿Quieres una muestra gratih?
+Give Free Sample=Muestra Gratih
+Customer expectations not met=Expectativah no cumplias
+r:"^(\d+)% chance of customer accepting$"=$1% de probabilidad de éxito
+r:(\d+)% chance of success=$1% de probabilidah de éxito
+sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí pa que $1 lo pruebe<\size>
+Only 1 sample product is required.=1 muestra es suficiente.
+sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
 
 
 
@@ -297,9 +305,12 @@ While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</co
 
 
 ## NPCS ##
-Customer expectations not met=Expectativah no cumplias
-r:"^(\d+)% chance of customer accepting$"=$1% de probabilidad de éxito
+
+
 Much appreciated=Muh agradecioh
+Hi=Ey
+Hello=Hola
+Good afternoon=Buenah tardeh
 Thanks!=¡Gracias!
 Very nice=Mu bien
 Cheers=Amonoh
