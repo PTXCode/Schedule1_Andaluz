@@ -11,3 +11,4 @@ Doug=JPelicojo
 Joe=El Bananero
 Uncle Nelson=Tito Nelson
 Chelsey=Ruth
+Nelson's contact=Contacto del Tito Nelson

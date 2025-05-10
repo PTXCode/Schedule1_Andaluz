@@ -245,6 +245,7 @@ Offer Deal=Ofreceh Trato
 Place product here=Ofreceh un producto
 Asking Price=Preguntar precio
 r:Fair price: \$(\d{1,3}(?:,\d{3})*)=Precio Justo: $1
+New Customer Unlocked!=¡Nuevo Cliente Desbloqueaoh!
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
