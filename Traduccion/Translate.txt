@@ -234,7 +234,7 @@ Give Free Sample=Muestra Gratih
 Customer expectations not met=Expectativah no cumplias
 r:"^(\d+)% chance of customer accepting$"=$1% de probabilidad de éxito
 r:(\d+)% chance of success=$1% de probabilidah de éxito
-Place a product here for Chelsey to try=Coloca un producto aquí pa que Ruth lo pruebe
+Place a product here for Chelsey to try=Coloca producto pa que Ruth lo pruebe
 sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí pa que $1 lo pruebe<\size>
 Only 1 sample product is required.=1 muestra es suficiente.
 sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
