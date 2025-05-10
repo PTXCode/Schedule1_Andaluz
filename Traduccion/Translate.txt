@@ -146,6 +146,7 @@ Loading data...=Cargando datoh...
 Spawning player...=Generando jugadoh...
 Initializing...=Iniciando...
 Are you sure?=¿Ehtáh sehuro?
+Not recommended for new players=No recomendaoh pa nuevoh jugadoreh
 
 ## ACCIONES ##
 Control=CTRL
@@ -467,7 +468,6 @@ Select Deal Time=Seleccionah Hora del Negosio
 You can complete the deal any time within the window=Puedeh completah el negosio en cualquieh momento dentro del período
 Current Time=Hora actual
 Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Desbloquea a ehte cliente dándole una muestra gratih. Usa tu mapa pa veh su ubicación aproximada.
-I've heard you're in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que ehtáh en problemah. Mejoh no hableh por tu teléfono móvih. Ve a buhcah un teléfono público. - U.N.
 
 
 
@@ -752,6 +752,7 @@ If you die in singleplayer, you'll go back to your last save. If you die in mult
 There are a number of ATMs scattered throughout Hyland Point for your convenience.=Hay varioh cajeroh automáticoh repartioh por Hyland Point.
 A coca plant will display distinctive red berries when it is ready for harvest.=Una planta de coca mostrará bayah rojah distintivah cuando esté lista pa la cosecha.
 Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesitah esconderte de lah pulisiah? Prueba un arbusto, un contenedoh de basura o un árboh grande.
+Each property has a limit to the amount of employees that can work there.=Cada propiedah tiene un límite en la cantidad de empleadoh que pueden trabajah allí.
 
 
 
