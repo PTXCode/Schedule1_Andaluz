@@ -268,6 +268,7 @@ Quantity=Cantidah
 Click and hold items to conceal=Hah clic y mantén presionaoh los ohjetoh pa ocurtahloh
 sr:"^([0-9]+)x (.+)$"=$1x $2
 Insufficient online balance=No tieneh suficiente dinero en tu tarjeta de credito.
+Insufficient online balance. Visit an ATM to deposit cash.=Dinero insuficiente en la tarjeta. Visita un cajero pa depositah.
 Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente, saca dinero der cajero.
 
 ## HISTORIA ##
