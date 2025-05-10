@@ -10,3 +10,4 @@ Andy=Mohamed
 Doug=JPelicojo
 Joe=El Bananero
 Uncle Nelson=Tito Nelson
+Chelsey=Ruth
