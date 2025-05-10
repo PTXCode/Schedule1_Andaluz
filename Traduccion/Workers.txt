@@ -9,3 +9,6 @@
 Andy=Mohamed
 Doug=JPelicojo
 Joe=El Bananero
+r:"^Deal for Andy"=Trato por Mohamed
+r:"^Deal for Doug"=Trato por JPelicojo
+r:"^Deal for Joe"=Trato por El Bananero
