@@ -233,6 +233,14 @@ Grab the watering can from the storage rack=Coge la regadera de la estantería M
 Fill up the watering can at the sink and water the other weed plant=Llena la regadera en el fregadero y riega la otra planta de marihuana
 Respond to your customers in the messages app=Responde a tuh clienteh en er Whatsapp
 
+r:"^Deal for (.+)"=Trato por $1
+r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Trato de $1 <color\=#c0c0c0ff>(En $2 h comienza)</color>
+r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) min\)</color>$"=Trato de $1 <color\=#c0c0c0ff>(En $2 min comienza)</color>
+r:"^Deal for (.+)<color\=green> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=green> (En $2 h expira)</color>
+r:"^Deal for (.+)<color\=green> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=green> (En $2 min expira)</color>
+r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 h expira)</color>
+r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Trato de $1 <color\=#FF5555FF> (En $2 min expira)</color>
+
 
 
 ## TUTORIALES ##
@@ -240,7 +248,7 @@ Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick
 Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
 Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
 r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh para coceshah $1/$2
-You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro deh período que elijah. Por ahora, elige el período de la mañana.
+You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro der período que elijah. Por ahora, elige el período de la mañana.
 
 
 
@@ -294,9 +302,9 @@ You're in room 1. It's the one closest to the motel office.=illo, tu habitación
 Character=Perzonaje
 Messages=Mensajeh
 Contacts=Contactoh
-Yep=Sí
+Yep=Aro
 Yes=Sí
-Deal=Trato
+Deal=Trato Hecho
 Customer=Cliente
 Relationship=Relación
 Addiction=Adicción
@@ -333,8 +341,6 @@ sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</col
 
 
 
-
-
 No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
 Hmm ok. What time?=Hmm ok. ¿Hora?
 
@@ -347,6 +353,7 @@ The storage unit at Stash & Dash= Almacén en Stash & Dash
 
 ## ZONAS ##
 behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
+behind the pawn shop=detrás de la casa de empeño
 
 
 ## DEALERS ##
@@ -414,7 +421,7 @@ Bungalow [1]=Bungaló [1]
 Morning=Dia
 Afternoon=Tarde
 Night=Noche
-Late Night=<size\=10>Madrugada</size>
+Late Night=Madrugáh
 r:Last save was (\d+) minutes ago=Úrtimo guardao hace $1 minutoh
 r:Last save was (\d+) minute ago=Úrtimo guardao hace $1 minuto
 r:Last save was (\d+) seconds ago=Úrtimo guardao hace $1 segundoh
@@ -425,6 +432,11 @@ r:"^(\d+) day ago$"=Hace $1 día
 r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
 More than a year ago=Hace máh de un año
 Yesterday=Ayeh
+
+sr:"Great, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfecto, nos vemos <b>$1</b> en la Madrugáh.
+sr:"Great, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfecto, nos vemos <b>$1</b> en el dia.
+sr:"Great, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Perfecto, nos vemos <b>$1</b> en la tarde.
+sr:"Great, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfecto, nos vemos <b>$1</b> en la noche.
 
 
 ## RELACIONES ##
@@ -438,10 +450,15 @@ Friendly=Colega
 
 ## CALIDADES ##
 Standard Marijuana=Marihuana Estandah
+Moderate=Normal
 
 
 ## EFECTOS ##
-•  Calming=• Relajante
+•  Calming=•  Calmante
+ • Calming=•  Calmante2
+Calming=Calmante3
+•  Sedating=•  Sedante
+ • Sedating=• Sedante2
 
 
 ## PANTALLAS DE CARGA ##
