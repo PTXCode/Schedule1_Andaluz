@@ -281,6 +281,7 @@ XP Earned=XP Ganáh
 Products Sold=Produhtoh Vendioh
 Player Earnings=Gananciah der Jugadoh
 Dealer Earnings=Gananciah der Vendedoh
+Skipping...=Sartando...
 
 
 ## HISTORIA ##
@@ -560,7 +561,7 @@ Provides a clean surface to place product into packaging.=Proporciona una superf
 Customize Appearance=Perzonalizah Apariencia
 Body=Cuerpo
 Gender=Género
-Male=Masculino
+Male=Mahculino
 Female=Femenino
 Weight=Peso
 Skin Color=Coloh de Piel
@@ -568,10 +569,10 @@ Hair=Pelo
 Hair Color=Color de Pelo
 Spiky=Puntiagudo
 High bun=Moño arto
-Double top knot=Doble moño
-Long curly=Rizaoh largo
-Buzz cut=Militar
-Bowl cut=Tazón
+Double Top Knot=Doble moño
+Long Curly=Rizaoh largo
+Buzz Cut=Militar
+Bowl Cut=Tazón
 Peaked=Divorciaoh
 Low Bun=Moño Bajo
 Fringe Bob=Feminista
