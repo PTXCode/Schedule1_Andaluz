@@ -134,6 +134,7 @@ Submit=Enviar
 Submitting feedback...=Enviando reporte...
 Thank you for your feedback!=¡Graciah por tus comentarios pichi!
 Thank you partner.=Graciah sosio. 
+Thank you=Graciah sosioh
 Include Save File?=¿Incluir Archivo de Guardado?
 Include Screenshot?=¿Incluir Captura de Pantalla?
 
