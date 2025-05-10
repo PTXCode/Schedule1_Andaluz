@@ -188,6 +188,8 @@ sr:"^Talk to (.+)$"=Hablah con $1
 Complete Deal=Completah er trato
 [Complete Deal]=[Completah Negosio]
 ALREADY RECENTLY OFFERED=YA LE HAH OFRECIDO
+CUSTOMER ALREADY HAS A PENDING OFFER=TIENE UNA OFERTA PENDIENTE
+CUSTOMER RECENTLY COMPLETED A DEAL=LE HAN VENDIOH YA
 
 Switch off=Apagah
 Switch on=Encendeh
@@ -228,7 +230,7 @@ Place packaging in hopper=Arrastra el recipiente al cajón
 No soil=No hay tierra
 Complete Deal=Completar Entrega
 Place the expected products here=Coloca loh productoh esperadoh aquí
-sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$2</color> por:
+sr:"^(.+) is paying <color\=#50E65A>\$(\d{1,3}(?:,\d{3})*)\</color> for:$"=$1 está pagando <color\=#50E65A>$</color><color\=#50E65A>$2</color> por:
 r:Deal completed for (.*)$=Entrega completada con éxito
 Can I interest you in a free sample?=¿Quieres una muestra gratih?
 Give Free Sample=Muestra Gratih
@@ -263,6 +265,8 @@ Thank you. You should go talk to Chelsey - I think she'll like your stuff=Gracia
 Thanks. Hey my friend Chelsey might be interested in your stuff. You should go talk to her.=Graciah illo. Mi amiga Ruth podría interesarle tuh cosah. Deberíah hablah con ella.
 Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo aprecio mucho. hablah con Ruth. le gustará tu producto.
 Cheers. My friend Chelsey might like your stuff. Go check her out=Buenah. A mi amiga Ruth le gustará tu material. Ve a verla.
+Very nice. Chelsey might be interested. You should go talk to them.=Muh bien. Ruth podría ehtah interesada. Deberías ih a hablah con ella.
+Very nice. Chelsey might be interested. You should go talk to her.=Muh bien. Ruth ehtará interesada. Deberías ih a hablah con ella.
 
 
 ## DIARIO ##
