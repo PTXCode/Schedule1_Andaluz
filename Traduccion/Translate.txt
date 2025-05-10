@@ -170,6 +170,7 @@ Active=Activo
 Inactive=Inactivo
 Rotate Pot=Rotah Maceta
 Exit=Salih
+Quick Move=Moveh Rápido
 
 Access storage=Accedeh al almacenamiento
 Switch off=Apagah
@@ -262,12 +263,43 @@ Good doing business with you, sir.=Tus huevos niño, gracias por confiar en mi.
 You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. Esta cerca de la oficina del motel.
 
 ## TELEFONO ## 
-Character=Perzonaeh
+Character=Perzonaje
 Messages=Mensajeh
 Contacts=Contactoh
 Yep=Sí
 Yes=Sí
 Deal=Trato
+Customer=Cliente
+Relationship=Relación
+Addiction=Adicción
+Standards=Calidah
+Favourite Effects=Efectoh Favoritoh
+
+
+sr:"^(.+) has requested a delivery of ([0-9]+)x OG Kush (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x OG Kush por $1. Estará $3. Pagará $4$.
+sr:"^(.+) has requested a delivery of ([0-9]+)x Sour Diesel (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Sour Diesel por $1. Estará $3. Pagará $4$.
+sr:"^(.+) has requested a delivery of ([0-9]+)x Green Crack (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Green Crack por $1. Estará $3. Pagará $4$.
+sr:"^(.+) has requested a delivery of ([0-9]+)x Granddaddy Purple (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=Ha solicitado una entrega $2x Granddaddy Purple por $1. Estará $3. Pagará $4$.
+
+
+
+sr:"Hey, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Oye. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hola. ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Oye. Quiero <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it Deal\?\?"=Estoy detras de <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"You got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=¿Tienes <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
+sr:"Hello, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it."=Hola, busco <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>. Deal?"=Hola, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"I NEED (\d+x) (.+)\. I GOT <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. DEAL\?"=NECESITO <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>. ¿TRATO?
+sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it"=Hey bro, ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\."=Que pasa bro, estoy detras de <b>$1</b> de <b>$2</b>. Pago $ <color\=#46CB4F>$3</color>.
+sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hey, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah\?\?"=¡Necesito <b>$1</b> de <b>$2</b>! Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hola perro, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Hola amigo, ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hola bro, quiero <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
+sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
+
 
 
 
@@ -275,16 +307,20 @@ Deal=Trato
 No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
 Hmm ok. What time?=Hmm ok. ¿Hora?
 
+
 ## PROPIEDADES ##
 Taco Ticklers=Taquería Ticklers
 Storage Unit=Almacén Stash & Dash
 The storage unit at Stash & Dash= Almacén en Stash & Dash
 
+
 ## ZONAS ##
 behind the western Gas-Mart=detrah de la estación de zervicio 'Gas-Mart'
 
+
 ## DEALERS ##
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh pichi. Te aviso en $1 h.
+
 
 ## OBJETOS ##
 Watering Can=Regadera
@@ -293,10 +329,12 @@ Plant Trimmers=Estijerah
 Small Storage Rack=E'tantería Pequeña
 Medium Storage Rack=E'tantería Mediana
 Large Storage Rack=E'tantería Grande
-Plastic Pot=Maceta de Plástico
+Plastic Pot=Maceta de Pláhtico
 Viagor=Viagra
 LED Grow Light=Luh LED de curtivoh
 Suspension Rack=Zoporte de Luceh
+Baggie=Borcita
+
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -304,9 +342,11 @@ A pair of plant trimmers. Necessity for harvesting plants.=Unas estijeras e'peci
 A small sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño pequeño, 4 Slots.
 A medium sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño mediano, 6 Slots.
 A large sized, 4-tier storage rack.=E'tantería de 4 niveleh, tamaño grande, 8 Slots.
-Flimsy plastic pot made in China.=Maceta de plástico malo hecha en China.
+Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% más rápido. Debe colocarce en un zoporte zuhpendio.
 Used to hang grow lights above pots.=Se usa para corgah luceh de curtivo sobre macetah.
+A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquier producto.
+
 
 
 ## TRADERS ##
@@ -347,6 +387,14 @@ r:"^(\d+) day ago$"=Hace $1 día
 r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
 More than a year ago=Hace máh de un año
 Yesterday=Ayeh
+
+## RANGOS ##
+Neutral=Neutral
+Friendly=Colega
+
+## EFECTOS ##
+
+
 
 
 ## NUEVO ##
