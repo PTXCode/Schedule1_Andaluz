@@ -268,7 +268,7 @@ Package all the weed at the packaging station=Mete la marihuana en borcitah en l
 Drag the OG Kush into your inventory=Arrahtra la marihuana a tu inventario
 Grab the watering can from the storage rack=Coge la regadera de la estantería Mediana
 Fill up the watering can at the sink and water the other weed plant=Llena la regadera en el fregadero y riega la otra planta de marihuana
-Respond to your customers in the messages app=Responde a tuh clienteh en er Whatsapp
+Respond to your customers in the messages app=Responde a tuh clienteh en la app "Mensajeh"
 Talk to Uncle Nelson outside=Habla con er Tito Nelson afuera
 Drive into town=Conduce hacia la ciudad
 Park the car=Aparca er coche
@@ -294,7 +294,7 @@ Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick
 Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
 Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
 r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh pa coceshah $1/$2
-You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro der período que elijah. Por ahora, elige el período de la mañana.
+You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro der período que elijah. Por ahora, elige el período del dia.
 Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> pa abrih tu teléfono.
 Item Splitting=Dividih Artículoh
 To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=Pa moveh una cantidah personalizah, arrahtra un ohjeto con <color\=#62BDFF>clic derecho</color> y mueve hacia arriba/abajo la <color\=#62BDFF>rueda del ratón</color> para cambiar la cantidad.
