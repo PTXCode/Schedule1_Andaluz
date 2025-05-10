@@ -532,7 +532,7 @@ sr:"Great, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfehto il
 
 
 ## RELACIONES ##
-Neutral=Neutral
+Neutral=Neutrah
 Friendly=Colega
 Loyal=Amigo
 
@@ -543,7 +543,7 @@ Loyal=Amigo
 
 ## CALIDADES ##
 Standard Marijuana=Marihuana Estandah
-Moderate=Normal
+Moderate=Normah
 
 
 ## EFECTOS ##
