@@ -217,7 +217,7 @@ PACKAGE=EMPACÁH
 UNPACKAGE=DESEMPACÁH
 UNPACK=DESEMPACÁH
 PACK=EMPACÁH
-Suspension Rack is supporting another item=El zoporte de luceh e'ta ciendo utilizao por otro ohjeto
+Suspension Rack is supporting another item=El zoporte de luceh ehta ciendo utilizao por otro ohjeto
 Output=Salida
 Input=Entrada
 Contains items=Contiene ohjeto
@@ -238,6 +238,7 @@ sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí p
 Only 1 sample product is required.=1 muestra es suficiente.
 sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
 You are providing more product than required.=Ehtá dando máh producto de loh necesarioh.
+Satisfaction=Satisfacción
 
 
 ## HISTORIA ##
@@ -294,15 +295,15 @@ Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo 
 r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh pa coceshah $1/$2
 You can complete deals any time within the window you choose. For now, choose the morning window.=Puedeh completah negocioh en cualquieh momento, dentro der período que elijah. Por ahora, elige el período de la mañana.
 Press <color\=#88CBFF>Tab</color> to open your phone.=Presiona <color\=#88CBFF>Tab</color> pa abrih tu teléfono.
-
 Item Splitting=Dividih Artículoh
 To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=Pa moveh una cantidah personalizah, arrahtra un ohjeto con <color\=#62BDFF>clic derecho</color> y mueve hacia arriba/abajo la <color\=#62BDFF>rueda del ratón</color> para cambiar la cantidad.
-
-
-
 Input Hints=Consejoh de Botoneh
 If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Si ereh zuhnormah y no zabe haceh argo, \nnormahmente hay consejoh de botoneh en la e'quina inferioh ihquierda.
 While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</color> to rotate it.=Pa rotah un ohjeto, preciona <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>.
+The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente existente.
+
+
+
 
 
 ## NPCS ##
@@ -548,6 +549,18 @@ Focused=Concentrado3
 •  Munchies=•  Gula
 • Munchies=• Gula2
 Munchies=Gula3
+•  Smelly=•  Maloliente
+• Smelly=• Maloliente2
+Smelly=Maloliente3
+•  Calorie-Dense=•  Alto en calorías
+• Calorie-Dense=• Alto en calorías2
+Calorie-Dense=Alto en calorías3
+•  Energizing=•  Energizante
+• Energizing=• Energizante2
+Energizing=Energizante3
+•  Sneaky=•  Sigiloso
+• Sneaky=• Sigiloso2
+Sneaky=Sigiloso3
 
 ## PANTALLAS DE CARGA ##
 Prologue=Prólogo
