@@ -266,6 +266,8 @@ Body Search=Registro Corporah
 Quantity=Cantidah
 Click and hold items to conceal=Hah clic y mantén presionaoh los ohjetoh pa ocurtahloh
 sr:"^([0-9]+)x (.+)$"=$1x $2
+Insufficient online balance=No tieneh suficiente dinero en tu tarjeta de credito.
+Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente, saca dinero der cajero.
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
