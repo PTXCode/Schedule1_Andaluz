@@ -287,7 +287,7 @@ Can't sleep before 6:00 PM=No puedeh dormih anteh de las 18:00PM
 Answer phone=Contehtah ar teléfono
 View dead drop=Abrih Compartimento secreto
 Dead Drop=Compartimento Secreto
-
+View note=Ver nota
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -326,11 +326,17 @@ Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - t
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=Anteh de mudarme a Serena Flats, vivía en Hyland Point. No eh la ciudad máh agradable, pero hay muchah oportunidadeh pa... ya tu sabeh...
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Si la memoria no me falla, tengo argo de dinero por ahí. No es mucho, pero bastará.
 You can find it stashed near the <color\=#88CBFF>town hall fountain, in the canal,</color> and <color\=#88CBFF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Puedeh encontrarlo ehcondioh cerca de la <color\=#88CBFF>Fuente del ayuntamiento, en er canah</color> y <color\=#88CBFF>detrás der supermercaoh</color>. Ve a buscahlo, dehpueh seguimoh.
+Well shit... that's not ideal.=Ehtamoh jodioh, sobrino...
+There's a powerful cartel in town, the <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay una Mafia en la ciudad. La <color\=#88CBFF>Familia Benzieh</color>. En argun momento serían un problema, pero no pensé que fuese tan rápido, pichi...
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vah a necesitah un lugah tranquilo pa quedarte un tiempo. Ve ar <color\=#88CBFF>moteh</color> y pregunta por una habitación.
+After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#88CBFF>grow tent, soil</color>, and <color\=#88CBFF>watering can.</color>=Despuéh de eso, necesitaráh equipo nuevo. Hay una ferretería al noreste der moteh. Consigue un <color\=#88CBFF>interioh, tierra</color>, y una <color\=#88CBFF>regadera.</color>
+
 
 ## DIARIO ##
 Tasks=Tareah
 Task Details=Detalleh de la Tarea
 Hover a task to view details=Pasa er cursoh sobre una tarea pa veh loh detalleh
+Show on map=Mostrah en er mapa
 Another Day in Paradise=Otro día mah en er paraízo
 Grab the trimmers from the storage rack and harvest the fully-grown weed plant=Coge lah estijerah de la Estanteria de armacenamiento y cocesha la planta de marihuana.
 Package all the weed at the packaging station=Mete la marihuana en borcitah en la empaquetadora
@@ -365,10 +371,9 @@ Collect the stash behind the supermarket=Busca el alijo detráh der supermercaoh
 Collect the stash near the fountain=Busca el alijo cerca de la fuente
 Collect the stash near the canal=Busca el alijo cerca der canah
 Head back to the RV=Regresa a la Caravana
-
-
-
-
+Talk to Uncle Nelson at a payphone=Habla con er Tito Nelson en una cabina.
+Investigate the explosion=Investiga la explosión
+Read the note=Lee la nota
 
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
@@ -404,6 +409,8 @@ r:Pour soil into pot (.+)%=Echáh la tierra $1%)
 Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
 r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
+r:"^There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it"=Tieneh un <color\=#88CBFF>mapa</color> en tu teléfono. Preciona <color\=#88CBFF>M</color> pa abrihlo.
+
 
 ## NPCS ##
 Come here, you are being searched=Ven aquí, tengo que regihtrarte.
@@ -775,6 +782,7 @@ There are a number of ATMs scattered throughout Hyland Point for your convenienc
 A coca plant will display distinctive red berries when it is ready for harvest.=Una planta de coca mostrará bayah rojah distintivah cuando esté lista pa la cosecha.
 Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesitah esconderte de lah pulisiah? Prueba un arbusto, un contenedoh de basura o un árboh grande.
 Each property has a limit to the amount of employees that can work there.=Cada propiedah tiene un límite en la cantidad de empleadoh que pueden trabajah allí.
+If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Si te han registraoh recientemente en un puesto de controh, puedeh pasah por ese puesto variah veceh sin otro registro.
 
 
 
