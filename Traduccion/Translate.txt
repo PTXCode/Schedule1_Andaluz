@@ -330,6 +330,10 @@ Well shit... that's not ideal.=Ehtamoh jodioh, sobrino...
 There's a powerful cartel in town, the <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay una Mafia en la ciudad. La <color\=#88CBFF>Familia Benzieh</color>. En argun momento serían un problema, pero no pensé que fuese tan rápido, pichi...
 Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vah a necesitah un lugah tranquilo pa quedarte un tiempo. Ve ar <color\=#88CBFF>moteh</color> y pregunta por una habitación.
 After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#88CBFF>grow tent, soil</color>, and <color\=#88CBFF>watering can.</color>=Despuéh de eso, necesitaráh equipo nuevo. Hay una ferretería al noreste der moteh. Consigue un <color\=#88CBFF>interioh, tierra</color>, y una <color\=#88CBFF>regadera.</color>
+I'd like to rent a room=Quiero arquilah la habitación 
+Great. It'll be <color\=#54E717>$75</color> for the week, ok?=De lujo. Serían <color\=#54E717>$75</color> por semana. ¿Lo quiereh o no?   
+Thank you. You're in Room 1, closest to the office.=Grasiah. Ehtáh en la Habitación 1. 
+
 
 
 ## DIARIO ##
@@ -374,6 +378,12 @@ Head back to the RV=Regresa a la Caravana
 Talk to Uncle Nelson at a payphone=Habla con er Tito Nelson en una cabina.
 Investigate the explosion=Investiga la explosión
 Read the note=Lee la nota
+Getting Started=Iniciando
+You're in a new town with no cash and no product. Get in contact with a distant relative and ask for some help.=Ehtáh en una ciudad nueva, sin dinero, ni producto. Contacta con un pariente lejano y pídele ayuda.
+Talk to the manager in the motel office=Habla con la gerente der moteh
+Rent a motel room=Alquila una habitación der moteh
+Check out your motel room=Ve hacia la habitación der moteh
+
 
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
@@ -410,9 +420,12 @@ Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
 r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
 r:"^There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it"=Tieneh un <color\=#88CBFF>mapa</color> en tu teléfono. Preciona <color\=#88CBFF>M</color> pa abrihlo.
+r:"^There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside."=Hay un <color\=#F86266>toque de queda obligatorio</color> entre lah 21:00 PM y lah 5:00 AM. La pulisía te <color\=#F86266>arrehtará</color> si te ve por la calle.
 
 
 ## NPCS ##
+Evening=Illo...
+Good evening=Buenah illo
 Come here, you are being searched=Ven aquí, tengo que regihtrarte.
 Not yet=Illo, no
 Damn, that's pretty nice. You'll hear from me soon=Foh, Te escribiré pronto pichi
@@ -783,6 +796,7 @@ A coca plant will display distinctive red berries when it is ready for harvest.=
 Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesitah esconderte de lah pulisiah? Prueba un arbusto, un contenedoh de basura o un árboh grande.
 Each property has a limit to the amount of employees that can work there.=Cada propiedah tiene un límite en la cantidad de empleadoh que pueden trabajah allí.
 If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Si te han registraoh recientemente en un puesto de controh, puedeh pasah por ese puesto variah veceh sin otro registro.
+Head to Ray's Realty to purchase properties and businesses.=Ve a la Inmobiliaria de Ray pa comprah propiedadeh y negosioh.
 
 
 
