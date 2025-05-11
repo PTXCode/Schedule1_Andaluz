@@ -365,6 +365,9 @@ Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'M
 Thanks...=¡Ole tu pollica!
 You wanna try minding your own business?=A ti que te importa, gilipollah
 Oh sorry partner, didn't mean to pry. I'll let you be on your way...=Calla mierdah. Ha sioh pa conocernoh inutih. Vete anda, vete...
+You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0FF>weed seeds</color>.=Ya'ta casi to listo pa comenzah, pero... te falta una cosa clave: <color\=#4CB0FF>Semillah de OG Kush</color>.
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendráh que hablah con un proveedoh pa conseguih argunah semillah. Le pasé tu número a <color\=#4CB0FF>Albert Hoover</color>, el proveedor locah de semillah.
+Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Mándale un <color\=#4CB0FF>mensaje</color> y pide una <color\=#4CB0FF>entrega</color>. Cucha, portate bien con él y pagale pronto, te lo dejarán fiaoh. Ganate su rehpeto.
 
 
 
@@ -427,7 +430,7 @@ Buy 1x grow tent=Compra 1x un interioh
 r:"^Deposit cash at an ATM"=Deposita dinero en un cajero
 r:"^Head back to the motel room"=Regresa a la habitación der moteh
 Place the grow tent and fill it with soil=Coloca el interioh y ponle tierra a la maceta
-
+Order 1x OG Kush Seed from Albert Hoover=Pillale a Albert Hoover 1x semilla de OG Kush
 
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
@@ -529,7 +532,14 @@ Thanks for shopping at Handy Hanks!=¡Graciah por comprar en Handy Hanks!
 HEY! I really need some of your stuff right now... you got anything?!=¡ILLO! Dame drogita, que estoy pillando moscas ya. ¿Tienes argo?
 Eh, I don't think so loco=Que va loquete
 Good doing business with you, sir.=Tus huevos niño, graciah por confiar en mi.
-You're in room 1. It's the one closest to the motel office.=illo, tu habitación es la 1. ehta cerca de la oficina del motel.
+Where is my room?= ¿Onde táh mi habitación?
+You're in room 1. It's the one closest to the motel office.=Tu habitación es la 1. ehta cerca de la oficina del motel.
+Officer=Agente de Pulisiah
+Thanks, we're done.=Graciah, ehtah limpio.
+No issues.=Sin problemah.
+
+
+
 
 ## TELEFONO ## 
 Unknown=Desconocido
@@ -796,6 +806,12 @@ Loyal=Amigo
 
 
 ## RANGOS ##
+Street Rat=Novato
+r:"^Street Rat ([IVX]+)$"=Novato $1
+r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size\=11>Requisito: <color\=#2DB92D>Novato $1</color></size>
+Hoodlum=Parguela
+r:"^Hoodlum ([IVX]+)$"=Parguela $1
+r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Parguela $1</color></size>
 
 
 
@@ -852,6 +868,8 @@ Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesi
 Each property has a limit to the amount of employees that can work there.=Cada propiedah tiene un límite en la cantidad de empleadoh que pueden trabajah allí.
 If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Si te han registraoh recientemente en un puesto de controh, puedeh pasah por ese puesto variah veceh sin otro registro.
 Head to Ray's Realty to purchase properties and businesses.=Ve a la Inmobiliaria de Ray pa comprah propiedadeh y negosioh.
+Vehicle stuck? Head to the body shop to get it towed.=¿Tu vehiculo sa quedao atascaoh? Ve ar talleh pa que te lo recuperen.
+Need some extra cash? Grab some trash and take it to a 'Trash for Cash' machine.=¿Necesitah dinero extra? Recoge argo de basura y llévala a una máquina de "Basura por Dinero".
 
 
 
