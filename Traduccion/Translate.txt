@@ -256,7 +256,7 @@ r:(\d+)% chance of success=$1% de probabilidah de éxito
 Place a product here for Chelsey to try=Coloca producto pa que Ruth lo pruebe
 sr:"^Place a product here for (.+) to try$"=<\size=12>Coloca un producto aquí pa que $1 lo pruebe<\size>
 Only 1 sample product is required.=1 muestra es suficiente.
-sr:"^(.+)'s favourite effects:$"=Efectos favoritos de $1:
+sr:"^(.+)'s favourite effects:$"=Efehtos favoritoh de $1:
 You are providing more product than required.=Ehtá dando máh producto de loh necesarioh.
 Satisfaction=Satisfacción
 You wanna buy something? [Offer a deal]=¿Quiereh comprah argo? [Ofreceh trato]
@@ -285,8 +285,8 @@ Dealer Earnings=Gananciah der Vendedoh
 Skipping...=Sartando...
 Can't sleep before 6:00 PM=No puedeh dormih anteh de lah 18:00PM
 Answer phone=Contehtah ar teléfono
-View dead drop=Abrih Cajon secreto
-Dead Drop=Cajon Secreto
+View dead drop=Abrih Cajón secreto
+Dead Drop=Cajón Secreto
 View note=Ver nota
 CURFEW ACTIVE UNTIL 5AM=TOQUE DE QUEDA HAHTA LAh 5:00 AM
 CURFEW TONIGHT\n 9PM - 5AM=TOQUE DE QUEDA\n 21:00PM - 5:00AM
@@ -353,7 +353,7 @@ You only know one way to make money. Time to get to work.=Solo conoceh una forma
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Killo, qué gusto oíh tu voh. Parece que nuestra suerte sa'cabao. Loh Verdeh me tienen enserraoh mientrah ehpero er juicio. Me alegra sabeh que no te han pillaoh.
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=Anteh de mudarme a Serena Flats, vivía en Hyland Point. No eh la ciudad máh agradable, pero hay muchah oportunidadeh pa... ya tu sabeh...
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Si la memoria no me falla, tengo argo de dinero por ahí. No es mucho, pero bastará.
-You can find it stashed near the <color\=#88CBFF>town hall fountain, in the canal,</color> and <color\=#88CBFF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Puedeh encontrarlo ehcondioh cerca de la <color\=#88CBFF>Fuente del ayuntamiento, en er canah</color> y <color\=#88CBFF>detrás der supermercaoh</color>. Ve a buscahlo, dehpueh seguimoh.
+You can find it stashed near the <color\=#88CBFF>town hall fountain, in the canal,</color> and <color\=#88CBFF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Puedeh encontrarlo ehcondioh cerca de la <color\=#88CBFF>Fuente del ayuntamiento, en er canah</color> y <color\=#88CBFF>detrás der supermercaoh</color>. Ve a buhcahlo, dehpueh seguimoh.
 Well shit... that's not ideal.=Ehtamoh jodioh, sobrino...
 There's a powerful cartel in town, the <color\=#88CBFF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=Hay una Mafia en la ciudad. La <color\=#88CBFF>Familia Benzieh</color>. En argun momento serían un problema, pero no pensé que fuese tan rápido, pichi...
 Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#88CBFF>motel</color> and ask about getting a room.=Parece que vah a necesitah un lugah tranquilo pa quedarte un tiempo. Ve ar <color\=#88CBFF>moteh</color> y pregunta por una habitación.
@@ -409,12 +409,12 @@ Welcome to Hyland Point=Bienvenioh a Hyland Point
 Open your phone (press Tab) and read your messages=Abre tu teléfono (Presiona TAB) y lee tuh mensajeh
 Talk to 'U.N.' at a payphone=Habla con 'U.N.' en un teléfono público
 You're in a new town with no cash and no product. Get in contact with a distant relative and get some advice.=Ehtáh en una ciudad nueva, sin dinero, ni producto. Contacta con un pariente lejano y pídele consejo.
-• Collect the stash behind the supermarket=• Busca el alijo detráh der supermercaoh
-• Collect the stash near the fountain=• Busca el alijo cerca de la fuente
-• Collect the stash near the canal=• Busca el alijo cerca der canah
-Collect the stash behind the supermarket=Busca el alijo detráh der supermercaoh
-Collect the stash near the fountain=Busca el alijo cerca de la fuente
-Collect the stash near the canal=Busca el alijo cerca der canah
+• Collect the stash behind the supermarket=• Buhca el alijo detráh der supermercaoh
+• Collect the stash near the fountain=• Buhca el alijo cerca de la fuente
+• Collect the stash near the canal=• Buhca el alijo cerca der canah
+Collect the stash behind the supermarket=Buhca el alijo detráh der supermercaoh
+Collect the stash near the fountain=Buhca el alijo cerca de la fuente
+Collect the stash near the canal=Buhca el alijo cerca der canah
 Head back to the RV=Regresa a la Caravana
 Talk to Uncle Nelson at a payphone=Habla con er Tito Nelson en una cabina.
 Investigate the explosion=Investiga la explosión
@@ -494,9 +494,9 @@ If you're wondering how to do something, \nthere's usually input hints in the bo
 While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</color> to rotate it.=Pa rotah un ohjeto, presiona <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>.
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este eh tu <color\=#88CBFF>red de contahtoh</color>. Aquí eh donde puedeh veh a toh tuh clienteh y clienteh potencialeh.
 The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente exihtente.
-Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
+Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efehtoh.
 You've unlocked Chelsey as a customer. She will now start sending you deal offers.=Hah desbloqueaoh a <color\=#88CBFF>Ruth</color> como cliente. Ahora empezará a enviarte ofertah de negosio.
-The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buscará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
+The officer will search your inventory from <color\=#4CB0FF>left to right</color>.=Er polisiah buhcará en tu inventario de <color\=#4CB0FF>ihquierda a derecha</color>.
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
 Click and drag to cut soil bag=Hah Clic y arrahtra pa cortah la borza
@@ -551,7 +551,7 @@ That's shit=Vaya mojon, killo
 Oh thanks god=Graciah pichita
 Lets get this over with=amoh ya, hombre
 Come on lets go=Enga ya, amoh
-You got it?=¿Lo pillah o no?
+You got it?=¿ya o no?
 Yeah??=¿jih?
 Ooooh yeah=Amoooo
 Nvm dog=Perro ;/
@@ -603,7 +603,7 @@ Dealers=Camelloh
 Yep=Aro
 Yes=Sí
 Deal=Trato Hecho
-Favourite Effects=Efectoh Favoritoh
+Favourite Effects=Efehtoh Favoritoh
 Select Deal Time=Seleccionah Hora del Negosio
 You can complete the deal any time within the window=Puedeh completah er negosio en cualquieh momento dentro del período
 Current Time=Hora actual
@@ -660,14 +660,14 @@ sr:"Ay bro you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)
 sr:"Whats up bro, I'm after (\d+x) (.+)\. I can pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\."=Que pasa bro, estoy detras de <b>$1</b> de <b>$2</b>. Pago $ <color\=#46CB4F>$3</color>.
 sr:"Hey, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Killo, necesito <b>$1</b> de <b>$2</b> por $<color\=#46CB4F>$3</color>.
 sr:"Need me (\d+x) (.+)\! I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> yeah\?\?"=¡Necesito <b>$1</b> de <b>$2</b>! Pago $<color\=#46CB4F>$3</color>.
-sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Hola perro, necesito <b>$1</b> de <b>$2</b>. Pago $<color\=#46CB4F>$3</color>.
+sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=killo, quiero <b>$1</b> de <b>$2</b> por $<color\=#46CB4F>$3</color>.
 sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Hola amigo, ¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Hola bro, quiero <b>$1</b> de <b>$2</b> ? Pago $<color\=#46CB4F>$3</color>.
 sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=¿Tienes <b>$1</b> de <b>$2</b>? Pago $<color\=#46CB4F>$3</color>.
 
 
 
-No thanks. I'll just look elsewhere=da igual picha. Buscaré en otro sitio
+No thanks. I'll just look elsewhere=da igual picha. Buhcaré en otro sitio
 Hmm ok. What time?=Hmm ok. ¿Hora?
 
 
@@ -704,12 +704,12 @@ r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perf
 sr:"I need a dead drop:\n(\d+x) (.+)$"=Quiero: $1 de $2
 Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.=Hola, Tu tito me ha pedido que te ayude a conseguih argunah semillah de marihuana.
 Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Envíame un mensaje si te gustaría haceh un pedioh. Te proporcionaré una cuenta que podráh pagah despuéh, un favoh por tu tito.
-You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.=Puedeh pagarme en mi <b>Cajon Secreto</b> detráh de <b>hardware store (Dan)</b>.
+You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.=Puedeh pagarme en mi <b>Cajón Secreto</b> detráh de <b>hardware store (Dan)</b>.
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 Hs $2 Min</b>
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 Hs</b>
 r:Got it\. I'll let you know when it's ready. Should be about (\d+) mins$=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 mins</b>
 Hey, that drop is ready in the alleyway behind the grocery store=Niño, lo tienes en er callejón detráh der supermercaoh
-r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Illo, cuando puedah pon $1 en mi cajon secreto - Aun no mah pagaoh cabron.
+r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Illo, cuando puedah pon $1 en mi cajón secreto - Aun no mah pagaoh cabron.
 
 
 
@@ -726,7 +726,7 @@ Viagor=Viagra
 LED Grow Light=Luh LED de curtivoh
 Suspension Rack=Zoporte de Luceh
 Baggie=Borcita
-Cash=Efectivo
+Cash=Efehtivo
 Soil=Tierra
 Fertilizer=Fertilizante
 Speed Grow=Crecimiento Rápido
@@ -748,7 +748,7 @@ Flimsy plastic pot made in China.=Maceta de pláhtico malo hecha en China.
 A simple LED grow light. Emits a purple light that stimulates plant growth 15% faster than halogen. Must be placed on a suspension rack.= Emite una luh púrpura que estimula er crecimiento de lah plantah un 15% máh rápido. Necesita un Zoporte de luceh.
 Used to hang grow lights above pots.=Se usa pa corgah luceh de curtivo sobre macetah.
 A small plastic baggie.  Holds 1x unit of any product.=Una pequeña borcita de pláhtico. Almacena 1 unidad de cualquieh producto.
-Cold hard cash.=Dinero en efectivo.
+Cold hard cash.=Dinero en efehtivo.
 Basic potting soil to grow stuff in.=Tierra básica pa plantah. cosecha propia eh.
 All-natural fertilizer which will increase the quality of your plants.=Fertilizante completamente naturah que aumentará la calidah de tuh curtivoh.
 Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneamente la planta un 50%, pero reduce la calidah de la planta.
@@ -942,13 +942,13 @@ Moderate=Normah
 
 
 ## EFECTOS ##
-•  Balding=•  Calvicie
-• Balding=• Calvicie2
+•  Balding=•  Carvicie
+• Balding=• Carvicie2
 •  Laxative=•  Laxante
 • Laxative=• Laxante2
 Laxative=Laxante3
-•  Calming=•  Calmante
-• Calming=•  Calmante
+•  Calming=•  Carmante
+• Calming=•  Carmante
 Calming=Calmante3
 •  Sedating=•  Sedante
 • Sedating=• Sedante2
@@ -980,7 +980,7 @@ Resisting arrest will result in law enforcement utilizing tasers. Continue to re
 Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=Hyland Point fue fundada por primera veh en 1903 graciah a loh esfuerzoh de P.P. Hyland.
 Feeling stingy? Customers sometimes won't notice if you give them slightly less product than requested.=¿Ereh un tacaño? Loh clienteh a veceh no notan si leh dah un poco menoh de producto. Ehto lo usaran na'ma loh catalufoh.
 You can repaint your vehicles at the body shop.=Puedeh repintah tuh vehículoh en er talleh.
-You won't be able to enter your property while wanted if you're within sight of police.=No podráh entrah a tu propiedah mientrah ceah buscaoh o si estáh a la vista de la pulisíah.
+You won't be able to enter your property while wanted if you're within sight of police.=No podráh entrah a tu propiedah mientrah ceah buhcaoh o si estáh a la vista de la pulisíah.
 Staff don't work for free! They will automatically draw their daily wage from their briefcase on their bed. If it's empty at the start of a new shift, they won't work.=¡Er personah no trabaja gratih! Retirarán automáticamente su salario diario de su maletín en su cama. Si está vacío ar comienzo de un nuevo tuhno, no trabajarán.
 If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Si muereh en el modo un jugadoh, vorveráh a tu úrtimo guardaoh. Si muereh en murtijugadoh, pagaráh una costosa visita a la clínica médica.
 There are a number of ATMs scattered throughout Hyland Point for your convenience.=Hay varioh cajeroh automáticoh repartioh por Hyland Point.
@@ -995,8 +995,8 @@ Be wary of your surroundings when you're dealing! Police will notice when you're
 Visit the graveyard and ponder your mortality!=¡Visita er cementerio y reflexiona sobre tu mortalidad!
 You can view and track/untrack all of your current quests and contracts in your Journal.=Puedeh veh y seguih o dejah de seguih todah tuh misioneh y contratoh actualeh en tu Diario.
 Dealers will automatically split up bricks/jars when necessary.=Loh camelloh dividirán automáticamente loh ladrilloh/boteh cuando sea necesario.
+Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Loh camelloh venderán lo que ehté en su inventario, independientemente de si ehtá listado para la venta o no.
 When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Cuando er toque de queda ehtá activo, toh loh ciudadanoh están legalmente obligaoh a permaneceh en suh casah de 21:00 PM a 5:00 AM.
-Dealers will sell whatever is in their inventory, regardless of it's listed for sale or not.=Loh camelloh venderán lo que ehté en su inventario, independientemente de si ehtá listaoh pa la venta o no.
 Employees slacking off? Try punching them!=¿Empleadoh vagoh? ¡Metele un bombazo!
 
 
