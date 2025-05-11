@@ -288,6 +288,28 @@ Answer phone=Contehtah ar teléfono
 View dead drop=Abrih Compartimento secreto
 Dead Drop=Compartimento Secreto
 View note=Ver nota
+CURFEW ACTIVE UNTIL 5AM=TOQUE DE QUEDA HAHTA LAh 5:00 AM
+CURFEW TONIGHT\n 9PM - 5AM=TOQUE DE QUEDA\n 21:00PM - 5:00AM
+CURFEW SOON=TOQUE DE QUEDA
+r:CURFEW SOON\n([0-9]+) MINS=TOQUE DE QUEDA EN\n$1 MINUTOH
+Police curfew in effect until 5AM=Toque de queda puliciah hahta las 5:00 AM
+Turn on=Encendeh
+Turn off=Apagah
+Open curtains=Abrih cortinah
+Close curtains=Cerrah cortinah
+Save game=Guardar
+Game Saved!=¡Juego Guardaoh!
+Wait ([0-9]+)s=Ehpera $1s
+It is 4AM - go to sleep to progress to tomorrow=Son lah 4:00 AM - ve a dormih pa avanzah er dia
+Item won't fit in inventory=No tieneh ehpacioh
+Use TV=Usah la Tele
+Start=Empezah
+Drop=Soltar
+Restart=Reiniciah
+Return to menu=Vorveh ar menu
+sr:"(.+), Day ([0-9]+)$"=$1, día $2
+
+
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -333,6 +355,16 @@ After that, you'll be needing some new equipment. There's a hardware store just 
 I'd like to rent a room=Quiero arquilah la habitación 
 Great. It'll be <color\=#54E717>$75</color> for the week, ok?=De lujo. Serían <color\=#54E717>$75</color> por semana. ¿Lo quiereh o no?   
 Thank you. You're in Room 1, closest to the office.=Grasiah. Ehtáh en la Habitación 1. 
+Hey friend, you're new, right? Nice to see a fresh face in town.=Joven, ¿ereh nuevo por aqui, no? Me alegra veh gente nueva.
+I'm Dan, I run this here hardware store. What line of work are you in?=Soy Dan, llevo esta ferretería. ¿A qué te dedicah?
+I work in agriculture=Trabajo de agricurtoh
+Oh ain't that nice, I always fancied a bit of gardening myself. Here's some SpeedGrow on the house. Welcome to Hyland Point.=Perfeh, siempre me gustó la jardinería. Toma un "Crecimiento rapido" por mi cuenta. Bienvenido a Hyland Point.
+Thanks=Graciah pichon
+Drug dealer=Vendo droga
+Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=Jaja, buena esa socio. Toma un "Crecimiento rapido" por mi cuenta. A tuh plantah de 'Yerba' leh va a encantah.
+Thanks...=¡Ole tu pollica!
+You wanna try minding your own business?=A ti que te importa, gilipollah
+Oh sorry partner, didn't mean to pry. I'll let you be on your way...=Calla mierdah. Ha sioh pa conocernoh inutih. Vete anda, vete...
 
 
 
@@ -383,6 +415,18 @@ You're in a new town with no cash and no product. Get in contact with a distant 
 Talk to the manager in the motel office=Habla con la gerente der moteh
 Rent a motel room=Alquila una habitación der moteh
 Check out your motel room=Ve hacia la habitación der moteh
+Gearing Up=Preparándo Todo
+Go to the hardware store=Ve a la Hardware Store
+Money Management=Administración de dinero
+Buy 1x watering can=Compra 1x regadera
+Buy 1x soil=Compra 1x tierra
+Buy 1x grow tent=Compra 1x un interioh
+• Buy 1x soil=• Comprar 1x tierra
+• Buy 1x grow tent=• Comprar 1x un interioh
+• Buy 1x watering can=• Comprar 1x regadera
+r:"^Deposit cash at an ATM"=Deposita dinero en un cajero
+r:"^Head back to the motel room"=Regresa a la habitación der moteh
+Place the grow tent and fill it with soil=Coloca el interioh y ponle tierra a la maceta
 
 
 r:"^Deal for (.+)"=Entrega pendiente
@@ -415,12 +459,14 @@ The officer will search your inventory from <color\=#4CB0FF>left to right</color
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
 Click and drag to cut soil bag=Hah Clic y arrahtra pa cortah la borza
-r:Pour soil into pot (.+)%=Echáh la tierra $1%)
+r:Pour soil into pot (.+)%=llenah de tierra $1%)
 Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
 r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
 r:"^There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it"=Tieneh un <color\=#88CBFF>mapa</color> en tu teléfono. Preciona <color\=#88CBFF>M</color> pa abrihlo.
 r:"^There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside."=Hay un <color\=#F86266>toque de queda obligatorio</color> entre lah 21:00 PM y lah 5:00 AM. La pulisía te <color\=#F86266>arrehtará</color> si te ve por la calle.
+There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=Hay doh tipoh de dinero: <color\=#46CB4F>efehtivo</color> y <color\=#88CBFF>er banco</color>. Loh clienteh pagan en efehtivo, pero la mayoría de lah tiendah legaleh solo aceptan tarjeta.
+Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <color\=#88CBFF>cajero automático</color> pa depositah o retirah efehtivo.
 
 
 ## NPCS ##
@@ -561,6 +607,8 @@ r:(.*), Blue house=$1, Casa azuh
 r:(.*), Behind pawn shop=$1, Detráh de la casa de empeño
 
 ## DEALERS ##
+Dealer Management=Gestión de Camelloh
+You haven't recruited any dealers=No hah reclutaoh ningún camelloh
 r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perfeh pichi. Te aviso en $1 h.
 
 
@@ -709,7 +757,14 @@ Barn [2]=Granero [2]
 Bungalow [1]=Bungaló [1]
 
 
-## TIEMPO ## 
+## TIEMPO ##
+Monday=Luneh
+Tuesday=Marteh
+Wednesday=Miércoleh
+Thursday=Jueveh
+Friday=Vierneh
+Saturday=Sábado
+Sunday=Domingo
 Morning=Dia
 Afternoon=Tarde
 Night=Noche
