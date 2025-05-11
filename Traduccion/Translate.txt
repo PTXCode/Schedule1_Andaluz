@@ -308,7 +308,9 @@ Drop=Soltar
 Restart=Reiniciah
 Return to menu=Vorveh ar menu
 sr:"(.+), Day ([0-9]+)$"=$1, día $2
-
+BODY SEARCH=INSPECCIÓN POLICIAH
+No plant=No ta plantá
+Not enough cash=No tieneh efehtivo
 
 
 ## HISTORIA ##
@@ -473,6 +475,7 @@ Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <col
 
 
 ## NPCS ##
+Thank you!=¡Grasiah!
 Evening=Illo...
 Good evening=Buenah illo
 Come here, you are being searched=Ven aquí, tengo que regihtrarte.
@@ -870,6 +873,7 @@ If you've recently been searched at a checkpoint, you're free to pass through th
 Head to Ray's Realty to purchase properties and businesses.=Ve a la Inmobiliaria de Ray pa comprah propiedadeh y negosioh.
 Vehicle stuck? Head to the body shop to get it towed.=¿Tu vehiculo sa quedao atascaoh? Ve ar talleh pa que te lo recuperen.
 Need some extra cash? Grab some trash and take it to a 'Trash for Cash' machine.=¿Necesitah dinero extra? Recoge argo de basura y llévala a una máquina de "Basura por Dinero".
+Be wary of your surroundings when you're dealing! Police will notice when you're handing over product or providing samples to customers.=¡Ten cuidado con tu entorno cuando estéh negosiando! La pulisía notará cuando entregueh productoh o deh muestrah a loh clienteh.
 
 
 
