@@ -812,10 +812,20 @@ Loyal=Amigo
 Street Rat=Novato
 r:"^Street Rat ([IVX]+)$"=Novato $1
 r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size\=11>Requisito: <color\=#2DB92D>Novato $1</color></size>
+Unlocks at Street Rat I=Se desbloquea en Novato I
+Unlocks at Street Rat II=Se desbloquea en Novato II
+Unlocks at Street Rat III=Se desbloquea en Novato III
+Unlocks at Street Rat IV=Se desbloquea en Novato IV
+Unlocks at Street Rat V=Se desbloquea en Novato V
+
 Hoodlum=Parguela
 r:"^Hoodlum ([IVX]+)$"=Parguela $1
 r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Parguela $1</color></size>
-
+Unlocks at Hoodlum I=Se desbloquea en Parguela I
+Unlocks at Hoodlum II=Se desbloquea en Parguela II
+Unlocks at Hoodlum III=Se desbloquea en Parguela III
+Unlocks at Hoodlum IV=Se desbloquea en Parguela IV
+Unlocks at Hoodlum V=Se desbloquea en Parguela V
 
 
 ## CALIDADES ##
