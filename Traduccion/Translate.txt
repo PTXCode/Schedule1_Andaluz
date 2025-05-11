@@ -316,6 +316,10 @@ Bag trash=Emborsah basura
 Open Hatch=Abre la tapa
 Press to Start=Preciona pa iniciah
 Processing...=Procesando...
+sr:"^Potential Customer\n(.+)$"=Cliente potenciah\n$1
+Deal Expired= Entrega fallida
+<color\=#FFB43C>Deal Expiring Soon</color>=<color\=#FFB43C>La entrega expirará</color>
+
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -345,11 +349,9 @@ Evenin', you'd you get on in town?=Ya ehtah aquí, ¿cómo ha ido?
 All good. Got your package but those guys were pretty antsy=To bien. Tengo tu paquete, pero esoh tipoh estaban bastanteh irritaoh.
 Oh yeah? Eh don't worry about 'em. I'll settle with them soon enough. Thanks for grabbing that for me.=¿Jí? No te preocupes por elloh. son zuhnormaleh. Graciah por recogeh eso pichi.
 Well I'll let you get on with it. See ya tomorrow, bud.=Bueno, te dejo con lo tuyo. Noh vemoh mañana illo.
-
 You're a small-time drug dealer from the south.=Ereh un pequeño traficante der suh.
 In a fresh town with no cash, no product, and no contacts.=En una ciudah nueva, sin dinero, sin produhto y sin contahtoh.
 You only know one way to make money. Time to get to work.=Solo conoceh una forma de ganah dinero. Es hora de ponerse a trabajah.
-
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Killo, qué gusto oíh tu voh. Parece que nuestra suerte sa'cabao. Loh Verdeh me tienen enserraoh mientrah ehpero er juicio. Me alegra sabeh que no te han pillaoh.
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=Anteh de mudarme a Serena Flats, vivía en Hyland Point. No eh la ciudad máh agradable, pero hay muchah oportunidadeh pa... ya tu sabeh...
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Si la memoria no me falla, tengo argo de dinero por ahí. No es mucho, pero bastará.
@@ -374,6 +376,11 @@ Oh sorry partner, didn't mean to pry. I'll let you be on your way...=Calla mierd
 You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0FF>weed seeds</color>.=Ya'ta casi to listo pa comenzah, pero... te falta una cosa clave: <color\=#4CB0FF>Semillah de OG Kush</color>.
 You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Tendráh que hablah con un proveedoh pa conseguih argunah semillah. Le pasé tu número a <color\=#4CB0FF>Albert Hoover</color>, el proveedor locah de semillah.
 Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Mándale un <color\=#4CB0FF>mensaje</color> y pide una <color\=#4CB0FF>entrega</color>. Cucha, portate bien con él y pagale pronto, te lo dejarán fiaoh. Ganate su rehpeto.
+You've finished a few deals and made some decent cash, but if you're looking to make real money, you'll need to expand your operations - more <color\=#4CB0FF>product</color> and more <color\=#4CB0FF>customers</color>.=Hah cerraoh argunoh tratoh y hah ganaoh argo de dinero, pero si buscah ganah mah dinero, necesitaráh ehpandih tuh operasioneh. ¡<color\=#4CB0FF>Máh produhtoh</color> y <color\=#4CB0FF>máh clienteh</color>!.
+The best way to gain new customers is to give a <color\=#4CB0FF>free sample</color> to a friend of an existing customer.=La mejoh manera de ganah nuevoh clienteh es regalah una <color\=#4CB0FF>muehtra gratuita</color> a un amigo de un cliente.
+You can view all potential customers on your <color\=#4CB0FF>map</color>. Grab some weed and give them a <color\=#4CB0FF>free sample</color>. With a bit of luck, they'll agree to become a customer.=Puedeh veh a todos loh clienteh potencialeh en tu <color\=#4CB0FF>mapa</color>. Consigue marihuana y regálaleh una <color\=#4CB0FF>muestra gratih</color>. Con suerte, aceptarán hacerse clienteh.
+To keep up with more customers, you'll need more product. The motel room isn't gonna cut it for much longer - time for an upgrade.=Pa atendeh a máh clienteh, necesitaráh máh productoh. La habitación der moteh no te servirá por mucho máh tiempo.
+There's a cheap room for sale above the Chinese restaurant just north of your motel room. Save <color\=#4CB0FF>$800</color>, then go ask about buying the room.=Hay una habitación barata encima del restaurante chino, justo al norte de tu habitación de moteh. Ahorra <color\=#4CB0FF>$800</color> y luego pregunta poh la habitación.
 
 
 
@@ -465,7 +472,16 @@ r:"^Get some deals done, and start expanding your network."=Cierra argunoh trato
 r:"^Wait for a message from a customer"=Ehpera un mensaje de un cliente
 r:"^Schedule your first deal"=Queda con er cliente
 Complete your first deal=Completa tu primera venta
-
+Buy and place another grow tent=Compra y coloca un interioh
+r:Complete 3 deals (.+)/(.+)=Realiza 3 ventas $1/$2
+Open the map app to see your potential customers=Abre er mapa pa veh a loh clienteh potensialeh
+Offer a free sample to a potential customer=Ofrece una muestra gratuita a un cliente potenciah
+Moving Up=Moverse
+You'll need more space if you're looking to get serious. Time to save for and purchase a new property.=Necesitaráh máh ehpacio si quiereh tomarte ehto en serio. Eh hora de ahorrah y comprah una nueva propiedah. 
+Save $800 for a new property=Ahorra $800 pa la habitación
+r:Unlock 10 customers (.+)/(.+)=Consigue 10 clienteh $1/$2
+• Save $800 for a new property=• Ahorra <color\=green>$800</color> pa la habitación
+r:• Unlock 10 customers (.+)/(.+)=• Consigue 10 clienteh $1/$2
 
 
 
@@ -500,7 +516,7 @@ The officer will search your inventory from <color\=#4CB0FF>left to right</color
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
 Click and drag to cut soil bag=Hah Clic y arrahtra pa cortah la borza
-r:Pour soil into pot (.+)%=llenah de tierra $1%)
+r:Pour soil into pot (.+)%=llenah de tierra la maceta ($1%)
 Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
 r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
@@ -510,6 +526,7 @@ There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBF
 Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <color\=#88CBFF>cajero automático</color> pa depositah o retirah efehtivo.
 r:"^Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready."=Loh envíoh a domicilio tardan en completarse, dependiendo der tamaño der pedioh. Er proveedoh te mandará un <color\=#88CBFF>mensaje</color> cuando esté lihto.
 r:"^Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale."=Usa la app <color\=#88CBFF>Produhtoh</color> de tu teléfono pa veh loh productoh que hay a la venta.
+The purple area indicates the <color\=#88CBFF>approximate area</color> of the customer.=El área púrpura indica el <color\=#88CBFF>área aproximah</color> der cliente.
 
 
 
@@ -579,6 +596,11 @@ You're in room 1. It's the one closest to the motel office.=Tu habitación es la
 Officer=Agente de Pulisiah
 Thanks, we're done.=Graciah, ehtah limpio.
 No issues.=Sin problemah.
+Yes!!!=¡Amoo!
+Hey there=Bueenah
+Lets get this party started= Vamoh a empezah la fiehta
+Much appreciated homie=Mu agradesioh bro
+Ok then=Vale..
 
 
 
@@ -636,11 +658,18 @@ Destination=Destino
 Item Total=Cuenta
 Delivery Fee=Envio
 Loading Dock=<size\=15>Muelle de Carga</size>
-
-sr:"Good!! I'll see u <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfeh! Noh vemoh <b>$1</b> poh la madrugah.
-sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh er dia.
-sr:"Good!! I'll see u <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la tarde.
-sr:"Good!! I'll see u <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la noche.
+Counter-offer=Contra oferta
+Customer Receives=Er Cliente Recibe
+You Receive=Tu Recibeh
+Send=Enviah
+[Schedule Deal]=[Quedah]
+I guess that's fine. When?=ehtá bien. ¿Cuándo?
+Alright dude. What time?=Perfeh illo, ¿Hora?
+r:"How about (\d+x) (.+) for \$(\d{1,3}(?:,\d{3})*)\?"=$1 $2 por $3$ 
+nopeskies bro - nevermind=Que va illo, da iguah
+No way=No illo
+Actually, nevermind= Orvídalo
+sr:Don't worry about it=No pasa nah.
 
 
 sr:"^(.+) has requested a delivery of ([0-9]+)x OG Kush (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 quiere una entrega de $2x OG Kush. Estará $3. Pagará $4$.
@@ -672,9 +701,16 @@ Hmm ok. What time?=Hmm ok. ¿Hora?
 
 
 ## PROPIEDADES ##
+RV=Caravana
+Motel Room=Habitación (Moteh)
+
 Taco Ticklers=Taquería Ticklers
 Storage Unit=Almacén Stash & Dash
 The storage unit at Stash & Dash= Almacén en Stash & Dash
+
+RV (Owned)=Caravana (Adquirida)
+Laundromat (Owned)=Lavandería (Adquirida)
+Motel Room (Owned)=Habitación de Moteh (Adquirida)
 
 
 ## ZONAS ##
@@ -687,10 +723,15 @@ behind the gas station=detráh de la gasolinera
 outside the blue house=fuera de la casa azuh
 Alleyway behind grocery store=Callejón detráh der supermercaoh
 next to the barbershop=al laoh de la barbería
-RV=Caravana
-Motel Room=Habitación (Moteh)
 Gas-Mart (West)=Gas-Mart (Oeste)
 Gas-Mart (Central)=Gas-Mart (Central)
+Behind Sauerkraut Supreme Pizzeria=Detráh de la Pizzería Sauerkraut Supreme
+behind Sauerkraut Supreme pizzeria=detráh de la pizzería Sauerkraut Supreme
+In front of motel=En frente der moteh
+in front of the motel=en frente der moteh
+r:North arcade wall=Muro norte del Arcade
+on the north exterior wall of the arcade=en er muro norte del Arcade
+
 
 
 r:(.*), Behind gas station=$1, Detráh de la gasolinera
@@ -710,7 +751,12 @@ r:Got it. I'll let you know when it's ready. Should be about (\d+) hours=Illo. T
 r:Got it\. I'll let you know when it's ready. Should be about (\d+) mins$=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 mins</b>
 Hey, that drop is ready in the alleyway behind the grocery store=Niño, lo tienes en er callejón detráh der supermercaoh
 r:When you're ready please deposit (.*) into my stash box - your debt is still unpaid.=Illo, cuando puedah pon $1 en mi cajón secreto - Aun no mah pagaoh cabron.
-
+View Albert Hoover's stash=Abrih er cajón secreto de Albert Hoover
+Albert Hoover's Stash=Cajón secreto de Albert Hoover
+r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt=Le debeh a Albert Hoover $<color\=#54E717>$1</color>. Pon er dinero y cierra er cajón pa saldah tu deuda.
+r:I've received (.*) cash from you. Your debt is now paid off.=He recibioh <color\=#46CB4F>$1</color>. Ya ta toh pagaoh churrita.
+r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibioh <color\=#46CB4F>$$${1}</color>. te fartan <color\=#46CB4F>$$${2}</color> mostro.
+Your drop is ready. Grab it on the north exterior wall of the arcade=Killo, recogela en er cajón der muro exterioh, al norte del Arcade
 
 
 
@@ -892,8 +938,20 @@ r:Reverting in (\d+(\,\d+)?) seconds=Revertih en $1 segundoh
 More than a year ago=Hace máh de un año
 Yesterday=Ayeh
 
+sr:"Good!! I'll see u <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfeh! Noh vemoh <b>$1</b> poh la madrugah.
+sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh er dia.
+sr:"Good!! I'll see u <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la tarde.
+sr:"Good!! I'll see u <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la noche.
 
+sr:"Sick as, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=¡Amooo! Noh vemoh <b>$1</b> poh la madrugah.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh er dia.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh la tarde.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh la noche.
 
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la madrugah.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh er dia.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la tarde.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la noche.
 
 sr:"Great, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfehto illo, noh vemoh <b>$1</b> por la Madrugáh.
 sr:"Great, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfehto illo, noh vemoh <b>$1</b> por el Dia.
@@ -998,6 +1056,7 @@ Dealers will automatically split up bricks/jars when necessary.=Loh camelloh div
 Dealers will sell whatever is in their inventory, regardless of if it's listed for sale or not.=Loh camelloh venderán lo que ehté en su inventario, independientemente de si ehtá listado para la venta o no.
 When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Cuando er toque de queda ehtá activo, toh loh ciudadanoh están legalmente obligaoh a permaneceh en suh casah de 21:00 PM a 5:00 AM.
 Employees slacking off? Try punching them!=¿Empleadoh vagoh? ¡Metele un bombazo!
+Your progress is automatically saved when you sleep. You can also manually save at the save panel in any of your properties.=Tu progreso se guarda automáticamente cuando duermeh. También puedeh guardah manualmente en er paneh de guardado en cualquiera de tus propiedadeh.
 
 
 
