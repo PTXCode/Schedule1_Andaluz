@@ -109,7 +109,7 @@ Loading...=Cargandoh...
 
 Game=Juego
 Console=Consola
-Press ~ (tilde) to toggle=Preciona ~ (tilde) pa abrih/cerrah la consola DEV
+Press ~ (tilde) to toggle=presiona ~ (tilde) pa abrih/cerrah la consola DEV
 View Commands=Ver Comandoh
 
 PAUSED=JUEGO PAUSADO
@@ -262,8 +262,8 @@ Satisfaction=Satisfacción
 You wanna buy something? [Offer a deal]=¿Quiereh comprah argo? [Ofreceh trato]
 Offer Deal=Ofreceh Trato
 Place product here=Ofreceh un producto
-Asking Price=Preguntar precio
-r:Fair price: \$(\d{1,3}(?:,\d{3})*)=Precio Justo: $1
+Asking Price=presio
+r:Fair price: \$(\d{1,3}(?:,\d{3})*)=presio Justo: $1
 New Customer Unlocked!=¡Nuevo Cliente Desbloqueaoh!
 Knock=Llamah
 BODY SEARCH IN PROGRESS=REGISTRO CORPORAH EN CURSO
@@ -283,16 +283,16 @@ Products Sold=Produhtoh Vendioh
 Player Earnings=Gananciah der Jugadoh
 Dealer Earnings=Gananciah der Vendedoh
 Skipping...=Sartando...
-Can't sleep before 6:00 PM=No puedeh dormih anteh de las 18:00PM
+Can't sleep before 6:00 PM=No puedeh dormih anteh de lah 18:00PM
 Answer phone=Contehtah ar teléfono
-View dead drop=Abrih Compartimento secreto
-Dead Drop=Compartimento Secreto
+View dead drop=Abrih Cajon secreto
+Dead Drop=Cajon Secreto
 View note=Ver nota
 CURFEW ACTIVE UNTIL 5AM=TOQUE DE QUEDA HAHTA LAh 5:00 AM
 CURFEW TONIGHT\n 9PM - 5AM=TOQUE DE QUEDA\n 21:00PM - 5:00AM
 CURFEW SOON=TOQUE DE QUEDA
 r:CURFEW SOON\n([0-9]+) MINS=TOQUE DE QUEDA EN\n$1 MINUTOH
-Police curfew in effect until 5AM=Toque de queda puliciah hahta las 5:00 AM
+Police curfew in effect until 5AM=Toque de queda puliciah hahta lah 5:00 AM
 Turn on=Encendeh
 Turn off=Apagah
 Open curtains=Abrih cortinah
@@ -312,8 +312,21 @@ BODY SEARCH=INSPECCIÓN POLICIAH
 No plant=No ta plantá
 Not enough cash=No tieneh efehtivo
 Discard=<size\=11>Eliminah\n\n</size>
-4G=PTX 4G
-
+Bag trash=Emborsah basura
+Open Hatch=Abre la tapa
+Press to Start=Preciona pa iniciah
+Processing...=Procesando...
+Product Manager=Gehtoh de Produhto
+Effects=Efehtoh
+r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Sugerioh: $1
+List For Sale?=¿Vendeh?
+Addictiveness=Adihción
+Favourites=Favoritoh
+Marijuana=Marihuana
+Methamphetamine=Metanfetamina
+Cocaine=Cocaína
+Sure thing=Aro illo
+[Counter-offer]=[Contra oferta]
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -326,7 +339,7 @@ Cheers buddy. Feel free to take my truck.=Graciah niño. llevate er bicharraco.
 Thank you. You should go talk to Chelsey - I think they'll like your stuff=Killo. Hablah con Ruth, creo que le va a molah tu producto.
 Thank you. You should go talk to Chelsey - I think she'll like your stuff=Graciah illo. Deberíah hablah con Ruth, le gustará tu producto.
 Thanks. Hey my friend Chelsey might be interested in your stuff. You should go talk to her.=Graciah illo. Mi amiga Ruth podría interesarle tuh cosah. Deberíah hablah con ella.
-Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo aprecio mucho. hablah con Ruth. le gustará tu producto.
+Much appreciated. Maybe go talk to Chelsey. I think she'd like your product=Lo apresio mucho. hablah con Ruth. le gustará tu producto.
 Cheers. My friend Chelsey might like your stuff. Go check her out=Buenah. A mi amiga Ruth le gustará tu material. Ve a verla.
 Very nice. Chelsey might be interested. You should go talk to them.=Muh bien. Ruth podría ehtah interesada. Deberías ih a hablah con ella.
 Very nice. Chelsey might be interested. You should go talk to her.=Muh bien. Ruth ehtará interesada. Deberías ih a hablah con ella.
@@ -441,6 +454,32 @@ r:"^Collect the dead drop"=Recoge la entrega
 Collect Dead Drop=Recoge la entrega
 Sow a weed seed=Planta la semilla
 r:"^Water the weed plant"=Rega la planta
+Harvest the weed plant once fully grown=Cosecha la planta de marihuana una veh que esté completamente curtivah.
+List OG Kush for sale in the product manager app=Pon a la venta la marihuana en la aplicación de "Produhtoh".
+r:"^Place the packaging station in the motel room"=Coloca la Empaquetadora en la habitación der moteh
+Packin'=Empaquetaoh
+r:"^Learn the basics of growing and selling weed"=Aprende loh concehtoh básicoh der curtivo y la venta de marihuana
+Buy 10x baggies =Compra 10x Borcitah
+Buy 1x plant trimmers =Compra 1x Estijerah
+Buy 1x packaging station =Compra 1x Empaquetadora
+• Buy 10x baggies = • Compra 10 borcitah
+• Buy 1x plant trimmers = • Compra 1 estijerah
+• Buy 1x packaging station = • Compra 1 Empaquetadora
+Keeping it Fresh=Mantenlo fresco
+r:"^Time to clean some shit up."=Es hora de limpiah argo de mierda.
+Place the soil bag and seed vial in the motel room trash can=Coloca la borsa de tierra y el frahco de semillah en la papelera de la habitación der moteh
+Buy a trash bag from the hardware store=Compra una borsa de basura en la tienda de Dan (Hardware Store)
+Bag the contents of the trash can=Mete er contenioh de la papelera en una borsa
+Dispose of the trash bag=Tira la borsa de basura
+On the Grind=En la rutina
+r:"^Get some deals done, and start expanding your network."=Cierra argunoh tratoh y expande tuh contactoh
+r:"^Wait for a message from a customer"=Ehpera un mensaje de un cliente
+r:"^Schedule your first deal"=Queda con er cliente
+Complete your first deal=Completa tu primera venta
+
+
+
+
 
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
@@ -453,7 +492,7 @@ r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Entrega p
 
 
 ## TUTORIALES ##
-Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten precionao er <color\=#62BDFF>botón deresho del ratón</color> sobre un ohjeto pa cogehlo.
+Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=Dale clic y manten presionao er <color\=#62BDFF>botón deresho del ratón</color> sobre un ohjeto pa cogehlo.
 Pour water over target=Echa el agua en loh puntoh azuleh (Gira con <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>)
 Click and hold tap to refill watering can=Hah clic y mantén presionao er grifo pa rellenah la regadera
 r:Click buds to harvest (.*)\/(.*)=Hah clic en loh broteh pa coceshah $1/$2
@@ -463,7 +502,7 @@ Item Splitting=Dividih Artículoh
 To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=Pa moveh una cantidah personalizah, arrahtra un ohjeto con <color\=#62BDFF>clic derecho</color> y mueve hacia arriba/abajo la <color\=#62BDFF>rueda del ratón</color> para cambiar la cantidad.
 Input Hints=Consejoh de Botoneh
 If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=Si ereh zuhnormah y no zabe haceh argo, \nnormahmente hay consejoh de botoneh en la e'quina inferioh ihquierda.
-While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</color> to rotate it.=Pa rotah un ohjeto, preciona <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>.
+While dragging an item, press <color\=#62BDFF>A</color> or <color\=#62BDFF>D</color> to rotate it.=Pa rotah un ohjeto, presiona <color\=#62BDFF>A</color> o <color\=#62BDFF>D</color>.
 This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=Este eh tu <color\=#88CBFF>red de contahtoh</color>. Aquí eh donde puedeh veh a toh tuh clienteh y clienteh potencialeh.
 The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=La forma máh rápida de conseguih nuevoh clienteh eh dah una <color\=#88CBFF>muestra gratih</color> a un amigo de un cliente exihtente.
 Every customer has their own preferences for drug type and effects.=Cada cliente tiene suh propiah preferenciah en cuanto al tipo de droga y sus efectoh.
@@ -476,7 +515,7 @@ r:Pour soil into pot (.+)%=llenah de tierra $1%)
 Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
 r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
-r:"^There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it"=Tieneh un <color\=#88CBFF>mapa</color> en tu teléfono. Preciona <color\=#88CBFF>M</color> pa abrihlo.
+r:"^There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it"=Tieneh un <color\=#88CBFF>mapa</color> en tu teléfono. presiona <color\=#88CBFF>M</color> pa abrihlo.
 r:"^There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside."=Hay un <color\=#F86266>toque de queda obligatorio</color> entre lah 21:00 PM y lah 5:00 AM. La pulisía te <color\=#F86266>arrehtará</color> si te ve por la calle.
 There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=Hay doh tipoh de dinero: <color\=#46CB4F>efehtivo</color> y <color\=#88CBFF>er banco</color>. Loh clienteh pagan en efehtivo, pero la mayoría de lah tiendah legaleh solo aceptan tarjeta.
 Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <color\=#88CBFF>cajero automático</color> pa depositah o retirah efehtivo.
@@ -523,7 +562,7 @@ That's shit=Vaya mojon, killo
 Oh thanks god=Graciah pichita
 Lets get this over with=amoh ya, hombre
 Come on lets go=Enga ya, amoh
-You got it?=¿Lo pillas o no?
+You got it?=¿Lo pillah o no?
 Yeah??=¿jih?
 Ooooh yeah=Amoooo
 Nvm dog=Perro ;/
@@ -556,6 +595,7 @@ No issues.=Sin problemah.
 
 
 ## TELEFONO ##
+4G=PTX 4G
 Send Message=Enviah Mensaje
 I need to order a dead drop=Necesito haceh un pedioh
 I want to pay off my debt=¿Como te pago?
@@ -583,7 +623,7 @@ Addiction=Adicción
 Standards=Calidah
 Favourite Effects=Efectoh Favoritoh
 Select Deal Time=Seleccionah Hora del Negosio
-You can complete the deal any time within the window=Puedeh completah el negosio en cualquieh momento dentro del período
+You can complete the deal any time within the window=Puedeh completah er negosio en cualquieh momento dentro del período
 Current Time=Hora actual
 Unlock this customer by giving them a free sample. Use your map to see their approximate location.=Desbloquea a ehte cliente dándole una muestra gratih. Usa tu mapa pa veh su ubicación aproximada.
 I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=He oído que ehtáh en problemah. Mejoh no hableh por tu teléfono móvih. buhcah una cabina. - U.N.
@@ -649,7 +689,7 @@ r:"^Got it. I'll let you know when it's ready. Should be about (\d+) hour$"=Perf
 sr:"I need a dead drop:\n(\d+x) (.+)$"=Quiero: $1 de $2
 Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.=Hola, Tu tito me ha pedido que te ayude a conseguih argunah semillah de marihuana.
 Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Envíame un mensaje si te gustaría haceh un pedioh. Te proporcionaré una cuenta que podráh pagah despuéh, un favoh por tu tito.
-You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.=Puedeh pagarme en mi <b>Compartimiento Secreto</b> detráh de <b>hardware store (Dan)</b>.
+You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.=Puedeh pagarme en mi <b>Cajon Secreto</b> detráh de <b>hardware store (Dan)</b>.
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 Hs $2 Min</b>
 r:Got it. I'll let you know when it's ready. Should be about (\d+) hours=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 Hs</b>
 r:Got it\. I'll let you know when it's ready. Should be about (\d+) mins$=Illo. Te aviso cuando esté listo. Mah o menoh en...\n<b>$1 mins</b>
@@ -680,6 +720,7 @@ Jar=Bote
 Halogen Grow Light=Luh de Curtivo Halógena
 Packaging Station=Empaquetadora
 Seed=Semilla
+OG Kush Seed=OG Kush (Semilla)
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -702,6 +743,7 @@ Grow Tent=Interioh
 A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de curtivo con iluminación integrah y maceta. Lah plantah crecerán máh rápido pero serán máh pequeñah.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luh de curtivo halógena barata y simple. Debe colocarce en un zoporte de luceh.
 Provides a clean surface to place product into packaging.=Proporciona una superficie limpia pa colocah er produhto para empaquetah o desempaquetah. Puede deshaceh bloqueh.
+One 'OG Kush' marijuana seed.=Una semilla de 'OG Kush' (Marihuana).
 
 ## CUSTOMIZACIÓN ##
 Customize Appearance=Perzonalizah Apariencia
@@ -760,7 +802,7 @@ Shoes=Zapatoh
 Sneakers=Tenih
 Sandals=Chanclah
 Finalize=Terminaoh
-Press 'done' to finalize your character's appearance=Preciona 'Hecho' pa finalizah la apariencia de tu personahe
+Press 'done' to finalize your character's appearance=presiona 'Hecho' pa finalizah la apariencia de tu personahe
 
 
 ## VEHICULOS ##
@@ -774,6 +816,14 @@ This is the vehicle you last drove.\nMust be within 20 meters.=Ehte es el vehíc
 ## TRADERS ##
 Nevermind=Dejalo
 Bye=Hasta luego
+Much appreciated.=Muh agradesioh.
+Thanks for your order!=¡Graciah por la compra!
+Thanks for your purchase.=¡Graciah por comprah!
+
+## DAN HARDWARE STORE ##
+Thanks for choosing Dan's Hardware.=Grasiah por elegih Dan's Hardware Store.
+Thanks for shopping at Dan's Hardware.=Grasiah por Comprah en Dan's Hardware Store.
+
 
 ## HARDWARE STORE PROLOGO ##
 Morning mate, what can I get ya?=Buenoh díah, ¿qué necesitah?
@@ -929,8 +979,9 @@ Be wary of your surroundings when you're dealing! Police will notice when you're
 Visit the graveyard and ponder your mortality!=¡Visita er cementerio y reflexiona sobre tu mortalidad!
 You can view and track/untrack all of your current quests and contracts in your Journal.=Puedeh veh y seguih o dejah de seguih todah tuh misioneh y contratoh actualeh en tu Diario.
 Dealers will automatically split up bricks/jars when necessary.=Loh camelloh dividirán automáticamente loh ladrilloh/boteh cuando sea necesario.
-
-
+When curfew is active, all citizens are legally required to remain within their residences from 9pm to 5am.=Cuando er toque de queda ehtá activo, toh loh ciudadanoh están legalmente obligaoh a permaneceh en suh casah de 21:00 PM a 5:00 AM.
+Dealers will sell whatever is in their inventory, regardless of it's listed for sale or not.=Loh camelloh venderán lo que ehté en su inventario, independientemente de si ehtá listaoh pa la venta o no.
+Employees slacking off? Try punching them!=¿Empleadoh vagoh? ¡Metele un bombazo!
 
 
 
