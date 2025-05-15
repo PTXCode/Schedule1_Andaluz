@@ -315,6 +315,8 @@ Bag trash=Emborsah basura
 Open Hatch=Abre la tapa
 Press to Start=Preciona\ner boton
 Processing...=Procesando...
+Insert Trash=Mete Basura
+Collect cash=Recogeh dinero
 sr:"^Potential Customer\n(.+)$"=Cliente potenciah\n$1
 Deal Expired= Entrega fallida
 <color\=#FFB43C>Deal Expiring Soon</color>=<color\=#FFB43C>La entrega expirará</color>
@@ -674,6 +676,8 @@ Product Manager=Gehtoh de Produhto
 Select a destination=Selecciona destino
 Selected destination has no loading docks=El destino no tiene muelleh de carga
 Effects=Efehtoh
+Rank\n\n\nRequired for this region=Rango Requerioh\n\n\pa ehta región
+Rank\n\n\nRequired for this area=Rango Requerioh\n\n\n pa ehta área
 r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Sugerioh: $1
 List For Sale?=¿Vendeh?
 Addictiveness=Adihción
@@ -819,6 +823,7 @@ Halogen Grow Light=Luh de Curtivo Halógena
 Packaging Station=Empaquetadora
 Seed=Semilla
 OG Kush Seed=OG Kush (Semilla)
+Trash Grabber=Recolehtoh de basura
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -917,6 +922,7 @@ Bye=Hasta luego
 Much appreciated.=Muh agradesioh.
 Thanks for your order!=¡Graciah por la compra!
 Thanks for your purchase.=¡Graciah por comprah!
+What can I do for you?=¿Qué desea comprah?
 
 ## DAN HARDWARE STORE ##
 Thanks for choosing Dan's Hardware.=Grasiah por elegih Dan's Hardware Store.
