@@ -313,11 +313,33 @@ Not enough cash=No tieneh efehtivo
 Discard=<size\=11>Eliminah\n\n</size>
 Bag trash=Emborsah basura
 Open Hatch=Abre la tapa
-Press to Start=Preciona pa iniciah
+Press to Start=Preciona\ner boton
 Processing...=Procesando...
 sr:"^Potential Customer\n(.+)$"=Cliente potenciah\n$1
 Deal Expired= Entrega fallida
 <color\=#FFB43C>Deal Expiring Soon</color>=<color\=#FFB43C>La entrega expirará</color>
+Use ATM=Usah Cajero
+ATM=<size\=22>Cajero</size>
+Weekly Deposit Limit=Límite Semanal
+Online Balance=Saldo en Tarjeta
+r:"^Hello, ([^ ]+)$"=Hola, $1
+What would you like to do?=¿Qué deseas?
+Select amount to withdraw=Cantidad a retirah
+INSUFFICIENT CASH=EFEHTIVO INSUFICIENTE
+INSUFFICIENT BALANCE=SALDO EN TARJETA INSUFICIENTE
+Success!=Completado!
+CANCEL=CANCELAH
+RETURN TO MENU=VORVEH AR MENU
+I'M DONE=SALIH
+Please wait while we process the transaction=Ehpere mientrah procesamoh la transacción
+DEPOSIT=DEPOCITAH
+r:DEPOSIT (.+)$=DEPOCITAH $1
+Select amount to deposit=Cantidad a Depocitah
+r:You have deposited (.+)$=Hah depositaoh  $1
+OR=O
+WITHDRAW=RETIRAH
+r:WITHDRAW (.+)$=RETIRAH $1
+r:You have withdrawn (.+)$=Hah retiraoh $1
 
 
 ## HISTORIA ##
@@ -649,6 +671,8 @@ Addiction=Adicción
 Standards=Calidah
 Products=Produhtoh
 Product Manager=Gehtoh de Produhto
+Select a destination=Selecciona destino
+Selected destination has no loading docks=El destino no tiene muelleh de carga
 Effects=Efehtoh
 r:Suggested: \$(\d{1,3}(?:,\d{3})*)=Sugerioh: $1
 List For Sale?=¿Vendeh?
