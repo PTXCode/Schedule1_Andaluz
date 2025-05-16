@@ -1289,61 +1289,128 @@ Moderate=Normah
 
 
 ## EFECTOS ##
-•  Athletic=•  Atletico
-• Athletic=• Atletico2
-Athletic=Atletico3
+•  Athletic=•  Ahletico
+• Athletic=• Ahletico
+Athletic=Ahletico
+•  Anti-Gravity=•  Antigravedah
+• Anti-Gravity=• Antigravedah
+Anti-Gravity=Antigravedah
 
 •  Balding=•  Carvicie
-• Balding=• Carvicie2
+• Balding=• Carvicie
+•  Bright-Eyed=•  Brillanteh
+• Bright-Eyed=• Ojos Brillanteh
+Bright-Eyed=Ojos Brillanteh
+
 •  Calming=•  Carmante
 • Calming=•  Carmante
-Calming=Calmante3
-•  Calorie-Dense=•  Alto en calorías
-• Calorie-Dense=• Alto en calorías2
-Calorie-Dense=Alto en calorías3
+Calming=Calmante
+•  Calorie-Dense=•  Arto en caloríah
+• Calorie-Dense=• Arto en caloríah
+Calorie-Dense=Arto en caloríah
+•  Cyclopean=•  Ciclópe
+• Cyclopean=• Ciclópe
+Cyclopean=Ciclópe
 
+•  Disorienting=•  Desorienta
+• Disorienting=• Desorienta
+Disorienting=Desorienta
 
-•  Focused=•  Concentrado 
-• Focused=• Concentrado2
-Focused=Concentrado3
+•  Energizing=•  Energizante
+• Energizing=• Energizante
+Energizing=Energizante
+•  Electrifying=•  Elehtrizante
+• Electrifying=• Elehtrizante
+Electrifying=• Elehtrizante
+•  Euphoric=•  Euforico
+• Euphoric=• Euforico
+Euphoric=Euforico
+•  Explosive=•  Ehplosivo
+• Explosive=• Ehplosivo
+Explosive=Ehplosivo
+
+•  Focused=•  Concentraoh
+• Focused=• Concentraoh
+Focused=Concentraoh
+•  Foggy=•  Nublaoh
+• Foggy=• Nublaoh
+Foggy=Nublaoh
+
+•  Gingeritis=•  Pelirrojitih
+• Gingeritis=• Pelirrojitih
+Gingeritis=Pelirrojitih
+•  Glowie=•  Brillante
+• Glowie=• Brillante
+Glowie=Brillante
+•  Glowing=•  Rehplandeciente
+• Glowing=• Rehplandeciente
+Glowing=Rehplandeciente
+
+•  Jennerising=•  Jennerizado
+• Jennerising=• Jennerizado
+Jennerising=Jennerizado
 
 •  Laxative=•  Laxante
-• Laxative=• Laxante2
-Laxative=Laxante3
-•  Sedating=•  Sedante
-• Sedating=• Sedante2
-Sedating=Sedante3
+• Laxative=• Laxante
+Laxative=Laxante
+•  Long faced=•  Cara larga
+• Long faced=• Cara larga
+Long faced=Cara larga
+•  Lethal=•  Letah
+• Lethal=• Leta
+Lethal=Letah
 
 •  Munchies=•  Glotón
 • Munchies=• Glotón
 Munchies=Glotón
 
-•  Smelly=•  Maloliente
-• Smelly=• Maloliente2
-Smelly=Maloliente3
-•  Sneaky=•  Sigiloso
-• Sneaky=• Sigiloso2
-Sneaky=Sigiloso3
-
-•  Energizing=•  Energizante
-• Energizing=• Energizante2
-Energizing=Energizante3
-
-•  Long faced=•  Cara larga
-• Long faced=• Cara larga2
-Long faced=Cara larga3
-
-•  Euphoric=•  Euforico
-• Euphoric=• Euforico2
-Euphoric=Euforico3
-
-•  Shrinking=•  Enanismo
-• Shrinking=• Enanismo2
-Shrinking=Enanismo3
+•  Paranoia=•  Paranoya
+• Paranoia=• Paranoya
+Paranoia=Paranoya
 
 •  Refreshing=•  Refrehcante
-• Refreshing=• Refrehcante2
-Refreshing=Refrehcante3
+• Refreshing=• Refrehcante
+Refreshing=Refrehcante
+
+•  Smelly=•  Pestoso
+• Smelly=• Pestoso
+Smelly=Pestoso
+•  Sneaky=•  Sigiloso
+• Sneaky=• Sigiloso
+Sneaky=Sigiloso
+•  Seizure-Inducing=•  Provoca convurcioneh
+• Seizure-Inducing=• Provoca convurcioneh
+Seizure-Inducing=Provoca convurcioneh
+•  Schizophrenic=•  Ehquizofrénico
+• Schizophrenic=• Ehquizofrénico
+Schizophrenic=Ehquizofrénico
+•  Spicy=•  Picante
+• Spicy=• Picante
+Spicy=Picante
+•  Slippery=•  Rehbaladizo
+• Slippery=• Rehbaladizo
+Slippery=Rehbaladizo
+•  Shrinking=•  Enanihmo
+• Shrinking=• Enanihmo
+Shrinking=Enanihmo
+•  Sedating=•  Sedante
+• Sedating=• Sedante
+Sedating=Sedante
+
+•  Tropic Thunder=•  Trueno tropicah
+• Tropic Thunder=• Trueno tropicah
+Tropic Thunder=Trueno tropicah
+•  Thought-Provoking=•  Te hace pensah
+• Thought-Provoking=• Te hace pensah
+Thought-Provoking=Te hace pensah
+•  Toxic=•  Tóxico
+• Toxic=• Tóxico
+Toxic=Tóxico
+
+•  Zombifying=•  Zombificante
+• Zombifying=• Zombificante
+Zombifying=Zombificante
+
 
 ## PANTALLAS DE CARGA ##
 Prologue=Prólogo
