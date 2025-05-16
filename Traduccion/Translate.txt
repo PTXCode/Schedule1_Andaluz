@@ -201,6 +201,8 @@ Rotate=Rotah
 Place Item=Poneh Ohjeto
 Switch off=Apagah
 Switch on=Encendeh
+Pick up Cuke=Recogeh Cuke
+Pick up Baseball Bat=Recogeh er bate de Beihboh
 
 ## MECANICAS ##
 r:(\d+)% grown=Lleva Crecio un $1%
@@ -356,6 +358,8 @@ Table=Mesa
 View table=Ver mesa
 Curfew Bonus=Bonificación por toque de queda
 Stop the arrow in the green area to unlock item=Detén la flecha en el área verde pa desbloqueah el ohjeto
+sr:"'(.+)' REGION MUST BE UNLOCKED?$"='$1' DEBE CEH DESBLOQUEAH
+Purchase Cuke=Comprah Cuke
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -552,6 +556,11 @@ r:(.*), Behind Hyland Range=$1, Detráh de Hyland Range
 r:(.*), Next to barbershop=$1, al laoh de la barbería
 r:(.*), Behind Sauerkraut Supreme Pizzeria=$1, detráh de la Pizzería Sauerkraut Supreme
 r:(.*), In front of motel=$1, en frente der moteh
+r:(.*), Shipping containers near Sauerkraut Supreme=$1, Contenedoreh cerca de Sauerkraut Supreme
+r:(.*), Skatepark=$1, en el Skatepark
+r:(.*), Behind Thompson construction and demolition=$1, Detráh de Thompson Construction
+r:(.*), Next to Bud's Bar=$1, Al laoh del bar de Bud's
+r:(.*), Outside brown apartment block room #2=$1, Afuera del bloque de apartamentoh marrón, bajo n.º 2
 
 
 
@@ -590,6 +599,12 @@ The purple area indicates the <color\=#88CBFF>approximate area</color> of the cu
 
 
 ## NPCS ##
+SHIT!=JOPUTA!
+Very nice!=¡Mu bien!
+Awesome, thanks!=Ereh un maquina
+Alright come on=Tá bien, amoh
+Come on come on!=¡Amoh, amoh!
+Finally=Por fin
 Hell yeah brotha=Buena mierda illo
 Nice=Bien
 No, not right now=Ahora no, pichi
@@ -641,8 +656,8 @@ That's shit=Vaya mojon, killo
 Oh thanks god=Graciah pichita
 Lets get this over with=amoh ya, hombre
 Come on lets go=Enga ya, amoh
-You got it?=¿ya o no?
-Yeah??=¿jih?
+You got it?=¿Ya o no?
+Yeah??=¿Jih?
 Ooooh yeah=Amoooo
 Nvm dog=Perro ;/
 No thanks...=No graciah...
@@ -762,6 +777,10 @@ No way=No illo
 Actually, nevermind= Orvídalo
 sr:Don't worry about it=No pasa nah.
 TOO LONG!! Nevermind=¡Ya no quiero nah!
+Damn it fine. What time?=Jodeh. Va, ¿Que hora?
+You crazy? No thanks=No consumah mah
+Oh ok=Fooh
+
 
 sr:"^(.+) has requested a delivery of ([0-9]+)x OG Kush (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 quiere una entrega de $2x OG Kush. Estará $3. Pagará $4$.
 sr:"^(.+) has requested a delivery of ([0-9]+)x Sour Diesel (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 quiere una entrega de $2x Sour Diesel. Estará $3. Pagará $4$.
@@ -834,6 +853,12 @@ Behind Hyland Range=Detráh de Hyland Range
 behind Hyland gun range=detráh de Hyland Range
 in the alleyway behind Slop Shop (the diner)=en er callejón detráh del rehtaurante Slop Shop
 the alleyway behind Slop Shop (the diner)=er callejón detráh del rehtaurante Slop Shop
+at the skatepark=en el skatepark
+Next to Bud's Bar=Junto al bar de Bud's
+next to Bud's bar=junto al bar de Bud's
+Outside brown apartment block room #2=Afuera del bloque de apartamentoh marrón, bajo n.º 2
+outside room #2 of the brown apartment block=afuera del bloque de apartamentoh marrón, bajo n.º 2
+
 
 ## DEALERS ##
 Do you want to work for me as a distributor?=Illo. ¿Quiereh trabajah pa mi?
