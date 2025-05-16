@@ -1289,44 +1289,61 @@ Moderate=Normah
 
 
 ## EFECTOS ##
+•  Athletic=•  Atletico
+• Athletic=• Atletico2
+Athletic=Atletico3
+
 •  Balding=•  Carvicie
 • Balding=• Carvicie2
-•  Laxative=•  Laxante
-• Laxative=• Laxante2
-Laxative=Laxante3
 •  Calming=•  Carmante
 • Calming=•  Carmante
 Calming=Calmante3
-•  Sedating=•  Sedante
-• Sedating=• Sedante2
-Sedating=Sedante3
-•  Focused=•  Concentrado 
-• Focused=• Concentrado2
-Focused=Concentrado3
-•  Munchies=•  Glotón
-• Munchies=• Glotón
-Munchies=Glotón
-•  Smelly=•  Maloliente
-• Smelly=• Maloliente2
-Smelly=Maloliente3
 •  Calorie-Dense=•  Alto en calorías
 • Calorie-Dense=• Alto en calorías2
 Calorie-Dense=Alto en calorías3
-•  Energizing=•  Energizante
-• Energizing=• Energizante2
-Energizing=Energizante3
+
+
+•  Focused=•  Concentrado 
+• Focused=• Concentrado2
+Focused=Concentrado3
+
+•  Laxative=•  Laxante
+• Laxative=• Laxante2
+Laxative=Laxante3
+•  Sedating=•  Sedante
+• Sedating=• Sedante2
+Sedating=Sedante3
+
+•  Munchies=•  Glotón
+• Munchies=• Glotón
+Munchies=Glotón
+
+•  Smelly=•  Maloliente
+• Smelly=• Maloliente2
+Smelly=Maloliente3
 •  Sneaky=•  Sigiloso
 • Sneaky=• Sigiloso2
 Sneaky=Sigiloso3
+
+•  Energizing=•  Energizante
+• Energizing=• Energizante2
+Energizing=Energizante3
+
 •  Long faced=•  Cara larga
 • Long faced=• Cara larga2
 Long faced=Cara larga3
+
 •  Euphoric=•  Euforico
 • Euphoric=• Euforico2
 Euphoric=Euforico3
+
 •  Shrinking=•  Enanismo
 • Shrinking=• Enanismo2
 Shrinking=Enanismo3
+
+•  Refreshing=•  Refrehcante
+• Refreshing=• Refrehcante2
+Refreshing=Refrehcante3
 
 ## PANTALLAS DE CARGA ##
 Prologue=Prólogo
