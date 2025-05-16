@@ -13,3 +13,6 @@ Restart the game to apply changes=Reinicia el juego para que los cambios se apli
 ## SAVE GAME ##
 Save Game= Guardah Partiah
 Restart Game=Reiniciah Juego
+
+## QUALITY BONUS ##
+Quality Bonus=Bonificación por Calidad
