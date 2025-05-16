@@ -197,7 +197,8 @@ Speed Up Search=Acelerah Búsqueda
 Sleep=Dormih
 Next=Siguiente
 None=Ninguno
-
+Rotate=Rotah
+Place Item=Poneh Ohjeto
 Switch off=Apagah
 Switch on=Encendeh
 
@@ -276,7 +277,7 @@ Insufficient cash. Visit an ATM to withdraw cash.=No tieneh efectivo suficiente,
 Pot already full=La maceta ya tiene tierra
 Sow seed=Poneh semilla
 Already contains seed=Ya tiene semilla
-Waking up at=Despertar a lah
+Waking up at=Despertar a lah 
 XP Earned=XP Ganáh
 Products Sold=Produhtoh Vendioh
 Player Earnings=Gananciah der Jugadoh
@@ -342,6 +343,10 @@ OR=O
 WITHDRAW=RETIRAH
 r:WITHDRAW (.+)$=RETIRAH $1
 r:You have withdrawn (.+)$=Hah retiraoh $1
+Access coffee table=Acceder a la mesa de café
+Flush=Tirah
+(Hold) Dump Contents=(Mantener) Vaciah Cubo
+SAMPLE ALREADY OFFERED TODAY=YA LAH DAOH UNA MUEHTRA
 
 
 ## HISTORIA ##
@@ -543,7 +548,7 @@ The officer will search your inventory from <color\=#4CB0FF>left to right</color
 <color\=#4CB0FF>Click and hold</color> an item to <color\=#4CB0FF>conceal</color> it. You can only conceal one item at a time.=<color\=#4CB0FF>Mantén pulsaoh</color> un ohjeto pa <color\=#4CB0FF>ocurtahlo</color>. Solo puedeh ocurtah un objeto a la veh.
 The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=La ley será tu principal obstáculo. Tendráh que enfrentarte a patrullah, cacheoh, controleh, toqueh de queda, y máh.
 Click and drag to cut soil bag=Hah Clic y arrahtra pa cortah la borza
-r:Pour soil into pot (.+)%=llenah de tierra la maceta $1%
+r:Pour soil into pot (.+)%=llenah de tierra la maceta $1%)
 Click cap to remove=Haz clic en el tapón pa quitahlo
 Drop seed into hole=Echa la semilla en er bujeroh
 r:Click soil chunks to bury seed (.*)\/(.*)=Hah clic en loh trosoh de tierra pa enterrah la semilla $1/$2
@@ -824,6 +829,23 @@ Packaging Station=Empaquetadora
 Seed=Semilla
 OG Kush Seed=OG Kush (Semilla)
 Trash Grabber=Recolehtoh de basura
+Long-Life Soil=Tierra buena
+Trash Can=Cubo de basura
+Display Cabinet=Vitrina de exhibición
+Trash Bag=Borsa de basura
+Toilet (Pre-owned)=Vateh
+Coffee Table=Mesa de café
+Wooden Square Table=Mesa cuadráh de madera
+Metal Square Table=Mesa cuadráh de metal
+Floor Lamp=Lámpara de Pie
+TV=Televisor
+Pot Sprinkler=Ahpenzoh de agua
+Soil Pourer=Vertedoh de tierra
+Electric Plant Trimmers=Estijera eléhtrica
+Mixing Station=Mehcladora
+Packaging Station Mk II=Empaquetadora Mk II
+Extra Long-Life Soil=Tierra Premium
+Grow Tent=Interioh
 
 ## DESCRIPCIONES ##
 Holds water.=Utensilioh preparao pa echá agua a lah macetah. Contiene agua.
@@ -842,11 +864,28 @@ Instantly grows the plant by 50%, but reduces plant quality.=Crece instantáneam
 Plant growth regulator (PGR) will increase the yields of your plants, at the cost of quality.=El regulador de crecimiento de plantas (PGR) aumentará el rendimiento de tuh curtivoh, a costa de la calidah.
 A cozy single bed to slumber in.=Una cómoda cama pa tuh largah horah de trabajo. Se usa tambien pa trabajadoreh.
 A clear glass jar to keep various substances in. Holds 5x units of any product.=Un frahco de vidrio transparente pa guardah variah sustanciah. Almacena hasta 5 unidadeh de cualquieh producto.
-Grow Tent=Interioh
 A small grow tent with built-in lighting and pot. Plants will grow faster but smaller.=Una pequeña tienda de curtivo con iluminación integrah y maceta. Lah plantah crecerán máh rápido pero serán máh pequeñah.
 Cheap and simple halogen grow light. Must be placed on a suspension rack.= Luh de curtivo halógena barata y simple. Debe colocarce en un zoporte de luceh.
 Provides a clean surface to place product into packaging.=Proporciona una superficie limpia pa colocah er produhto para empaquetah o desempaquetah. Puede deshaceh bloqueh.
 One 'OG Kush' marijuana seed.=Una semilla de 'OG Kush' (Marihuana).
+Used to easily collect trash.=Recoge la basura mah fasí y rapido.
+Long-lasting soil that can be used to grow 2 plants before expiring.=Tierra de zona buena parr curtivah. Tiene hasta 2 sembraoh anteh de deteriorarse.
+Metal trash can you can place trash in.=Cubo de basura de metah donde puedeh poneh la basura.
+Wooden display cabinet for putting all your fancy stuff in.=Vitrina de madera pa mohtrah toh tuh cosah eleganteh.
+Can be used to either gather up trash or to bag the contents of a trash can.=Se puede usah pa recogeh basura o pa vaciah er cubo de basura.
+A ceramic toilet for disposing of waste matter.=Un vateh de cerámica pa decechah decechoh.
+Wood coffee table. Good for placing coffee on.=Mesa de café de madera. Ideah pa colocah una taza de café.
+1x1m metal table. You can place stuff on it.=Mesa metálica de 1x1 m. Puedeh colocah cosah encima.
+1x1m wooden table. You can place stuff on it.=Mesa de madera de 1x1 m. Puedeh colocah cosah encima.
+A standing floor lamp. Can be switched on and off.=Lámpara de pie. Puede encenderce y apagarce.
+Television and a TV cabinet. Includes a video game console.=Televisor con mueble. Incluye una consola de videojuegoh.
+When activated, will water the adjacent pot or grow tent.=Ar moveh lah tuercah, regará la maceta onde ehte colocáh. Contiene agua.
+When activated, will fill the adjacent pot or grow tent with soil.=Ar moveh lah tuercah, llenará de tierra la maceta onde ehte colocáh. Necesita tierra
+A pair of electric plant trimmers. Simply click and drag to harvest.=Unah estijera eléctricah pa plantah. Un simple click y corta una unidah de produhto.
+Used to mix product with ingredients to create unique new products.=Utilizaoh pa mezclah un produhto con ingredienteh y creah nuevoh produhtoh únicoh.
+An upgraded version of the packaging station with a rotary packing tool. Allows for much faster packing of products.=Un modelo mejoraoh de la Empaquetadora. Añade un motoh pa empaquetáh mah rapido
+Extra long-lasting soil that can be used to grow 3 plants before expiring.=Tierra de arta durabilidah, con ehto si tieneh cosecha propia de patacah. Tiene hasta 3 sembraoh anteh de deteriorarse.
+
 
 ## CUSTOMIZACIÓN ##
 Customize Appearance=Perzonalizah Apariencia
@@ -1277,6 +1316,7 @@ Staff don't work for free! They will automatically draw their daily wage from th
 If you die in singleplayer, you'll go back to your last save. If you die in multiplayer, you'll pay an expensive visit to the medical clinic.=Si muereh en el modo un jugadoh, vorveráh a tu úrtimo guardaoh. Si muereh en murtijugadoh, pagaráh una costosa visita a la clínica médica.
 There are a number of ATMs scattered throughout Hyland Point for your convenience.=Hay varioh cajeroh automáticoh repartioh por Hyland Point.
 A coca plant will display distinctive red berries when it is ready for harvest.=Una planta de coca mostrará bayah rojah distintivah cuando esté lista pa la cosecha.
+Need to hide from the authorities? Try a bush, dumpster, or large tree,=¿Necesitah esconderte de lah pulisiah? Prueba un arbusto, un contenedoh de basura o un árboh grande.
 Need to hide from the authorities? Try a bush, dumpster, or large tree.=¿Necesitah esconderte de lah pulisiah? Prueba un arbusto, un contenedoh de basura o un árboh grande.
 Each property has a limit to the amount of employees that can work there.=Cada propiedah tiene un límite en la cantidah de empleadoh que pueden trabajah allí.
 If you've recently been searched at a checkpoint, you're free to pass through that checkpoint multiple times without another search.=Si te han registraoh recientemente en un puesto de controh, puedeh pasah por ese puesto variah veceh sin otro registro.
