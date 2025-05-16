@@ -354,6 +354,8 @@ WANTED DEAD OR ALIVE=<size\=25>BUHCAOH VIVO O MUERTO</size>
 Cuffing...=Arrehtando...
 Table=Mesa
 View table=Ver mesa
+Curfew Bonus=Bonificación por toque de queda
+Stop the arrow in the green area to unlock item=Detén la flecha en el área verde pa desbloqueah el ohjeto
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -530,8 +532,8 @@ r:Dodgy Dealing=Trato dudoso
 r:"Recruit and manage your first dealer to handle distribution for you."=Recluta y gestiona a tu primeh camello pa que se encargue de la distribución por ti.
 r:"Reach 'friendly' relationship status with Chloe, Ludwig, or Beth"=Alcanza ceh 'Amigo' de Chloe, Ludwig o Beth.
 r:"Unlock Chloe, Ludwig, or Beth as customers"=Consigue a Chloe, Ludwig o Beth como clientes.
-
-
+r:Behind Thompson Construction=Detráh de Thompson Construction
+r:"Alleyway behind Slop Shop"=Callejon detrás de Slop Shop
 
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
@@ -541,6 +543,12 @@ r:"^Deal for (.+)<color\=green> \(Expires in (\d+) min\)</color>$"=Entrega pendi
 r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#FF5555FF> (En $2 h expira)</color>
 r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Entrega pendiente <color\=#FF5555FF> (En $2 min expira)</color>
 
+r:(.*), Behind gas station=$1, Detráh de la gasolinera
+r:(.*), Blue house=$1, Casa azuh
+r:(.*), Behind pawn shop=$1, Detráh de la casa de empeño
+r:(.*), Basketball court=$1, Cancha de baloncesto
+r:(.*), North waterfront=$1, Zona Cohtera del norte
+r:(.*), Behind Hyland Range=$1, Detráh de Hyland Range
 r:(.*), Next to barbershop=$1, al laoh de la barbería
 r:(.*), Behind Sauerkraut Supreme Pizzeria=$1, detráh de la Pizzería Sauerkraut Supreme
 r:(.*), In front of motel=$1, en frente der moteh
@@ -582,6 +590,8 @@ The purple area indicates the <color\=#88CBFF>approximate area</color> of the cu
 
 
 ## NPCS ##
+Hell yeah brotha=Buena mierda illo
+Nice=Bien
 No, not right now=Ahora no, pichi
 Evenin' bro=Buenah tardeh
 No thanks=No illo
@@ -685,6 +695,20 @@ Unknown=Desconocido
 Character=Perzonaje
 Messages=Mensajeh
 Dealers=Camelloh
+DEALER=CAMELLO
+Dealer=Camello
+Unlock this dealer by reaching 'friendly' with one of their connections.=Desbloquea a ehte camello arcanzando 'Amigo' con una de suh conexioneh.
+SUPPLIER=PROVEEDOH
+Supplier=Proveedoh
+Unlock this supplier by reaching 'friendly' with one of their connections.=Desbloquea a ehte proveedoh arcanzando 'Amigo' con una de suh conexioneh.
+Not right now=Ahora no
+Alright fine=Tá bien
+Ok. What time you wanna meet?=Vale. ¿Cuando quedamoh?
+Aight homie. What time you wanna meet?=Tá bien, ¿Cuando quedamoh?
+Alright then. What time?=Tá bien. ¿Hora?
+Damn=Foh
+Ok fine. What time?=Bien. ¿Hora?
+hmmmmm FINE. When?=Hmm.. Vale. ¿Cuando?
 Yep=Aro
 Yes=Sí
 Deal=Trato Hecho
@@ -798,12 +822,18 @@ In front of motel=En frente der moteh
 in front of the motel=en frente der moteh
 r:North arcade wall=Muro norte del Arcade
 on the north exterior wall of the arcade=en er muro norte del Arcade
-
-
-
-r:(.*), Behind gas station=$1, Detráh de la gasolinera
-r:(.*), Blue house=$1, Casa azuh
-r:(.*), Behind pawn shop=$1, Detráh de la casa de empeño
+behind Thompson Construction=Detráh de Thompson Construction
+behind Thompson construction and demolition=detrás de Thompson Construction
+Behind Thompson construction and demolition=Detráh de Thompson Construction
+at the basketball court=en la cancha de baloncehto
+at the north waterfront=en la zona cohtera en er norte
+North waterfront=Zona costera norte
+Shipping containers near Sauerkraut Supreme=Contenedoreh cerca de Sauerkraut Supreme
+behind the shipping containers near Sauerkraut Supreme=detráh de los contenedoreh cerca de Sauerkraut Supreme
+Behind Hyland Range=Detráh de Hyland Range
+behind Hyland gun range=detráh de Hyland Range
+in the alleyway behind Slop Shop (the diner)=en er callejón detráh del rehtaurante Slop Shop
+the alleyway behind Slop Shop (the diner)=er callejón detráh del rehtaurante Slop Shop
 
 ## DEALERS ##
 Do you want to work for me as a distributor?=Illo. ¿Quiereh trabajah pa mi?
@@ -826,7 +856,9 @@ r:You owe Albert Hoover <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\. Insert 
 r:I've received (.*) cash from you. Your debt is now paid off.=He recibioh <color\=#46CB4F>$1</color>. Ya ta toh pagaoh churrita.
 r:"^I've received \$(\d{1,3}(?:,\d{3})*) cash from you\. Your debt is now \$(\d{1,3}(?:,\d{3})*)$"=He recibioh <color\=#46CB4F>$$${1}</color>. te fartan <color\=#46CB4F>$$${2}</color> mostro.
 Your drop is ready. Grab it on the north exterior wall of the arcade=Killo, recogela en er cajón der muro exterioh, al norte del Arcade
-
+Copy. I'll message you when it's ready in about 5 hours.=Recibioh. Ehtará lihto en unah 5h pichi.
+sr:"Your drop is ready. Grab it (.+)$"=Niño, lo tieneh <b>$1</b>.
+sr:"Hey, that drop is ready (.+)$"=Illo, lo tieneh <b>$1</b>.
 
 
 ## OBJETOS ##
@@ -940,7 +972,7 @@ Agitated=Rayaoh
 Slight Smile=Sonrisa
 Smug=Sigma
 Facial Hair=Vello Facial
-Stubble=2 dias
+Stubble=2 diah
 Goatee=Perilla
 Facial Details=Detalleh Fasialeh
 Freckles=Pecas
@@ -1029,7 +1061,7 @@ Thursday=Jueveh
 Friday=Viehneh
 Saturday=Sábado
 Sunday=Domingo
-Morning=Dia
+Morning=Mañana
 Afternoon=Tarde
 Night=Noche
 Late Night=Madrugáh
@@ -1045,30 +1077,34 @@ More than a year ago=Hace máh de un año
 Yesterday=Ayeh
 
 sr:"Good!! I'll see u <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfeh! Noh vemoh <b>$1</b> poh la madrugah.
-sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh er dia.
+sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la mañana.
 sr:"Good!! I'll see u <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la tarde.
 sr:"Good!! I'll see u <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfeh! Noh vemoh <b>$1</b> poh la noche.
 
 sr:"Sick as, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=¡Amooo! Noh vemoh <b>$1</b> poh la madrugah.
-sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh er dia.
+sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh la mañana.
 sr:"Sick as, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh la tarde.
 sr:"Sick as, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=¡Amooo! Noh vemoh <b>$1</b> poh la noche.
 
 sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la madrugah.
-sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh er dia.
+sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la mañana.
 sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la tarde.
 sr:"Hell yeah my friend, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=¡Aro pichi! Noh vemoh <b>$1</b> poh la noche.
 
 sr:"Great, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Perfehto illo, noh vemoh <b>$1</b> por la Madrugáh.
-sr:"Great, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfehto illo, noh vemoh <b>$1</b> por el Dia.
+sr:"Great, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Perfehto illo, noh vemoh <b>$1</b> por la mañana.
 sr:"Great, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Perfehto illo, noh vemoh <b>$1</b> por la Tarde.
 sr:"Great, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Perfehto illo, noh vemoh <b>$1</b> por la Noche.
 
 sr:"Cheers bro, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Killo, noh vemoh <b>$1</b> poh la madrugah.
-sr:"Cheers bro, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Killo, noh vemoh <b>$1</b> poh er dia.
+sr:"Cheers bro, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Killo, noh vemoh <b>$1</b> poh la mañana.
 sr:"Cheers bro, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Killo, noh vemoh <b>$1</b> poh la tarde.
 sr:"Cheers bro, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Killo, noh vemoh <b>$1</b> poh la noche.
 
+sr:"Ok, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Vale. Noh vemoh <b>$1</b> poh la madrugah.
+sr:"Ok, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Vale. Noh vemoh <b>$1</b> poh la mañana.
+sr:"Ok, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Vale. Noh vemoh <b>$1</b> poh la tarde.
+sr:"Ok, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Vale. Noh vemoh <b>$1</b> poh la noche.
 
 r:"^(1:(\d{2}) AM)\sMonday*"=01:$2 AM Lunes
 r:"^(2:(\d{2}) AM)\sMonday*"=02:$2 AM Lunes
