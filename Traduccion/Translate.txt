@@ -347,7 +347,13 @@ Access coffee table=Acceder a la mesa de café
 Flush=Tirah
 (Hold) Dump Contents=(Mantener) Vaciah Cubo
 SAMPLE ALREADY OFFERED TODAY=YA LAH DAOH UNA MUEHTRA
-
+Police curfew starting soon=Er toque de queda empezará pronto
+UNDER ARREST=<size\=25>BAJO ARREHTO</size>
+WANTED=<size\=25>BUHCAOH</size>
+WANTED DEAD OR ALIVE=<size\=25>BUHCAOH VIVO O MUERTO</size>
+Cuffing...=Arrehtando...
+Table=Mesa
+View table=Ver mesa
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -409,6 +415,13 @@ The best way to gain new customers is to give a <color\=#4CB0FF>free sample</col
 You can view all potential customers on your <color\=#4CB0FF>map</color>. Grab some weed and give them a <color\=#4CB0FF>free sample</color>. With a bit of luck, they'll agree to become a customer.=Puedeh veh a todos loh clienteh potencialeh en tu <color\=#4CB0FF>mapa</color>. Consigue marihuana y regálaleh una <color\=#4CB0FF>muestra gratih</color>. Con suerte, aceptarán hacerse clienteh.
 To keep up with more customers, you'll need more product. The motel room isn't gonna cut it for much longer - time for an upgrade.=Pa atendeh a máh clienteh, necesitaráh máh productoh. La habitación der moteh no te servirá por mucho máh tiempo.
 There's a cheap room for sale above the Chinese restaurant just north of your motel room. Save <color\=#4CB0FF>$800</color>, then go ask about buying the room.=Hay una habitación barata encima del restaurante chino, justo al norte de tu habitación de moteh. Ahorra <color\=#4CB0FF>$800</color> y luego pregunta poh la habitación.
+I'd like to buy the room=Quiero comprah la habitación
+Oh yes very good! <color\=#54E717>$800</color> for room, yes?=La habitación cuehta <color\=#54E717>$800</color>. ¿La quieleh?
+Thank you, very good! You can get to the room behind the restaurant, up the stairs.=¡Glaciah! Puedeh subih lah ehcalelah a la habitación, ehtá detláh del lestaulante.
+It is up the stairs behind my restaurant! Go around back and you'll see.=¡Ehtá subiendo lah ehcalerah detláh de mi lestaulante! Da la vuelta.
+You've got a decent base of operations and a growing customer base. You'll be pulling in some proper cash now, but you'll need help to manage all your customers.=Ya tieneh una base de operacioneh sólida y unoh cuantoh clienteh. Ahora ehtaráh generando ingresoh considerableh, pero necesitaráh ayuda pa gestionah toh.
+Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>Benji Coleman</color> his name is, I think. He'll be the first dealer you can work with.=Eh hora de contratah un <color\=#4CB0FF>camello</color>. Hay un tipo... mm.. Creo que se llama <color\=#4CB0FF>Benji Coleman</color>. Será er primero con er que puedah trabajah.
+You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>Ludwig</color>. Focus on selling to them until one of them recommends you.=No lo podráh contratah hahta que uno de suh amigoh te recomiende. Benji es amigo de <color\=#4CB0FF>Peggy, Beth,</color> y <color\=#4CB0FF>Ludwig</color>. Concéntrate en venderleh hahta que arguno de elloh te recomiende.
 
 
 
@@ -510,7 +523,13 @@ Save $800 for a new property=Ahorra $800 pa la habitación
 r:Unlock 10 customers (.+)/(.+)=Consigue 10 clienteh $1/$2
 • Save $800 for a new property=• Ahorra <color\=green>$800</color> pa la habitación
 r:• Unlock 10 customers (.+)/(.+)=• Consigue 10 clienteh $1/$2
-
+r:Talk to Mrs. Ming at the Chinese restaurant=Habla con Mrs. Ming en el restaurante chino
+r:Purchase the room above the Chinese Restaurant=Compra la habitación del restaurante chino
+r:Move the grow tents and packaging station to the new room=Mudate a la habitación encima del restaurante chino (Interioh y Empacadora)
+r:Dodgy Dealing=Trato dudoso
+r:"Recruit and manage your first dealer to handle distribution for you."=Recluta y gestiona a tu primeh camello pa que se encargue de la distribución por ti.
+r:"Reach 'friendly' relationship status with Chloe, Ludwig, or Beth"=Alcanza ceh 'Amigo' de Chloe, Ludwig o Beth.
+r:"Unlock Chloe, Ludwig, or Beth as customers"=Consigue a Chloe, Ludwig o Beth como clientes.
 
 
 
@@ -563,6 +582,11 @@ The purple area indicates the <color\=#88CBFF>approximate area</color> of the cu
 
 
 ## NPCS ##
+No, not right now=Ahora no, pichi
+Evenin' bro=Buenah tardeh
+No thanks=No illo
+Oh thank god=Graciah shurra
+Argh! That's nasty=¡Argh! que lache
 Mornin' dude=Buenoh díah, illo
 Heyo=Hola
 Cheers dog=Graciah perro
@@ -962,6 +986,7 @@ Much appreciated.=Muh agradesioh.
 Thanks for your order!=¡Graciah por la compra!
 Thanks for your purchase.=¡Graciah por comprah!
 What can I do for you?=¿Qué desea comprah?
+Inventory won't fit everything. Some items will be placed on the pallets.=No tieneh ehpacio en el inventario. Loh artículoh que no entren se colocarán en loh pallets de fuera.
 
 ## DAN HARDWARE STORE ##
 Thanks for choosing Dan's Hardware.=Grasiah por elegih Dan's Hardware Store.
