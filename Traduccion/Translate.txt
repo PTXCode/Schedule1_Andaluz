@@ -203,6 +203,10 @@ Switch off=Apagah
 Switch on=Encendeh
 Pick up Cuke=Recogeh Cuke
 Pick up Baseball Bat=Recogeh er bate de Beihboh
+Stop Arrow=Deteneh Flecha
+Use Mixing Station=Usah Mehcladora
+Activate sprinkler=Ahtivah ahpensoh de agua
+Pick up $10=Cogeh $10
 
 ## MECANICAS ##
 r:(\d+)% grown=Lleva Crecio un $1%
@@ -360,6 +364,21 @@ Curfew Bonus=Bonificación por toque de queda
 Stop the arrow in the green area to unlock item=Detén la flecha en el área verde pa desbloqueah el ohjeto
 sr:"'(.+)' REGION MUST BE UNLOCKED?$"='$1' DEBE CEH DESBLOQUEAH
 Purchase Cuke=Comprah Cuke
+LEVEL UP!=¡HAH SUBIOH DE NIVEH!
+NOW AVAILABLE:=HAH DEHBLOQUEAOH:
+r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=DEHBLOQUEA UNA DE LAH CONEXIONEH DE $1
+Quick Delivery Bonus=Bono de entrega rápida
+New Mix Discovered!=¡Nueva Mehcla Dehcubierta!
+r:Market Value: (.+)$=Valoh de Mercaoh: $1
+Collect output=Recoge er produhto
+Mixer=Ingrediente
+Insert unpackaged product and mixing ingredient=Pon productoh sin empaquetah y loh ingredienteh a mehclah
+BEGIN=COMENZAH
+r:Combine ingredients in bowl (.*)\/(.*)=Combina loh ingredienteh en er bol $1/$2
+Start mixing machine=Dale donde pone 'START' e inicia la mehcladora
+Mixing in progress...=Mehcla en proceso...
+Insert \nweed=Poneh \nmarihuana
+Insert \nmixer=Poneh \ningrediente
 
 ## HISTORIA ##
 Morning bud, come talk to me after you've got everything done in the RV.=Illo, termina lo de la caravana y ven a hablar conmigo anda, espabila.
@@ -428,6 +447,11 @@ It is up the stairs behind my restaurant! Go around back and you'll see.=¡Ehtá
 You've got a decent base of operations and a growing customer base. You'll be pulling in some proper cash now, but you'll need help to manage all your customers.=Ya tieneh una base de operacioneh sólida y unoh cuantoh clienteh. Ahora ehtaráh generando ingresoh considerableh, pero necesitaráh ayuda pa gestionah toh.
 Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>Benji Coleman</color> his name is, I think. He'll be the first dealer you can work with.=Eh hora de contratah un <color\=#4CB0FF>camello</color>. Hay un tipo... mm.. Creo que se llama <color\=#4CB0FF>Benji Coleman</color>. Será er primero con er que puedah trabajah.
 You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>Ludwig</color>. Focus on selling to them until one of them recommends you.=No lo podráh contratah hahta que uno de suh amigoh te recomiende. Benji es amigo de <color\=#4CB0FF>Peggy, Beth,</color> y <color\=#4CB0FF>Ludwig</color>. Concéntrate en venderleh hahta que arguno de elloh te recomiende.
+Can I come in?= ¿Puedo entrah?
+Who the hell are you? Get lost.=¿Quién coño ereh? Pirate.
+Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=Grasiah. Mi amigo Benji Coleman es un camello y podría ayudarte a moveh tu mercancía. Deberíah hablah con él.
+Thank you. You should go talk to Benji Coleman - they might be able to help you move your stuff.=Grasiah, deberíah hablah con Benji Coleman, quizáh te pueda ayudah a moveh tu mercancia.
+Thanks. Hey, my friend Benji Coleman is a dealer and can help you move your product. You should go speak to them.=Grasiah. Tengo un amigo que eh camello, se llama Benji Coleman y te puede ayudah a moveh tu produhto. Deberíah hablah con él.
 
 
 
@@ -538,6 +562,8 @@ r:"Reach 'friendly' relationship status with Chloe, Ludwig, or Beth"=Alcanza ceh
 r:"Unlock Chloe, Ludwig, or Beth as customers"=Consigue a Chloe, Ludwig o Beth como clientes.
 r:Behind Thompson Construction=Detráh de Thompson Construction
 r:"Alleyway behind Slop Shop"=Callejon detrás de Slop Shop
+r:"Talk to Benji Coleman in Motel Room #2"=Habla con Benji Coleman en el Moteh (Habitación 2)
+
 
 r:"^Deal for (.+)"=Entrega pendiente
 r:"^Deal for (.+)<color\=#c0c0c0ff> \(Begins in (\d+) hrs\)</color>$"=Entrega pendiente <color\=#c0c0c0ff>(En $2 h comienza)</color>
@@ -550,7 +576,7 @@ r:"^Deal for (.+)<color\=#FF5555FF> \(Expires in (\d+) min\)</color>$"=Entrega p
 r:(.*), Behind gas station=$1, Detráh de la gasolinera
 r:(.*), Blue house=$1, Casa azuh
 r:(.*), Behind pawn shop=$1, Detráh de la casa de empeño
-r:(.*), Basketball court=$1, Cancha de baloncesto
+r:(.*), Basketball court=$1, Cancha de baloncehto
 r:(.*), North waterfront=$1, Zona Cohtera del norte
 r:(.*), Behind Hyland Range=$1, Detráh de Hyland Range
 r:(.*), Next to barbershop=$1, al laoh de la barbería
@@ -561,6 +587,17 @@ r:(.*), Skatepark=$1, en el Skatepark
 r:(.*), Behind Thompson construction and demolition=$1, Detráh de Thompson Construction
 r:(.*), Next to Bud's Bar=$1, Al laoh del bar de Bud's
 r:(.*), Outside brown apartment block room #2=$1, Afuera del bloque de apartamentoh marrón, bajo n.º 2
+r:(.*), Alleyway behind Top Tattoo=$1, detráh de Top Tattoo
+r:(.*), Behind Taco Ticklers=$1, Detráh de Taco Ticklers
+
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) at the north waterfront for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará en la zona cohtera del norte. Pagará $4$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) behind Sauerkraut Supreme pizzeria for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará en la Pizzeria Sauerkraut Supreme. Pagará $4$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) behind Thompson construction and demolition for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará detráh de Thompson Construction. Pagará $4$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) at the basketball court for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará en la cancha de baloncehto. Pagará $4$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) behind Hyland gun range for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará detráh de Hyland Range. Pagará $4$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) in front of the motel for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará en frente der moteh. Pagará $4$.
+r:"(.+) has requested a delivery of ([0-9]+)x (.+) behind the shipping containers near Sauerkraut Supreme for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 ha solicitado una entrega, $2x de $3, estará en loh contenedoreh cerca de Sauerkraut Supreme. Pagará $4$.
+
 
 
 
@@ -595,10 +632,34 @@ Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=Visita un <col
 r:"^Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready."=Loh envíoh a domicilio tardan en completarse, dependiendo der tamaño der pedioh. Er proveedoh te mandará un <color\=#88CBFF>mensaje</color> cuando esté lihto.
 r:"^Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale."=Usa la app <color\=#88CBFF>Produhtoh</color> de tu teléfono pa veh loh productoh que hay a la venta.
 The purple area indicates the <color\=#88CBFF>approximate area</color> of the customer.=El área púrpura indica el <color\=#88CBFF>área aproximah</color> der cliente.
+r:Reach the rank of <color\=#88CBFF>Hoodlum V</color> to access this area.=Arcanza el rango <color\=#88CBFF>Timadoh V</color> pa entráh.
+Remember to list your new\n product for sale in the product\n manager app.=Recuerda lihtah tu nuevo\n produhto pa la venta en la\n app de Produhtos.
+You can now hire <color\=#88CBFF>Benji Coleman</color> as a dealer.=Ahora puedeh contratah a <color\=#88CBFF>Benji Coleman</color> como camello.
 
 
 
 ## NPCS ##
+What?=¿Qué?
+What?!=¿¡Qué!?
+Stop!=¡Para!
+Quit it!=¡Dehaloh!
+Hi dawg=Yeeh
+Yeah?=¿Si?
+Oof!=¡Uf!
+Huh?!=¿Eh?
+The hell?=¿Qué coño?
+Oh shit!=¡Mierda!
+Damn!=¡Perro zancheh, no!
+Goddamn!=¡Me cago en la puta!
+Yikes!=¡AYUDA!
+Get away!=¡Aléjate!
+What the hell?=¿Qué coño haceh?
+I'm good thanks=Ehtoy bien
+Crap!=¡Hijo de puta!
+Ouch!=¡No segarroh amego!
+What's your problem?=¿Cuál eh tu problema? Retrasaoh
+Holy shit!=¡Hostia, puta!
+Shit!=¡Hostia!
 SHIT!=JOPUTA!
 Very nice!=¡Mu bien!
 Awesome, thanks!=Ereh un maquina
@@ -780,6 +841,15 @@ TOO LONG!! Nevermind=¡Ya no quiero nah!
 Damn it fine. What time?=Jodeh. Va, ¿Que hora?
 You crazy? No thanks=No consumah mah
 Oh ok=Fooh
+Ok whatever. What time?=Si, lo que sea. ¿Hora?
+Nope - nevermind=Baja de la nube
+Arghh fine. What time?=Afuff. ¿Hora?
+Ok bro. What time?=Vale. ¿Qué hora?
+I don't think so. Nevermind=Te hah pasaoh con er presioh, shurra
+Not gonna happen. I'll get it somewhere else=Paso, lo consigo en otro sitio.
+I guess that's fine bro. When?=Emm, ta bien, supongo. ¿Cuando?
+This dealer is ready to be hired. Go to them and pay their signing free to recruit them.=Ehte camello tah lihto pa ceh contrataoh. Habla con él y pague su comisión de contratación pa reclutahlo.
+
 
 
 sr:"^(.+) has requested a delivery of ([0-9]+)x OG Kush (.+) for \$(\d{1,3}(?:,\d{3})*)\.$"=$1 quiere una entrega de $2x OG Kush. Estará $3. Pagará $4$.
@@ -858,6 +928,12 @@ Next to Bud's Bar=Junto al bar de Bud's
 next to Bud's bar=junto al bar de Bud's
 Outside brown apartment block room #2=Afuera del bloque de apartamentoh marrón, bajo n.º 2
 outside room #2 of the brown apartment block=afuera del bloque de apartamentoh marrón, bajo n.º 2
+Behind Crimson Canary=Detráh del Crimson Canary
+Alleyway behind Top Tattoo=Detráh de Top Tattoo
+alleyway behind Top Tattoo=detráh de Top Tattoo
+in the alleyway behind top tattoo=detráh de Top Tattoo
+Behind Taco Ticklers=Detráh de Taco Ticklers
+behind taco ticklers=detráh de Taco Ticklers
 
 
 ## DEALERS ##
@@ -884,6 +960,9 @@ Your drop is ready. Grab it on the north exterior wall of the arcade=Killo, reco
 Copy. I'll message you when it's ready in about 5 hours.=Recibioh. Ehtará lihto en unah 5h pichi.
 sr:"Your drop is ready. Grab it (.+)$"=Niño, lo tieneh <b>$1</b>.
 sr:"Hey, that drop is ready (.+)$"=Illo, lo tieneh <b>$1</b>.
+The drop is ready. You can find it behind the Crimson Canary=Ya táh lihto. Lo tieneh <b>detráh de Crimson Canary</b>
+We've been working together for a while now, and you've proven to be quite reliable.=Hemoh ehtaoh trabajando juntoh por un tiempo y me hah demostraoh ceh bastante confiable.
+If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.=Si necesitah pedih cantidadeh máh grandeh, me avisah y hacemoh una reunión en persona. ¿Vale pichi?.
 
 
 ## OBJETOS ##
@@ -920,7 +999,7 @@ Wooden Square Table=Mesa cuadráh de madera
 Metal Square Table=Mesa cuadráh de metal
 Floor Lamp=Lámpara de Pie
 TV=Televisor
-Pot Sprinkler=Ahpenzoh de agua
+Pot Sprinkler=Ahpensoh de agua
 Soil Pourer=Vertedoh de tierra
 Electric Plant Trimmers=Estijera eléhtrica
 Mixing Station=Mehcladora
@@ -1130,6 +1209,17 @@ sr:"Ok, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Vale. Noh vemo
 sr:"Ok, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Vale. Noh vemoh <b>$1</b> poh la mañana.
 sr:"Ok, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Vale. Noh vemoh <b>$1</b> poh la tarde.
 sr:"Ok, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Vale. Noh vemoh <b>$1</b> poh la noche.
+
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM."=Pichi, noh vemoh <b>$1</b> poh la madrugah.
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM."=Pichi, noh vemoh <b>$1</b> poh la mañana.
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM."=Pichi, noh vemoh <b>$1</b> poh la tarde.
+sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM."=Pichi, noh vemoh <b>$1</b> poh la noche.
+
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM\."=Geniah, noh vemoh <b>$1</b> poh la madrugah.
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Geniah, noh vemoh <b>$1</b> poh la mañana.
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Geniah, noh vemoh <b>$1</b> poh la tarde.
+sr:"Alright cool, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM\."=Geniah, noh vemoh <b>$1</b> poh la noche.
+
 
 r:"^(1:(\d{2}) AM)\sMonday*"=01:$2 AM Lunes
 r:"^(2:(\d{2}) AM)\sMonday*"=02:$2 AM Lunes
@@ -1348,6 +1438,14 @@ Unlocks at Peddler III=Se desbloquea en Camello III
 Unlocks at Peddler IV=Se desbloquea en Camello IV
 Unlocks at Peddler V=Se desbloquea en Camello V
 
+Hustler=Timadoh
+r:"^Hustler ([IVX]+)$"=Timadoh $1
+r:"^Unlocks at <color\=#2DB92D>Hustler ([IVX]+)</color>$"=<size\=12>Requisito: <color\=#2DB92D>Timadoh $1</color></size>
+Unlocks at Hustler I=Se desbloquea en Timadoh I
+Unlocks at Hustler II=Se desbloquea en Timadoh II
+Unlocks at Hustler III=Se desbloquea en Timadoh III
+Unlocks at Hustler IV=Se desbloquea en Timadoh IV
+Unlocks at Hustler V=Se desbloquea en Timadoh V
 
 ## CALIDADES ##
 Standard Marijuana=Marihuana Estandah
